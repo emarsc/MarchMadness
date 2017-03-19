@@ -1,0 +1,30 @@
+Jacksonville,-8
+San Jose State,5
+Utah Valley,-3
+Eastern Washington,-5
+Sacramento State,11
+Wyoming,-12
+Weber State,2
+Texas A&M,-22
+Air Force,12
+South Alabama,13
+Northern Colorado,3
+Arkansas-Pine Bluff,22
+UC-Riverside,18
+Oral Roberts,4
+South Dakota,-6
+IPFW,-4
+Western Illinois,14
+North Dakota State,24
+Nebraska-Omaha,-9
+IUPUI,4
+South Dakota State,9
+South Dakota,-5
+Oral Roberts,24
+IPFW,3
+North Dakota State,-20
+Western Illinois,6
+IUPUI,-11
+Nebraska-Omaha,-1
+South Dakota State,-24
+South Dakota State,-10

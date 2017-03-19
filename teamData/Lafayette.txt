@@ -1,0 +1,30 @@
+Villanova,-40
+Saint Peter's,4
+NJIT,1
+Cornell,-7
+Princeton,-16
+Drexel,-4
+St. Francis (NY),2
+Pennsylvania,-29
+Sacred Heart,-24
+Moravian,37
+Saint Joseph's,-29
+Colgate,-10
+Loyola (MD),9
+Army,5
+Boston University,-16
+Holy Cross,-17
+Navy,-37
+American,-14
+Lehigh,-7
+Bucknell,-23
+Loyola (MD),-8
+Army,-7
+Boston University,-17
+Holy Cross,10
+Navy,-8
+American,13
+Lehigh,-26
+Bucknell,-30
+Colgate,4
+Loyola (MD),-3

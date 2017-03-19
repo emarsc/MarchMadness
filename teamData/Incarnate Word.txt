@@ -1,0 +1,29 @@
+Texas,-5
+St. Edward's,3
+Howard Payne,30
+Rice,-8
+Texas Tech,-21
+Long Island University,11
+Texas Lutheran,7
+Texas A&M-International,15
+Nevada-Las Vegas,-28
+Loyola Marymount,-1
+Memphis,-24
+Nicholls State,-10
+Southeastern Louisiana,-11
+Northwestern State,4
+New Orleans,-15
+Lamar,-15
+Houston Baptist,5
+Stephen F. Austin,2
+Abilene Christian,3
+Central Arkansas,1
+McNeese State,-8
+Houston Baptist,-14
+Stephen F. Austin,-8
+Sam Houston State,-9
+Texas A&M-Corpus Christi,-16
+Sam Houston State,16
+Nicholls State,-9
+Abilene Christian,14
+Texas A&M-Corpus Christi,-17

@@ -1,0 +1,33 @@
+Arkansas-Pine Bluff,20
+Furman,-10
+Troy,23
+Kansas,-20
+George Washington,7
+Saint Mary's (CA),-13
+Alabama A&M,30
+Auburn,-4
+Stephen F. Austin,11
+Memphis,-7
+Southern,1
+Texas,-36
+Miles,32
+Middle Tennessee,-11
+North Texas,2
+Rice,7
+Western Kentucky,18
+Marshall,16
+Florida Atlantic,2
+Florida International,-9
+Louisiana Tech,9
+Southern Mississippi,44
+Texas-El Paso,-4
+Texas-San Antonio,-15
+Charlotte,13
+Old Dominion,-21
+Marshall,-15
+Western Kentucky,-12
+Middle Tennessee,-2
+Florida Atlantic,20
+Florida International,-12
+Charlotte,1
+Louisiana Tech,-12

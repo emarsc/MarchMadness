@@ -1,0 +1,31 @@
+New Mexico,-11
+Utah Valley,-9
+Utah State,-34
+Eastern Kentucky,-9
+NJIT,-4
+Texas Tech,-33
+Lamar,17
+Cal State Northridge,-3
+Wisconsin,-34
+Montana Tech,30
+Boise State,-23
+Brigham Young,-26
+Montana,-12
+Montana State,-17
+Weber State,-12
+Eastern Washington,-7
+Idaho,-15
+Northern Colorado,4
+North Dakota,-25
+Weber State,-22
+Northern Arizona,1
+Southern Utah,26
+Portland State,-5
+Sacramento State,-12
+North Dakota,-16
+Northern Colorado,-6
+Idaho,-8
+Eastern Washington,-12
+Montana State,-11
+Montana,-19
+Sacramento State,-15

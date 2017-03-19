@@ -1,0 +1,32 @@
+Miami (FL),-49
+Hiwassee,40
+North Carolina Central,-8
+Marshall,-35
+Ohio State,-28
+Jackson State,11
+Marquette,-46
+Appalachian State,5
+West Virginia,-53
+North Carolina-Asheville,-2
+High Point,5
+College of Charleston,-18
+Mars Hill,16
+Chattanooga,-16
+Samford,-5
+North Carolina-Greensboro,-19
+Virginia Military Institute,-1
+East Tennessee State,-23
+Citadel,5
+Mercer,-18
+Furman,-48
+Wofford,6
+Mercer,-15
+Samford,-19
+Chattanooga,-12
+North Carolina-Greensboro,-8
+Furman,-12
+Wofford,-28
+Citadel,4
+East Tennessee State,-16
+Virginia Military Institute,13
+Citadel,-6

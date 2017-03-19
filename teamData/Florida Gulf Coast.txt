@@ -1,0 +1,33 @@
+Florida,-21
+Texas-Arlington,13
+Baylor,-9
+Michigan State,-1
+Binghamton,16
+Long Beach State,1
+Ave Maria,60
+Georgia Southern,3
+Siena,4
+Florida International,19
+Georgia Southern,-13
+La Salle,-4
+Louisiana Tech,1
+Florida National University,57
+Florida Atlantic,13
+Florida Tech,52
+Stetson,1
+Kennesaw State,3
+Lipscomb,4
+South Carolina Upstate,-2
+NJIT,13
+North Florida,4
+Jacksonville,22
+North Florida,15
+Jacksonville,10
+Lipscomb,-5
+Kennesaw State,12
+NJIT,7
+South Carolina Upstate,8
+Stetson,10
+Stetson,30
+Kennesaw State,12
+North Florida,16

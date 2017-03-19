@@ -1,0 +1,30 @@
+Furman,2
+North Carolina-Greensboro,-19
+William & Mary,-30
+Virginia Military Institute,10
+Boise State,-26
+Citadel,-14
+Johnson & Wales (NC),44
+Tennessee,-40
+South Carolina Upstate,-28
+Coastal Georgia,42
+East Carolina,-20
+Liberty,-16
+Campbell,-11
+Longwood,-3
+Radford,-13
+Winthrop,-23
+High Point,-33
+Charleston Southern,-21
+Gardner-Webb,-17
+North Carolina-Asheville,-26
+Longwood,9
+Liberty,-20
+Charleston Southern,-6
+High Point,-10
+Campbell,-13
+North Carolina-Asheville,-41
+Gardner-Webb,-28
+Radford,-2
+Winthrop,-37
+Campbell,-19

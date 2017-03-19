@@ -1,0 +1,32 @@
+Nicholls State,24
+Mississippi State,25
+College of Charleston,20
+Villanova,-10
+Seattle,16
+Stetson,36
+Massachusetts,3
+Maryland-Eastern Shore,18
+Pennsylvania,-9
+George Washington,-15
+Miami (OH),7
+Bethune-Cookman,30
+Tulane,13
+Temple,24
+East Carolina,3
+Connecticut,-15
+Houston,7
+South Florida,22
+Memphis,-5
+Southern Methodist,-5
+Tulsa,-11
+Houston,-18
+Memphis,15
+Cincinnati,-10
+Connecticut,-3
+Tulsa,18
+East Carolina,3
+Temple,2
+Cincinnati,4
+South Florida,3
+Memphis,30
+Southern Methodist,-11

@@ -1,0 +1,33 @@
+Southern Methodist,-28
+Pittsburgh,-19
+Eastern Michigan,-8
+Howard,16
+Toccoa Falls,50
+Georgia,-18
+Coker,48
+Virginia Military Institute,18
+Hampton,6
+Furman,-3
+Warren Wilson,50
+Nebraska,8
+Kansas State,-13
+High Point,-7
+North Carolina-Asheville,-5
+Radford,11
+Charleston Southern,4
+Campbell,-16
+Longwood,6
+Liberty,-3
+Presbyterian,17
+Winthrop,-2
+Charleston Southern,9
+Campbell,12
+Longwood,26
+Liberty,-5
+Winthrop,-6
+Radford,11
+Presbyterian,28
+North Carolina-Asheville,5
+High Point,2
+High Point,36
+Winthrop,-3

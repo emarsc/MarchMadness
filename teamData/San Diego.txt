@@ -1,0 +1,31 @@
+San Diego State,-10
+Samford,-18
+UCLA,-20
+Nicholls State,9
+Bethune-Cookman,5
+New Mexico State,-5
+Southern California,-21
+Northern Arizona,15
+Cal State Fullerton,7
+UC-Santa Barbara,9
+Bethesda University (CA),16
+North Texas,1
+San Francisco,-6
+Saint Mary's (CA),-12
+Pacific,-3
+Pepperdine,8
+Santa Clara,-2
+Brigham Young,13
+Loyola Marymount,7
+San Francisco,-17
+Gonzaga,-36
+Portland,16
+Loyola Marymount,-19
+Saint Mary's (CA),-44
+Pacific,-3
+Pepperdine,-5
+Brigham Young,-12
+Santa Clara,2
+Gonzaga,-58
+Portland,3
+Portland,-5

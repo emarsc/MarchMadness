@@ -1,0 +1,30 @@
+Seton Hall,-21
+Fairleigh Dickinson-Florham,48
+Fordham,-13
+Lipscomb,18
+Saint Peter's,-26
+Army,-19
+Ohio State,-8
+Iona,-17
+Towson,-3
+Rutgers,-13
+Cincinnati,-51
+Saint Francis (PA),12
+Robert Morris,4
+Wagner,1
+Bryant,3
+Mount St. Mary's,-7
+Central Connecticut State,12
+St. Francis (NY),17
+Long Island University,17
+St. Francis (NY),6
+Bryant,-1
+Sacred Heart,-4
+Wagner,-9
+Central Connecticut State,17
+Long Island University,-6
+Sacred Heart,-10
+Mount St. Mary's,-5
+Robert Morris,-1
+Saint Francis (PA),-6
+Wagner,-2

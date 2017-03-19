@@ -1,0 +1,30 @@
+Texas Tech,-26
+New Mexico,-16
+Dallas Christian,44
+Ecclesia,36
+Marquette,-22
+Rice,-13
+Saint Peter's,15
+Indiana,-42
+Arlington Baptist,26
+Northwestern,-9
+Sam Houston State,14
+Stephen F. Austin,-10
+Southeastern Louisiana,7
+McNeese State,11
+Central Arkansas,-11
+Incarnate Word,-5
+New Orleans,-8
+Southeastern Louisiana,-12
+Nicholls State,3
+Texas A&M-Corpus Christi,-11
+Incarnate Word,14
+Northwestern State,17
+Lamar,7
+Sam Houston State,11
+Hillsdale,14
+McNeese State,2
+Lamar,7
+Texas A&M-Corpus Christi,14
+Abilene Christian,9
+Sam Houston State,-4

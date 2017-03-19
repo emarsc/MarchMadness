@@ -1,0 +1,33 @@
+Centenary (LA),33
+Texas,-21
+Colorado,-19
+Seattle,-6
+Bryant,-7
+Stephen F. Austin,5
+Chattanooga,-27
+Jacksonville State,5
+Blue Mountain College,31
+Northwestern State,-4
+Coppin State,12
+Virginia Commonwealth,-13
+Grambling,36
+Arkansas-Little Rock,-4
+Arkansas State,-31
+Louisiana-Lafayette,-9
+Georgia State,-8
+Georgia Southern,-2
+Texas-Arlington,-16
+Texas State,-6
+Arkansas State,-10
+Arkansas-Little Rock,16
+Georgia Southern,-14
+Georgia State,-14
+South Alabama,-3
+Troy,-1
+Louisiana-Lafayette,-1
+Appalachian State,11
+Coastal Carolina,-5
+Texas-Arlington,-15
+Texas State,-5
+Arkansas State,3
+Texas State,-12

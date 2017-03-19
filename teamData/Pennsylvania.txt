@@ -1,0 +1,28 @@
+Robert Morris,17
+Miami (FL),-12
+Central Connecticut State,22
+Navy,-2
+Villanova,-25
+Temple,-8
+Lafayette,29
+George Mason,-19
+Central Florida,9
+Drexel,8
+Fairfield,6
+Princeton,-9
+Yale,-8
+Brown,-12
+Saint Joseph's,-7
+La Salle,3
+Harvard,-10
+Dartmouth,-3
+Princeton,-15
+Columbia,8
+Cornell,19
+Brown,24
+Yale,16
+Cornell,3
+Columbia,-3
+Dartmouth,-2
+Harvard,3
+Princeton,-8

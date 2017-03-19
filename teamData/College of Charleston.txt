@@ -1,0 +1,34 @@
+Citadel,13
+Coastal Carolina,7
+Boise State,13
+Central Florida,-20
+Wake Forest,-17
+Villanova,-16
+South Carolina Upstate,12
+Navy,6
+Davidson,15
+Anderson (SC),14
+East Carolina,18
+Louisiana State,-10
+Western Carolina,18
+Elon,12
+Delaware,9
+Towson,5
+Hofstra,6
+James Madison,2
+William & Mary,10
+North Carolina-Wilmington,-6
+James Madison,13
+Towson,-6
+Drexel,14
+North Carolina-Wilmington,1
+Elon,13
+Northeastern,-1
+William & Mary,-10
+Hofstra,4
+Northeastern,14
+Delaware,13
+Drexel,13
+James Madison,5
+Towson,8
+North Carolina-Wilmington,-9

@@ -1,0 +1,33 @@
+Drexel,13
+South Carolina,-1
+Syracuse,-21
+Cornell,15
+South Carolina State,24
+Holy Cross,3
+Quinnipiac,19
+Canisius,6
+Wagner,10
+Army,10
+Memphis,3
+Princeton,6
+North Carolina,-28
+Rider,-3
+Saint Peter's,-10
+Iona,18
+Marist,7
+Niagara,7
+Canisius,4
+Manhattan,11
+Fairfield,42
+Quinnipiac,19
+Marist,12
+Saint Peter's,1
+Rider,5
+Manhattan,4
+Siena,20
+Niagara,18
+Fairfield,20
+Siena,4
+Iona,6
+Niagara,25
+Siena,-4

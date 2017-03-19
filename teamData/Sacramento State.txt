@@ -1,0 +1,31 @@
+Colorado,-37
+Nebraska,-22
+Antelope Valley,22
+UC-Davis,-9
+San Francisco,-18
+Denver,-11
+Pacific,-16
+UC-Merced,27
+South Dakota,-16
+Abilene Christian,2
+Washington State,-8
+Northern Colorado,-16
+North Dakota,-8
+Portland State,-7
+Southern Utah,5
+Northern Arizona,12
+Montana State,-9
+Montana,9
+Portland State,3
+Eastern Washington,-5
+Idaho,-14
+Weber State,3
+Idaho State,12
+Montana,2
+Montana State,-3
+Northern Arizona,-4
+Southern Utah,10
+North Dakota,4
+Northern Colorado,-3
+Idaho State,15
+Eastern Washington,-19

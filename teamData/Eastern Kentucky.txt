@@ -1,0 +1,31 @@
+IUPUI,10
+North Carolina-Wilmington,-9
+Auburn,-21
+Texas Tech,-19
+Idaho State,9
+Georgia State,-17
+Berea,28
+Western Kentucky,19
+Marshall,9
+Jacksonville,4
+Ball State,-5
+Louisville,-31
+Norfolk State,-7
+Manhattan,-27
+Virginia Wise,19
+Southeast Missouri State,-33
+Southern Illinois-Edwardsville,17
+Eastern Illinois,-14
+Tennessee State,-14
+Belmont,-13
+Murray State,-7
+Morehead State,-26
+Jacksonville State,5
+Tennessee Tech,13
+Austin Peay,-2
+Tennessee-Martin,-17
+Morehead State,-5
+Belmont,-4
+Tennessee State,-2
+Jacksonville State,3
+Tennessee Tech,4

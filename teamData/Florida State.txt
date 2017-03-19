@@ -1,0 +1,33 @@
+Charleston Southern,21
+Iona,21
+Winthrop,14
+Detroit Mercy,29
+Temple,-3
+Illinois,11
+Minnesota,8
+George Washington,19
+Southern Mississippi,49
+Nicholls State,55
+Florida,5
+Manhattan,16
+Samford,8
+Wake Forest,16
+Virginia,2
+Virginia Tech,15
+Duke,16
+North Carolina,-13
+Notre Dame,3
+Louisville,5
+Georgia Tech,-22
+Syracuse,-10
+Miami (FL),18
+Clemson,48
+North Carolina State,24
+Notre Dame,-12
+Pittsburgh,-14
+Boston College,32
+Clemson,2
+Duke,-5
+Miami (FL),9
+Virginia Tech,6
+Notre Dame,-4

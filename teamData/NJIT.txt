@@ -1,0 +1,31 @@
+Sarah Lawrence,62
+Utah State,-9
+Lafayette,-1
+Colgate,6
+Georgia State,-21
+Idaho State,4
+Purdue,-11
+Saint Francis (PA),13
+Massachusetts-Lowell,1
+Minnesota,-6
+Kent State,-16
+Iona,-14
+Temple,-5
+Dean,42
+Stony Brook,3
+Brown,2
+South Carolina Upstate,-10
+Jacksonville,-1
+North Florida,6
+Stetson,-6
+Florida Gulf Coast,-13
+Kennesaw State,-6
+Lipscomb,-4
+Kennesaw State,-1
+Lipscomb,-24
+North Florida,-22
+Jacksonville,-3
+Florida Gulf Coast,-7
+Stetson,4
+South Carolina Upstate,-1
+Lipscomb,-31

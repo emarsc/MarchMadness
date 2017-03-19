@@ -1,0 +1,34 @@
+St. Thomas (TX),18
+Alabama State,36
+Jacksonville State,19
+Illinois State,9
+Nevada-Las Vegas,4
+Washington,13
+Washington,15
+Arkansas State,23
+Southern Methodist,-15
+Wofford,9
+Texas Southern,37
+Bradley,32
+Kansas,-6
+Oklahoma,3
+West Virginia,-12
+Texas,3
+Iowa State,7
+Texas Tech,-6
+Baylor,-9
+Oklahoma State,-13
+Auburn,-8
+Kansas State,6
+Texas,15
+Texas Tech,1
+Baylor,-18
+Oklahoma State,-3
+Iowa State,-13
+Kansas,-19
+West Virginia,-1
+Kansas State,-1
+Oklahoma,-5
+Oklahoma,19
+Kansas,3
+Iowa State,-21

@@ -1,0 +1,32 @@
+John Jay,38
+Loyola (MD),4
+Northeastern,4
+Boston University,-17
+Maine,5
+Massachusetts-Lowell,4
+Hartford,7
+Incarnate Word,-11
+North Carolina Central,-23
+St. John's (NY),1
+Minnesota,-10
+Dartmouth,-14
+Niagara,-9
+Mount St. Mary's,-2
+Bryant,11
+Robert Morris,11
+Saint Francis (PA),13
+Central Connecticut State,11
+St. Francis (NY),5
+Wagner,7
+Fairleigh Dickinson,-17
+Sacred Heart,3
+Central Connecticut State,-9
+Robert Morris,-4
+Saint Francis (PA),-2
+Bryant,3
+Fairleigh Dickinson,6
+St. Francis (NY),37
+Sacred Heart,1
+Mount St. Mary's,4
+Wagner,4
+Robert Morris,-1

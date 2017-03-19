@@ -1,0 +1,33 @@
+Bethune-Cookman,47
+Binghamton,16
+Minnesota,-6
+Michigan State,-11
+Virginia Commonwealth,-6
+Old Dominion,-8
+Delaware State,-7
+Tulane,20
+Cal State Northridge,6
+Fordham,28
+Long Island University,-1
+Penn State,-16
+Syracuse,33
+Butler,3
+DePaul,6
+Creighton,-13
+Xavier,-15
+Georgetown,-28
+Villanova,-13
+DePaul,10
+Seton Hall,-13
+Providence,5
+Xavier,-5
+Marquette,14
+Villanova,-13
+Seton Hall,8
+Butler,-24
+Marquette,-22
+Georgetown,6
+Creighton,-14
+Providence,-11
+Georgetown,1
+Villanova,-41

@@ -1,0 +1,31 @@
+Tougaloo,5
+Louisiana State,-17
+Union (TN),16
+Alabama A&M,8
+South Alabama,-23
+Jackson State,-11
+Florida State,-49
+Tulane,-7
+Mississippi State,-42
+San Diego State,-15
+Stephen F. Austin,-3
+Hawaii,-14
+Louisiana Tech,-24
+Texas-San Antonio,18
+Texas-El Paso,8
+Old Dominion,-4
+Charlotte,-16
+North Texas,10
+Rice,-3
+Middle Tennessee,-16
+Alabama-Birmingham,-44
+Marshall,15
+Western Kentucky,-17
+Texas-San Antonio,-6
+Texas-El Paso,-30
+Florida International,3
+Florida Atlantic,-12
+Rice,-1
+North Texas,23
+Louisiana Tech,-28
+Rice,-11

@@ -1,0 +1,33 @@
+Savannah State,42
+Mount St. Mary's,18
+Citadel,67
+Indiana State,2
+Miami (FL),17
+Gonzaga,-2
+Cincinnati,-1
+Nebraska-Omaha,44
+Iowa,-14
+Drake,17
+Mississippi Valley State,28
+Texas Tech,7
+Baylor,-2
+Texas,9
+Oklahoma State,10
+Texas Christian,-7
+Kansas,-4
+Oklahoma,5
+Kansas State,5
+Vanderbilt,-6
+West Virginia,-13
+Kansas,3
+Texas,-2
+Oklahoma,16
+Kansas State,8
+Texas Christian,13
+Texas Tech,2
+Baylor,3
+Oklahoma State,3
+West Virginia,-11
+Oklahoma State,9
+Texas Christian,21
+West Virginia,6

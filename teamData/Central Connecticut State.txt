@@ -1,0 +1,29 @@
+Hartford,15
+Seton Hall,-24
+Binghamton,-2
+Pennsylvania,-22
+Maine,21
+Brown,-17
+Rutgers,-42
+Duquesne,-3
+Yale,-31
+Massachusetts-Lowell,-17
+Fordham,-23
+Wagner,-25
+St. Francis (NY),-9
+Sacred Heart,-2
+Mount St. Mary's,-9
+Long Island University,-11
+Fairleigh Dickinson,-12
+Robert Morris,-7
+Saint Francis (PA),1
+Bryant,-11
+Long Island University,9
+Wagner,-10
+Mount St. Mary's,2
+Fairleigh Dickinson,-17
+Sacred Heart,-15
+Saint Francis (PA),-9
+Robert Morris,-10
+St. Francis (NY),9
+Bryant,-14

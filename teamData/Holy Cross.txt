@@ -1,0 +1,32 @@
+South Carolina,-32
+Syracuse,-44
+Massachusetts,-8
+Harvard,11
+South Carolina State,16
+Monmouth,-3
+Albany (NY),6
+New Hampshire,-3
+Maine,-2
+Quinnipiac,18
+Rhode Island,-11
+Sacred Heart,5
+Marist,9
+Boston University,-6
+Navy,1
+Colgate,6
+Bucknell,-19
+Lafayette,17
+Lehigh,-17
+Army,9
+American,8
+Loyola (MD),-3
+Navy,-13
+Colgate,6
+Bucknell,-14
+Lafayette,-10
+Lehigh,16
+Army,-5
+American,15
+Loyola (MD),1
+Boston University,-3
+Navy,-7

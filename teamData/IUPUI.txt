@@ -1,0 +1,32 @@
+Eastern Kentucky,-10
+Michigan,-12
+Howard,22
+Eastern Michigan,12
+Marquette,-25
+Southern Illinois-Edwardsville,-3
+Illinois State,-14
+Ball State,11
+Illinois,-8
+Miami (OH),-3
+Urbana,42
+Southern Utah,20
+Northwestern,-22
+Marian,21
+Western Illinois,18
+North Dakota State,-4
+South Dakota,-11
+Nebraska-Omaha,-8
+Oral Roberts,6
+South Dakota State,2
+Denver,-4
+IPFW,-30
+Western Illinois,-9
+North Dakota State,5
+Nebraska-Omaha,11
+Oral Roberts,-6
+South Dakota State,-14
+Denver,11
+IPFW,1
+South Dakota,-7
+North Dakota State,19
+Nebraska-Omaha,-28

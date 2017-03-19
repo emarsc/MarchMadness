@@ -1,0 +1,32 @@
+La Salle,5
+New Hampshire,-5
+Massachusetts,-3
+Manhattan,21
+Florida State,3
+West Virginia,4
+Saint Joseph's,6
+Pennsylvania,8
+George Washington,-3
+DePaul,9
+Villanova,-21
+NJIT,5
+Yale,6
+Cincinnati,-6
+Central Florida,-24
+Southern Methodist,-14
+East Carolina,19
+Connecticut,-14
+Tulsa,-2
+Cincinnati,-7
+Memphis,11
+Houston,-13
+Tulane,8
+South Florida,9
+Southern Methodist,-16
+Memphis,12
+East Carolina,-14
+Connecticut,-1
+Central Florida,-2
+Tulane,10
+South Florida,12
+East Carolina,-11

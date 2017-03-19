@@ -1,0 +1,34 @@
+Bryant,25
+Seattle,43
+Loyola (MD),35
+Colorado,6
+Northwestern,4
+Chicago State,31
+Iowa,14
+North Carolina A&T,54
+IPFW,15
+Villanova,-8
+Purdue,-5
+Colgate,15
+Saint Peter's,8
+Pittsburgh,1
+Louisville,7
+Clemson,5
+Miami (FL),5
+Virginia Tech,5
+Florida State,-3
+Syracuse,18
+Virginia,-17
+Georgia Tech,-2
+Duke,-10
+North Carolina,-7
+Wake Forest,7
+Florida State,12
+Boston College,8
+North Carolina State,9
+Georgia Tech,4
+Boston College,16
+Louisville,-7
+Virginia,13
+Florida State,4
+Duke,-6

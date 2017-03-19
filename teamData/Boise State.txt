@@ -1,0 +1,30 @@
+Northwest University,39
+College of Charleston,-13
+Mississippi State,-12
+Western Michigan,21
+Presbyterian,26
+Oregon,-5
+Southern Methodist,9
+Evansville,-5
+Loyola Marymount,1
+Idaho State,23
+Cal State Northridge,17
+Utah State,3
+Colorado State,1
+Nevada-Las Vegas,18
+San Diego State,12
+Fresno State,-9
+New Mexico,-11
+San Jose State,10
+Nevada,-19
+Wyoming,15
+Colorado State,3
+Utah State,2
+Air Force,10
+New Mexico,-5
+Wyoming,4
+Nevada,-8
+San Jose State,7
+Fresno State,-7
+Air Force,28
+San Diego State,-19

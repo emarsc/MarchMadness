@@ -1,0 +1,33 @@
+Minnesota,-12
+Montana State,-1
+Panhandle State,70
+Delaware State,1
+James Madison,12
+Texas Southern,11
+Nicholls State,32
+McNeese State,20
+Loyola (LA),34
+Louisiana Tech,8
+Georgia,-13
+New Orleans,5
+Pepperdine,26
+Arkansas State,-3
+Arkansas-Little Rock,17
+Louisiana-Monroe,9
+Georgia Southern,-5
+Georgia State,-15
+Texas State,6
+Texas-Arlington,-37
+Arkansas-Little Rock,6
+Arkansas State,-19
+Georgia State,-3
+Georgia Southern,-4
+Troy,-12
+South Alabama,26
+Louisiana-Monroe,1
+Coastal Carolina,2
+Appalachian State,15
+Texas State,10
+Texas-Arlington,2
+Arkansas-Little Rock,7
+Georgia State,-10

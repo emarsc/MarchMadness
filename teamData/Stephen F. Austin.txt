@@ -1,0 +1,32 @@
+Kentucky,-23
+Longwood,6
+Northeastern State,5
+Louisiana-Monroe,-5
+Arkansas,-16
+Centenary (LA),31
+Alabama-Birmingham,-11
+Rice,-7
+Louisiana State-Shreveport,20
+Tulsa,-23
+Southern Mississippi,3
+Utah,-8
+Houston Baptist,10
+McNeese State,-15
+Abilene Christian,-9
+Texas A&M-Corpus Christi,33
+Nicholls State,20
+Texas A&M-Corpus Christi,3
+Incarnate Word,-2
+Central Arkansas,2
+New Orleans,10
+Sam Houston State,-9
+Northwestern State,2
+Incarnate Word,8
+Lamar,9
+Southeastern Louisiana,8
+New Orleans,-17
+Central Arkansas,5
+Northwestern State,-5
+Sam Houston State,8
+Lamar,16
+Texas A&M-Corpus Christi,-8

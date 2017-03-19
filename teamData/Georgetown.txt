@@ -1,0 +1,32 @@
+South Carolina Upstate,45
+Maryland,-1
+Arkansas State,-6
+Oregon,4
+Wisconsin,-16
+Oklahoma State,-27
+Howard,13
+Coppin State,52
+Elon,3
+La Salle,15
+Syracuse,7
+North Carolina-Greensboro,22
+Marquette,-10
+Xavier,-5
+Providence,-6
+Butler,-9
+St. John's (NY),28
+Connecticut,3
+Providence,-18
+Xavier,-11
+Creighton,20
+Butler,4
+DePaul,3
+Seton Hall,-2
+Villanova,-11
+Marquette,18
+Creighton,-17
+DePaul,-2
+St. John's (NY),-6
+Seton Hall,-3
+Villanova,-26
+St. John's (NY),-1

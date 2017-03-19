@@ -1,0 +1,32 @@
+Evansville,31
+William & Mary,33
+Long Beach State,32
+Old Dominion,6
+Wichita State,10
+Baylor,-3
+Purdue,7
+Grand Canyon,9
+Southern Illinois,23
+Texas Southern,31
+Eastern Kentucky,31
+Kentucky,3
+Virginia,-8
+Indiana,15
+Notre Dame,-7
+Georgia Tech,15
+Pittsburgh,5
+Duke,9
+Clemson,32
+Florida State,-5
+Pittsburgh,55
+North Carolina State,25
+Boston College,23
+Virginia,-16
+Miami (FL),5
+Syracuse,4
+Virginia Tech,4
+North Carolina,-11
+Syracuse,20
+Wake Forest,-7
+Notre Dame,7
+Duke,-4

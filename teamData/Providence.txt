@@ -1,0 +1,32 @@
+Vermont,22
+Ohio State,-5
+Grambling,17
+St. Francis (NY),16
+Memphis,9
+Virginia,-11
+New Hampshire,14
+Rhode Island,3
+Brown,38
+Massachusetts,6
+Wagner,22
+Maine,20
+Boston College,-12
+Xavier,-26
+Butler,-17
+Georgetown,6
+Creighton,-14
+DePaul,-1
+Seton Hall,4
+Georgetown,18
+Villanova,-10
+St. John's (NY),-5
+Marquette,1
+Villanova,-9
+Seton Hall,-2
+Butler,6
+Xavier,12
+Creighton,2
+Marquette,4
+DePaul,9
+St. John's (NY),11
+Creighton,-12

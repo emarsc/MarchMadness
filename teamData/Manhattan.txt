@@ -1,0 +1,32 @@
+Bucknell,-12
+Winthrop,-13
+Hofstra,12
+Temple,-21
+Detroit Mercy,3
+West Virginia,-47
+Canisius,-1
+Saint Peter's,-14
+Morgan State,-3
+Fordham,7
+Florida State,-16
+St. Francis (NY),7
+Eastern Kentucky,27
+Marist,-2
+Fairfield,-18
+Quinnipiac,-9
+Niagara,9
+Rider,3
+Iona,-15
+Monmouth,-11
+Siena,-13
+Niagara,1
+Canisius,-14
+Fairfield,-29
+Marist,1
+Monmouth,-4
+Saint Peter's,-19
+Siena,-23
+Quinnipiac,21
+Rider,-11
+Iona,-21
+Rider,-1

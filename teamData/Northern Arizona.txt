@@ -1,0 +1,32 @@
+Santa Clara,-3
+Tennessee State,-4
+UC-Davis,-13
+Benedictine (AZ),28
+Washington,-34
+Nevada-Las Vegas,-39
+Alabama State,14
+Jacksonville State,-13
+San Diego,-15
+Cal State Bakersfield,-34
+Arkansas-Little Rock,-5
+Texas-El Paso,2
+Illinois-Chicago,-10
+Southern Utah,-13
+North Dakota,-5
+Northern Colorado,-4
+Sacramento State,-12
+Portland State,7
+Eastern Washington,-22
+Idaho,-16
+Northern Colorado,13
+North Dakota,1
+Idaho State,-1
+Weber State,-6
+Montana State,6
+Montana,-17
+Southern Utah,-16
+Sacramento State,4
+Portland State,-12
+Idaho,-2
+Eastern Washington,15
+Portland State,-13

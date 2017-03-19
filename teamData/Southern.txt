@@ -1,0 +1,33 @@
+Ohio,-10
+Georgia Tech,-15
+Sam Houston State,-8
+Tennessee Tech,12
+Paul Quinn,12
+Florida A&M,12
+Tulane,-9
+Loyola (LA),-5
+Ecclesia,36
+Baylor,-30
+Alabama-Birmingham,-1
+Nebraska,-5
+Southeastern Louisiana,-11
+Prairie View,2
+Texas Southern,-8
+Grambling,8
+Jackson State,-4
+Arkansas-Pine Bluff,1
+Mississippi Valley State,6
+Alabama A&M,1
+Alabama State,-14
+Alcorn State,-10
+Grambling,1
+Jackson State,13
+Arkansas-Pine Bluff,-7
+Mississippi Valley State,11
+Alabama A&M,13
+Alabama State,6
+Alcorn State,-1
+Prairie View,-6
+Texas Southern,-13
+Jackson State,6
+Alcorn State,-22

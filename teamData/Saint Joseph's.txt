@@ -1,0 +1,31 @@
+Toledo,1
+Columbia,20
+Loyola (IL),14
+Mississippi,-13
+North Carolina State,-10
+Temple,-6
+Villanova,-31
+Drexel,1
+Princeton,8
+Illinois State,-9
+Lafayette,29
+George Washington,5
+Rhode Island,-30
+Fordham,15
+George Mason,-8
+Richmond,-4
+Massachusetts,-5
+Pennsylvania,7
+St. Bonaventure,-4
+La Salle,1
+Davidson,-15
+Fordham,-3
+Dayton,-7
+Massachusetts,-11
+Virginia Commonwealth,-10
+La Salle,-15
+St. Bonaventure,-6
+Saint Louis,-1
+Rhode Island,-19
+Duquesne,3
+Massachusetts,-7

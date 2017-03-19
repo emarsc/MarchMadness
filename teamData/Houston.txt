@@ -1,0 +1,32 @@
+Morgan State,41
+Angelo State,12
+George Mason,37
+South Dakota,27
+Vermont,1
+Cornell,30
+Louisiana State,-19
+Prairie View,44
+Arkansas,-12
+Rhode Island,5
+Texas-Rio Grande Valley,25
+Liberty,23
+Harvard,-1
+Connecticut,16
+South Florida,14
+Tulsa,3
+Cincinnati,-9
+East Carolina,16
+Central Florida,-7
+Memphis,-3
+Southern Methodist,-21
+Tulane,14
+Temple,13
+Central Florida,18
+Tulane,29
+Tulsa,9
+Southern Methodist,-10
+Connecticut,5
+Memphis,1
+Cincinnati,-18
+East Carolina,22
+Connecticut,-9

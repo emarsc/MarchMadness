@@ -1,0 +1,34 @@
+Oklahoma State,-37
+Bridgewater (VA),56
+Morgan State,-16
+Samford,-13
+Virginia Military Institute,14
+Allen,32
+South Carolina Upstate,-7
+Colgate,2
+Citadel,6
+North Carolina-Wilmington,-21
+Johnson & Wales (NC),31
+Stetson,9
+Longwood,-2
+Presbyterian,11
+Charleston Southern,10
+Liberty,-7
+Gardner-Webb,16
+Winthrop,-9
+High Point,-5
+North Carolina-Asheville,-16
+Radford,17
+Liberty,-32
+Gardner-Webb,-12
+Winthrop,-14
+Longwood,4
+Presbyterian,13
+Charleston Southern,-3
+North Carolina-Asheville,-13
+High Point,-10
+Radford,3
+Presbyterian,19
+North Carolina-Asheville,2
+Radford,16
+Winthrop,-17

@@ -1,0 +1,36 @@
+Toccoa Falls,59
+Eastern Illinois,3
+Alabama-Birmingham,-23
+Eastern Illinois,-4
+San Francisco,-12
+Hawaii,2
+South Florida,-6
+Alabama State,18
+Alabama A&M,29
+Point University,62
+Southern California,-5
+Wyoming,-6
+Cornell,8
+Chicago State,18
+South Alabama,-1
+Georgia Southern,-4
+Georgia State,3
+Texas-Arlington,22
+Texas State,-4
+Arkansas State,-2
+Arkansas-Little Rock,9
+Georgia State,-6
+Georgia Southern,7
+South Alabama,-5
+Louisiana-Lafayette,12
+Louisiana-Monroe,1
+Coastal Carolina,9
+Appalachian State,10
+Texas State,-4
+Texas-Arlington,-15
+Arkansas State,9
+Arkansas-Little Rock,3
+Appalachian State,20
+Georgia Southern,20
+Georgia State,11
+Texas State,6

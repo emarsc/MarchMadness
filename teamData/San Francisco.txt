@@ -1,0 +1,32 @@
+Illinois-Chicago,2
+UC-Santa Barbara,12
+Troy,12
+Sacramento State,18
+Eastern Washington,-6
+Alcorn State,13
+Lamar,19
+San Francisco State,32
+Portland State,-4
+Abilene Christian,35
+Utah,3
+Illinois State,8
+San Diego State,-14
+San Diego,6
+Santa Clara,-14
+Gonzaga,-15
+Saint Mary's (CA),-11
+Brigham Young,-10
+Pacific,21
+Portland,25
+San Diego,17
+Saint Mary's (CA),-20
+Pacific,21
+Pepperdine,21
+Loyola Marymount,10
+Santa Clara,3
+Brigham Young,-16
+Gonzaga,-35
+Portland,14
+Loyola Marymount,-2
+Pepperdine,11
+Santa Clara,-7

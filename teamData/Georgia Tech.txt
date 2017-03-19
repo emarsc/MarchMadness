@@ -1,0 +1,32 @@
+Tennessee Tech,15
+Southern,15
+Ohio,-6
+Sam Houston State,8
+Tulane,14
+Penn State,-7
+Tennessee,-23
+Virginia Commonwealth,3
+Alcorn State,24
+Georgia,-17
+Wofford,4
+North Carolina A&T,7
+North Carolina,12
+Duke,-53
+Louisville,-15
+Clemson,12
+North Carolina State,10
+Virginia Tech,-1
+Virginia,-13
+Florida State,22
+Notre Dame,2
+Clemson,-12
+Wake Forest,-12
+Tusculum,38
+Boston College,11
+Miami (FL),-9
+Syracuse,6
+North Carolina State,-2
+Notre Dame,-4
+Pittsburgh,9
+Syracuse,-29
+Pittsburgh,-2

@@ -1,0 +1,30 @@
+Richmond,-3
+Southern Virginia,31
+Virginia Tech,-16
+Presbyterian,-10
+Campbell,-14
+Radford,-7
+Gardner-Webb,-18
+West Virginia,-35
+Charleston Southern,5
+Frostburg State,19
+Dayton,-36
+East Tennessee State,-27
+Mercer,-18
+Citadel,-5
+Western Carolina,1
+North Carolina-Greensboro,-9
+Wofford,-18
+Furman,-17
+Chattanooga,16
+Samford,-2
+East Tennessee State,-10
+Mercer,-30
+Citadel,23
+Furman,-28
+Chattanooga,-6
+Samford,-19
+Wofford,-18
+North Carolina-Greensboro,-7
+Western Carolina,-13
+Samford,-18

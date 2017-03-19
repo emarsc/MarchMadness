@@ -1,0 +1,31 @@
+Tennessee,13
+North Carolina,-40
+Hiwassee,48
+Central Arkansas,11
+Arkansas State,-6
+Kennesaw State,17
+Coastal Carolina,16
+Louisiana-Monroe,27
+Marshall,11
+Tennessee Wesleyan,42
+Vanderbilt,-2
+Jacksonville State,16
+Western Carolina,16
+North Carolina-Greensboro,-5
+Wofford,11
+Furman,16
+Citadel,10
+Mercer,2
+Samford,4
+Virginia Military Institute,-16
+East Tennessee State,-5
+North Carolina-Greensboro,23
+Western Carolina,12
+Furman,-4
+Wofford,8
+Virginia Military Institute,6
+East Tennessee State,-14
+Samford,-4
+Mercer,-10
+Citadel,-9
+Wofford,-12

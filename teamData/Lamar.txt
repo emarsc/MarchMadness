@@ -1,0 +1,33 @@
+Howard Payne,43
+Oregon State,3
+Fresno State,-19
+Texas-San Antonio,20
+Prairie View,8
+Idaho State,-17
+San Francisco,-19
+DePaul,-19
+Austin College,51
+Texas-Rio Grande Valley,-14
+Liberty,17
+Arlington Baptist,51
+Huston-Tillotson,27
+Central Arkansas,3
+New Orleans,-4
+Southeastern Louisiana,20
+Incarnate Word,15
+Abilene Christian,-3
+Sam Houston State,-22
+Nicholls State,11
+Texas A&M-Corpus Christi,-3
+Northwestern State,21
+McNeese State,20
+Sam Houston State,4
+Houston Baptist,-7
+Stephen F. Austin,-9
+Texas A&M-Corpus Christi,-7
+Northwestern State,20
+Houston Baptist,-7
+Nicholls State,12
+McNeese State,7
+Southeastern Louisiana,12
+Stephen F. Austin,-16

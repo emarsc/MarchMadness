@@ -1,0 +1,32 @@
+Thomas University,42
+Auburn,-18
+Purdue,-8
+NJIT,21
+Eastern Kentucky,17
+Wright State,7
+Mississippi State,-22
+Georgia Southwestern,31
+Alabama A&M,15
+Old Dominion,-12
+Middle Tennessee,8
+Massachusetts,-9
+Georgia Southern,-23
+South Alabama,1
+Troy,-3
+Louisiana-Monroe,8
+Louisiana-Lafayette,15
+Coastal Carolina,20
+Appalachian State,11
+Troy,6
+South Alabama,3
+Louisiana-Lafayette,3
+Louisiana-Monroe,14
+Appalachian State,-5
+Coastal Carolina,-1
+Texas-Arlington,-1
+Texas State,16
+Arkansas-Little Rock,17
+Arkansas State,-11
+Georgia Southern,5
+Louisiana-Lafayette,10
+Troy,-11

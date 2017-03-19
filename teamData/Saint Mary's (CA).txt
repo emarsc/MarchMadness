@@ -1,0 +1,32 @@
+Nevada,18
+Prairie View,38
+Dayton,4
+San Jose State,17
+Alabama-Birmingham,13
+Stanford,15
+Texas-Arlington,-14
+UC-Irvine,31
+Western Kentucky,22
+Texas A&M-Corpus Christi,21
+South Carolina State,27
+Loyola Marymount,12
+San Diego,12
+Brigham Young,13
+San Francisco,11
+Portland,41
+Gonzaga,-23
+Pacific,12
+Pepperdine,20
+San Francisco,20
+Santa Clara,13
+Pacific,4
+San Diego,44
+Portland,10
+Gonzaga,-10
+Loyola Marymount,33
+Brigham Young,13
+Pepperdine,29
+Santa Clara,14
+Portland,23
+Brigham Young,31
+Gonzaga,-18

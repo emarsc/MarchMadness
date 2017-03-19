@@ -1,0 +1,32 @@
+Washington State,-4
+Louisiana-Lafayette,1
+Rocky Mountain,17
+James Madison,7
+Rice,-5
+Delaware State,25
+Arizona Christian,20
+Utah,-8
+Milwaukee,-5
+South Dakota,-17
+Nebraska-Omaha,-6
+South Dakota,-12
+Central Michigan,-3
+Weber State,-12
+Idaho State,17
+Eastern Washington,-18
+Idaho,-2
+North Dakota,-5
+Northern Colorado,15
+Sacramento State,9
+Portland State,6
+Idaho,3
+Eastern Washington,1
+Montana,-6
+Northern Arizona,-6
+Southern Utah,5
+Portland State,2
+Sacramento State,3
+Montana,9
+Idaho State,11
+Weber State,-9
+Southern Utah,-4

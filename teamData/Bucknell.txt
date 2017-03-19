@@ -1,0 +1,34 @@
+Manhattan,12
+Wake Forest,-20
+Robert Morris,13
+Butler,-26
+Vanderbilt,3
+Norfolk State,26
+Northern Colorado,12
+Richmond,5
+La Salle,-10
+Fairfield,11
+Siena,-3
+Mount St. Mary's,16
+Princeton,-2
+Navy,4
+Army,8
+American,9
+Holy Cross,19
+Lehigh,-11
+Colgate,14
+Loyola (MD),13
+Boston University,11
+Lafayette,23
+Army,21
+American,20
+Holy Cross,14
+Lehigh,-8
+Colgate,17
+Loyola (MD),-1
+Boston University,20
+Lafayette,30
+Navy,22
+Army,16
+Navy,3
+Lehigh,16

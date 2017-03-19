@@ -1,0 +1,32 @@
+Radford,21
+Bucknell,20
+Texas-El Paso,22
+Villanova,-19
+College of Charleston,17
+Coastal Carolina,12
+Northwestern,-7
+Richmond,8
+Charlotte,17
+North Carolina-Greensboro,3
+Xavier,-4
+Louisiana State,34
+Florida State,-16
+Clemson,-5
+Boston College,13
+Virginia,-17
+North Carolina,-6
+Miami (FL),17
+North Carolina State,5
+Syracuse,-5
+Duke,-2
+Boston College,5
+Georgia Tech,12
+Notre Dame,-7
+North Carolina State,30
+Clemson,-12
+Duke,-5
+Pittsburgh,4
+Louisville,7
+Virginia Tech,5
+Boston College,14
+Virginia Tech,-9

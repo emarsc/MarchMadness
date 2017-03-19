@@ -1,0 +1,33 @@
+San Diego,10
+Gonzaga,-21
+San Diego Christian,23
+University of California,12
+Savannah State,33
+Loyola (IL),-6
+Grand Canyon,-4
+Arizona State,-11
+Alabama State,32
+Southern Mississippi,15
+Tulsa,19
+San Francisco,14
+New Mexico,-6
+Nevada,-3
+Boise State,-12
+San Jose State,15
+Utah State,19
+Nevada-Las Vegas,13
+Air Force,-3
+Colorado State,-1
+Wyoming,9
+Fresno State,3
+San Jose State,-5
+Nevada,14
+Utah State,4
+Nevada-Las Vegas,13
+Fresno State,-8
+Colorado State,-1
+Air Force,13
+New Mexico,-5
+Nevada-Las Vegas,10
+Boise State,19
+Colorado State,-8

@@ -1,0 +1,29 @@
+Brigham Young,-9
+Lehigh,-9
+Lafayette,16
+Rowan,62
+Virginia Commonwealth,-11
+University of California,-11
+Hawaii,13
+Liberty,3
+Saint Joseph's,-8
+Monmouth,-6
+Bucknell,2
+Hampton,28
+Cal Poly,29
+Pennsylvania,9
+Brown,31
+Yale,8
+Dartmouth,5
+Harvard,1
+Pennsylvania,15
+Cornell,9
+Columbia,2
+Yale,19
+Brown,15
+Columbia,19
+Cornell,15
+Harvard,4
+Dartmouth,37
+Pennsylvania,8
+Yale,12

@@ -1,0 +1,34 @@
+Cal State Los Angeles,36
+Wichita State,-37
+North Carolina,-26
+Louisville,-32
+UCLA,-37
+Washington,-6
+Binghamton,-8
+Florida Gulf Coast,-1
+Kansas,-30
+New Mexico State,-8
+Pepperdine,9
+Texas,-6
+Oregon State,4
+Master's,19
+Colorado State,1
+Eastern Michigan,-26
+UC-Irvine,-15
+UC-Riverside,6
+Cal State Northridge,-7
+Hawaii,-7
+UC-Santa Barbara,5
+Cal Poly,6
+Cal State Fullerton,11
+Cal State Northridge,-10
+UC-Irvine,9
+UC-Riverside,7
+Cal State Fullerton,-5
+UC-Davis,9
+UC-Santa Barbara,18
+Cal Poly,-7
+UC-Davis,-4
+Hawaii,9
+Hawaii,11
+UC-Irvine,-5

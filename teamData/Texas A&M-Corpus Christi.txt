@@ -1,0 +1,31 @@
+Our Lady of the Lake,15
+Texas-Rio Grande Valley,22
+Texas State,4
+Jarvis Christian,23
+Texas-Rio Grande Valley,16
+Cal Poly,-12
+Texas A&M,-17
+St. Mary's (TX),10
+Texas-San Antonio,4
+Saint Mary's (CA),-21
+Oklahoma State,-22
+New Orleans,-1
+Nicholls State,-4
+Northwestern State,17
+Stephen F. Austin,-33
+Central Arkansas,7
+Stephen F. Austin,-3
+Sam Houston State,-14
+Lamar,3
+Abilene Christian,12
+Houston Baptist,11
+Southeastern Louisiana,5
+McNeese State,7
+Incarnate Word,16
+Lamar,7
+Abilene Christian,12
+McNeese State,11
+Houston Baptist,-14
+Incarnate Word,17
+Stephen F. Austin,8
+New Orleans,-3

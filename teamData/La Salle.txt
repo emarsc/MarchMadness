@@ -1,0 +1,30 @@
+Temple,-5
+Delaware,6
+Texas Southern,-1
+Drexel,11
+Lehigh,8
+Bucknell,10
+Villanova,-10
+Georgetown,-15
+Florida Gulf Coast,4
+Mercer,2
+Dayton,-11
+Saint Louis,21
+Duquesne,7
+Rhode Island,12
+George Washington,10
+Davidson,8
+Virginia Commonwealth,-38
+Pennsylvania,-3
+Saint Joseph's,-1
+Massachusetts,10
+George Mason,-20
+Fordham,15
+Richmond,-12
+St. Bonaventure,-18
+Saint Joseph's,15
+Rhode Island,-11
+Massachusetts,-13
+Saint Louis,-15
+Fordham,12
+Davidson,-9

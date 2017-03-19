@@ -1,0 +1,33 @@
+Tennessee-Martin,3
+Massachusetts,2
+Oral Roberts,7
+Saint Joseph's,13
+Creighton,-9
+Montana,5
+Middle Tennessee,-15
+Memphis,8
+Virginia Tech,-5
+Murray State,5
+Bradley,17
+South Alabama,34
+Kentucky,-23
+Florida,-7
+Auburn,3
+Georgia,-22
+South Carolina,-11
+Tennessee,11
+Missouri,4
+Texas A&M,-4
+Baylor,-3
+Mississippi State,27
+Vanderbilt,7
+Tennessee,-9
+Auburn,6
+Louisiana State,20
+Arkansas,-18
+Mississippi State,5
+Missouri,3
+Alabama,-15
+South Carolina,5
+Missouri,12
+Arkansas,-1

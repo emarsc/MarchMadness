@@ -1,0 +1,33 @@
+Alabama A&M,34
+Jacksonville State,26
+Fontbonne,73
+DePaul,-2
+North Dakota State,14
+Air Force,-13
+Southeast Missouri State,8
+Valparaiso,-3
+Oral Roberts,10
+Southeast Missouri State,5
+Chicago State,20
+Southern California,-8
+DePaul,11
+Northern Iowa,4
+Indiana State,6
+Illinois State,-3
+Southern Illinois,-8
+Evansville,4
+Loyola (IL),-6
+Indiana State,5
+Bradley,14
+Drake,-1
+Southern Illinois,-1
+Loyola (IL),1
+Evansville,-8
+Wichita State,-18
+Northern Iowa,-3
+Illinois State,-1
+Drake,3
+Bradley,-9
+Wichita State,-19
+Northern Iowa,6
+Wichita State,-15

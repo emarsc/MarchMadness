@@ -1,0 +1,33 @@
+Fresno State,-3
+Oregon State,-8
+Illinois-Chicago,-8
+Prairie View,10
+Lamar,-20
+Texas State,15
+Cal Poly,-12
+Utah Valley,-4
+Texas Tech,-37
+Southeastern Oklahoma State,19
+Texas A&M-Corpus Christi,-4
+Utah Valley,6
+East Central,4
+Texas-El Paso,12
+Southern Mississippi,-18
+Louisiana Tech,1
+Florida Atlantic,5
+Florida International,2
+Texas-El Paso,-20
+Marshall,-21
+Western Kentucky,-15
+Middle Tennessee,-10
+Alabama-Birmingham,15
+Southern Mississippi,6
+Louisiana Tech,-6
+Rice,-12
+North Texas,-10
+Florida International,2
+Florida Atlantic,-7
+Charlotte,-1
+Old Dominion,18
+Western Kentucky,4
+Middle Tennessee,-16

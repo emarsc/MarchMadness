@@ -1,0 +1,30 @@
+Cincinnati,-29
+Niagara,9
+Rhode Island,-7
+Marist,-8
+Albany (NY),-4
+Morgan State,6
+Bryant,1
+St. Francis (NY),10
+Central Connecticut State,17
+Providence,-38
+Emerson,32
+Johnson & Wales (RI),30
+Maine,5
+Quinnipiac,5
+Stony Brook,-3
+NJIT,-2
+Princeton,-31
+Pennsylvania,12
+Yale,-1
+Yale,-10
+Cornell,11
+Columbia,-5
+Harvard,-13
+Dartmouth,-3
+Pennsylvania,-24
+Princeton,-15
+Dartmouth,5
+Harvard,-19
+Columbia,20
+Cornell,-14

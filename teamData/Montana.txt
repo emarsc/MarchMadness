@@ -1,0 +1,32 @@
+Southern California,-14
+Wyoming,-1
+North Carolina State,-13
+Washington State,-24
+Oral Roberts,21
+Mississippi,-5
+South Dakota,-5
+Milwaukee,6
+San Jose State,19
+Wyoming,-2
+Oregon,-14
+UC-Riverside,8
+Pepperdine,1
+Idaho State,12
+Weber State,-3
+Idaho,13
+Eastern Washington,6
+Northern Colorado,21
+North Dakota,6
+Portland State,-9
+Sacramento State,-9
+Eastern Washington,-12
+Idaho,-8
+Montana State,6
+Southern Utah,15
+Northern Arizona,17
+Sacramento State,-2
+Portland State,3
+Montana State,-9
+Weber State,4
+Idaho State,19
+Idaho,-4

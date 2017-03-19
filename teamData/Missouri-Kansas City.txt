@@ -1,0 +1,33 @@
+Creighton,-7
+Drake,6
+Bowling Green State,2
+Murray State,11
+Green Bay,-18
+Arkansas-Monticello,15
+Southeast Missouri State,11
+South Dakota,2
+South Dakota State,-9
+Kansas,-43
+William Jewell,22
+Nebraska-Omaha,-5
+West Virginia,-45
+Tennessee-Martin,-11
+Mississippi State,-23
+South Carolina Upstate,-9
+New Mexico State,-13
+Texas-Rio Grande Valley,4
+Seattle,16
+Utah Valley,-10
+New Mexico State,-23
+Grand Canyon,6
+Cal State Bakersfield,-11
+Ottawa (KS),26
+Texas-Rio Grande Valley,13
+Utah Valley,8
+Seattle,30
+Chicago State,19
+Cal State Bakersfield,-9
+Grand Canyon,-7
+Chicago State,5
+Texas-Rio Grande Valley,4
+New Mexico State,-18

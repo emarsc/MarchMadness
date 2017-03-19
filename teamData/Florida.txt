@@ -1,0 +1,32 @@
+Florida Gulf Coast,21
+Mercer,22
+St. Bonaventure,7
+Belmont,17
+Seton Hall,5
+Gonzaga,-5
+Miami (FL),9
+North Florida,31
+Duke,-10
+Florida State,-5
+Charlotte,41
+Arkansas-Little Rock,23
+Arkansas,9
+Mississippi,7
+Tennessee,13
+Alabama,13
+Georgia,4
+South Carolina,-4
+Vanderbilt,-2
+Louisiana State,35
+Oklahoma,32
+Missouri,39
+Kentucky,22
+Georgia,12
+Texas A&M,9
+Auburn,19
+Mississippi State,5
+South Carolina,15
+Kentucky,-10
+Arkansas,13
+Vanderbilt,-2
+Vanderbilt,-10

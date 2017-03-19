@@ -1,0 +1,32 @@
+Wake Forest,-21
+Central Pennsylvania College,22
+Akron,-47
+Mercer,-11
+Stetson,14
+Georgia Southern,-1
+Virginia Military Institute,7
+North Carolina,-45
+Elon,12
+North Carolina-Wilmington,-36
+West Virginia,-27
+Grace,24
+North Carolina-Asheville,3
+Winthrop,2
+Gardner-Webb,-11
+Presbyterian,13
+Charleston Southern,-6
+Liberty,-7
+Longwood,12
+High Point,-3
+Campbell,-17
+North Carolina-Asheville,-11
+Winthrop,-16
+Liberty,-3
+Charleston Southern,12
+High Point,1
+Gardner-Webb,-11
+Longwood,7
+Presbyterian,2
+Campbell,-3
+Liberty,4
+Campbell,-16

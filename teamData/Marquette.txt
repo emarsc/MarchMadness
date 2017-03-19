@@ -1,0 +1,31 @@
+Vanderbilt,24
+Howard,32
+Michigan,-18
+Pittsburgh,-3
+IUPUI,25
+Houston Baptist,22
+Western Carolina,46
+Georgia,10
+Fresno State,3
+Wisconsin,-9
+Saint Francis (PA),13
+Southern Illinois-Edwardsville,33
+Georgetown,10
+Seton Hall,-3
+Villanova,-12
+Seton Hall,3
+DePaul,25
+Butler,-8
+Creighton,8
+Villanova,2
+Providence,-1
+St. John's (NY),-14
+DePaul,13
+Butler,-3
+Georgetown,-18
+Xavier,22
+St. John's (NY),22
+Providence,-4
+Xavier,11
+Creighton,8
+Seton Hall,-6

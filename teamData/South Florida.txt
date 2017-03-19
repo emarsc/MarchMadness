@@ -1,0 +1,30 @@
+Florida A&M,11
+Elon,-13
+Rider,5
+Florida Atlantic,-16
+Kennesaw State,2
+Troy,6
+George Washington,-1
+Bethune-Cookman,6
+South Carolina,-11
+Northern Illinois,-11
+Delaware,28
+East Carolina,-11
+Houston,-14
+Southern Methodist,-19
+Tulane,-15
+Memphis,-6
+Central Florida,-22
+Tulsa,-12
+Connecticut,-21
+Cincinnati,-41
+Memphis,-10
+Temple,-9
+Connecticut,-46
+East Carolina,7
+Cincinnati,-14
+Tulane,-23
+Tulsa,-14
+Central Florida,-3
+Temple,-12
+Connecticut,-11

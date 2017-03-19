@@ -1,0 +1,32 @@
+Clarks Summit,47
+Texas Southern,-13
+Maryland-Baltimore County,-22
+Louisiana-Lafayette,-1
+Rice,-22
+Montana State,-25
+St. John's (NY),7
+Delaware,-15
+Southern Methodist,-14
+North Texas,-33
+Keystone,23
+Binghamton,-19
+Indiana,-47
+Iowa,-32
+Hawaii,-11
+North Carolina A&T,2
+North Carolina Central,1
+Hampton,-8
+Norfolk State,-5
+South Carolina State,-10
+Savannah State,-15
+Florida A&M,-13
+North Carolina Central,-8
+North Carolina A&T,17
+Bethune-Cookman,6
+Florida A&M,3
+Morgan State,11
+Coppin State,-8
+Morgan State,-11
+Maryland-Eastern Shore,-1
+Howard,10
+Bethune-Cookman,-7

@@ -1,0 +1,33 @@
+Linfield,23
+Northwestern,-14
+Texas,-33
+Bryant,4
+Seattle,4
+Denver,5
+San Francisco,6
+Seattle,5
+Great Falls,27
+Morehead State,2
+Northern Kentucky,-22
+Xavier,-29
+Colorado,-8
+Idaho,7
+Montana State,18
+Montana,-6
+Idaho State,7
+Weber State,-3
+Northern Arizona,22
+Southern Utah,15
+Montana,12
+Montana State,-1
+Sacramento State,5
+Portland State,6
+North Dakota,-9
+Northern Colorado,26
+Idaho,10
+Weber State,10
+Idaho State,12
+Southern Utah,16
+Northern Arizona,-15
+Sacramento State,19
+Weber State,-8

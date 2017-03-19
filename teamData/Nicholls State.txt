@@ -1,0 +1,31 @@
+Boston College,6
+Central Florida,-24
+Mississippi College,31
+San Diego,-9
+New Mexico State,-12
+Bethune-Cookman,7
+Samford,3
+Louisiana-Lafayette,-32
+Florida State,-55
+Thomas University,32
+Texas Tech,-43
+Mobile,17
+Spring Hill,24
+Incarnate Word,10
+Texas A&M-Corpus Christi,4
+Sam Houston State,-13
+Northwestern State,-5
+Stephen F. Austin,-20
+Abilene Christian,3
+Lamar,-11
+Houston Baptist,-3
+McNeese State,4
+Southeastern Louisiana,-28
+New Orleans,-9
+Central Arkansas,-23
+Central Arkansas,7
+Northwestern State,-2
+Incarnate Word,9
+Southeastern Louisiana,6
+Lamar,-12
+New Orleans,-10

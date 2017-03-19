@@ -1,0 +1,31 @@
+North Carolina,-20
+Southeastern Louisiana,17
+Oklahoma,-19
+Arizona State,-9
+Missouri,-5
+Georgia Tech,-14
+New Orleans,-15
+St. John's (NY),-20
+Southern,9
+Southern Mississippi,7
+McNeese State,-7
+Texas State,-3
+Central Florida,-13
+Cincinnati,-36
+Memphis,-21
+South Florida,15
+Southern Methodist,-16
+Tulsa,-7
+Cincinnati,-17
+Houston,-14
+Connecticut,-10
+Temple,-8
+East Carolina,-9
+Houston,-29
+Southern Methodist,-5
+South Florida,23
+East Carolina,-3
+Temple,-10
+Memphis,-22
+Tulsa,12
+Tulsa,-6

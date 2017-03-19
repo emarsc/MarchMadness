@@ -1,0 +1,32 @@
+Bowling Green State,8
+Western Michigan,17
+Goshen,43
+Chicago State,28
+Nevada,-4
+Alaska-Anchorage,6
+UC-Davis,13
+Oral Roberts,28
+Southern Utah,10
+Robert Morris,21
+Northeastern,-2
+Michigan State,-12
+Georgia,7
+Wright State,19
+Northern Kentucky,11
+Valparaiso,12
+Illinois-Chicago,1
+Detroit Mercy,-5
+Cleveland State,-11
+Northern Kentucky,9
+Wright State,-21
+Green Bay,-8
+Milwaukee,9
+Youngstown State,14
+Cleveland State,2
+Detroit Mercy,9
+Valparaiso,11
+Illinois-Chicago,12
+Youngstown State,29
+Green Bay,13
+Milwaukee,11
+Youngstown State,-1

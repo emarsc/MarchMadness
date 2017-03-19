@@ -1,0 +1,32 @@
+Central Baptist,32
+University of the Ozarks,39
+Idaho,-8
+St. Bonaventure,3
+Pepperdine,-1
+Central Michigan,12
+Central Arkansas,2
+Tulsa,10
+Arkansas-Pine Bluff,15
+Central Arkansas,11
+Northern Arizona,5
+Oral Roberts,-15
+Florida,-23
+Louisiana-Monroe,4
+Louisiana-Lafayette,-17
+Appalachian State,8
+Coastal Carolina,-3
+Arkansas State,-5
+South Alabama,17
+Troy,-9
+Louisiana-Lafayette,-6
+Louisiana-Monroe,-16
+Coastal Carolina,-7
+Appalachian State,7
+Texas State,-7
+Texas-Arlington,-16
+Arkansas State,-9
+Georgia State,-17
+Georgia Southern,2
+South Alabama,5
+Troy,-3
+Louisiana-Lafayette,-7

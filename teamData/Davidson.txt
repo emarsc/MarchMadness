@@ -1,0 +1,32 @@
+Appalachian State,12
+Clemson,-17
+Missouri,15
+Arizona State,8
+Charlotte,22
+Mercer,21
+College of Charleston,-15
+North Carolina,-9
+Kansas,-18
+Jacksonville,15
+Hartford,30
+Richmond,-2
+George Washington,-4
+Saint Louis,11
+Fordham,-6
+Virginia Commonwealth,6
+La Salle,-8
+Duquesne,14
+Fordham,18
+Saint Joseph's,15
+Rhode Island,-11
+George Mason,-7
+Virginia Commonwealth,-14
+George Washington,11
+Massachusetts,5
+Richmond,-8
+Dayton,-7
+St. Bonaventure,5
+Rhode Island,-3
+La Salle,9
+Dayton,6
+Rhode Island,-24

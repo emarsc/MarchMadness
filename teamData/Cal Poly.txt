@@ -1,0 +1,31 @@
+Pepperdine,-9
+Arizona State,-22
+Cal State Dominguez Hills,11
+Bethesda University (CA),17
+Northern Illinois,4
+Illinois-Chicago,-13
+Elon,-6
+Texas-San Antonio,12
+Texas A&M-Corpus Christi,12
+Fresno State,-14
+University of California,-26
+Washington,-16
+Grand Canyon,-7
+Princeton,-29
+UC-Davis,-4
+Cal State Fullerton,-13
+UC-Santa Barbara,-5
+UC-Irvine,-22
+Long Beach State,-6
+UC-Irvine,13
+Cal State Fullerton,-10
+UC-Davis,4
+UC-Riverside,-11
+Hawaii,-9
+Cal State Northridge,14
+Hawaii,-21
+Long Beach State,7
+UC-Riverside,7
+Cal State Northridge,6
+UC-Santa Barbara,-13
+UC-Davis,-11

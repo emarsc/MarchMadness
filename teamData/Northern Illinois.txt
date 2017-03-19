@@ -1,0 +1,32 @@
+Indiana State,2
+Roosevelt,44
+Idaho,14
+Cal State Northridge,-2
+Cal Poly,-4
+Elon,-5
+Illinois-Chicago,11
+Indiana State,-11
+Minnesota,-20
+Olivet Nazarene,26
+Florida International,7
+South Florida,11
+Illinois-Springfield,15
+Miami (OH),-2
+Central Michigan,4
+Kent State,4
+Bowling Green State,17
+Miami (OH),4
+Ohio,-9
+Kent State,-7
+Toledo,2
+Akron,-3
+Eastern Michigan,12
+Buffalo,-20
+Western Michigan,-9
+Ball State,-9
+Toledo,-8
+Central Michigan,23
+Eastern Michigan,-16
+Western Michigan,-14
+Ball State,-5
+Eastern Michigan,-3

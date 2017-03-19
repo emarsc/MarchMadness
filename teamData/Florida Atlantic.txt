@@ -1,0 +1,30 @@
+Texas State,-4
+Southern Illinois-Edwardsville,-9
+Hawaii,-1
+Edward Waters,34
+South Florida,16
+Tennessee-Martin,-1
+Hofstra,-8
+Ohio State,2
+Miami (FL),-20
+Webber,20
+Florida Gulf Coast,-13
+Western Kentucky,-15
+Marshall,-17
+Florida International,9
+Texas-San Antonio,-5
+Texas-El Paso,-1
+Alabama-Birmingham,-2
+Middle Tennessee,-29
+Florida International,18
+Charlotte,2
+Old Dominion,4
+North Texas,-6
+Rice,-6
+Louisiana Tech,-26
+Southern Mississippi,12
+Texas-El Paso,-5
+Texas-San Antonio,7
+Alabama-Birmingham,-20
+Middle Tennessee,-34
+Marshall,-15

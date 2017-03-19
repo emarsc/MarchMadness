@@ -1,0 +1,32 @@
+Western Carolina,49
+North Florida,38
+Pennsylvania,12
+Stanford,14
+Iowa State,-17
+Florida,-9
+Rutgers,12
+Wofford,17
+South Carolina State,36
+Florida Atlantic,20
+George Washington,8
+Columbia,11
+North Carolina State,18
+Syracuse,-15
+Notre Dame,-5
+Pittsburgh,26
+Wake Forest,-17
+Duke,-12
+Boston College,1
+North Carolina,15
+Florida State,-18
+North Carolina State,5
+Virginia Tech,6
+Louisville,-5
+Georgia Tech,9
+Clemson,6
+Virginia,6
+Duke,5
+Virginia Tech,-5
+Florida State,-9
+Syracuse,5
+North Carolina,-25

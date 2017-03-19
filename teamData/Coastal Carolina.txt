@@ -1,0 +1,33 @@
+Alabama,-17
+College of Charleston,-7
+Coppin State,30
+Brigham Young,-16
+Southern Utah,15
+Wake Forest,-12
+Chattanooga,-16
+Methodist,29
+North Carolina-Asheville,-2
+Piedmont,37
+North Carolina Central,3
+Auburn,-45
+Wofford,-1
+Texas-Arlington,-21
+Texas State,7
+Arkansas State,15
+Arkansas-Little Rock,3
+Appalachian State,12
+Georgia State,-20
+Georgia Southern,-11
+Texas State,-2
+Texas-Arlington,2
+Arkansas-Little Rock,7
+Arkansas State,-10
+Georgia Southern,12
+Georgia State,1
+Troy,-9
+South Alabama,4
+Louisiana-Lafayette,-2
+Louisiana-Monroe,5
+Appalachian State,-4
+South Alabama,13
+Texas-Arlington,-23

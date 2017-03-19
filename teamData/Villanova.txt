@@ -1,0 +1,34 @@
+Lafayette,40
+Purdue,3
+Western Michigan,11
+Wake Forest,19
+Central Florida,10
+College of Charleston,16
+Pennsylvania,25
+Saint Joseph's,31
+La Salle,10
+Notre Dame,8
+Temple,21
+American,42
+DePaul,3
+Creighton,10
+Butler,-8
+Marquette,12
+Xavier,25
+St. John's (NY),13
+Seton Hall,30
+Providence,10
+Marquette,-2
+Virginia,2
+Providence,9
+St. John's (NY),13
+Georgetown,11
+Xavier,16
+DePaul,13
+Seton Hall,22
+Butler,-8
+Creighton,16
+Georgetown,26
+St. John's (NY),41
+Seton Hall,2
+Creighton,14

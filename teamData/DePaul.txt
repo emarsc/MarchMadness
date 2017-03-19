@@ -1,0 +1,32 @@
+Robert Morris,6
+Rutgers,-7
+Milwaukee,18
+Missouri State,2
+Drake,2
+Northwestern,-16
+Lamar,19
+Temple,-9
+Illinois-Chicago,-5
+Chicago State,48
+Southeast Missouri State,3
+Wyoming,-14
+Missouri State,-11
+Villanova,-3
+St. John's (NY),-6
+Seton Hall,-31
+Providence,1
+Marquette,-25
+St. John's (NY),-10
+Butler,-1
+Creighton,-17
+Georgetown,-3
+Marquette,-13
+Xavier,-11
+Creighton,-35
+Villanova,-13
+Butler,-16
+Georgetown,2
+Seton Hall,-3
+Providence,-9
+Xavier,-14
+Xavier,-11

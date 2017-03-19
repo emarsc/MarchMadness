@@ -1,0 +1,33 @@
+Montana,14
+Nebraska-Omaha,10
+Texas A&M,2
+New Orleans,34
+Southern Methodist,5
+UC-Santa Barbara,24
+San Diego,21
+Brigham Young,7
+Pepperdine,26
+Troy,5
+Cornell,12
+Missouri State,8
+Wyoming,2
+Oregon State,7
+Oregon,-23
+Stanford,16
+University of California,-1
+Utah,-22
+Colorado,3
+Arizona,-7
+Arizona State,3
+UCLA,8
+Washington,8
+Washington State,9
+Oregon State,26
+Oregon,-11
+UCLA,-32
+Arizona,-13
+Arizona State,-1
+Washington State,23
+Washington,16
+Washington,5
+UCLA,-2

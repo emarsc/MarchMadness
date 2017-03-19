@@ -1,0 +1,34 @@
+Stephen F. Austin,23
+Canisius,24
+Michigan State,21
+Duquesne,34
+Cleveland State,31
+Tennessee-Martin,35
+Arizona State,46
+UCLA,-5
+Valparaiso,24
+Hofstra,23
+North Carolina,3
+Louisville,-3
+Mississippi,23
+Texas A&M,42
+Arkansas,26
+Vanderbilt,6
+Auburn,20
+Mississippi State,7
+South Carolina,16
+Tennessee,-2
+Kansas,-6
+Georgia,9
+Florida,-22
+Louisiana State,7
+Alabama,9
+Tennessee,25
+Georgia,5
+Missouri,10
+Florida,10
+Vanderbilt,6
+Texas A&M,8
+Georgia,11
+Alabama,5
+Arkansas,17

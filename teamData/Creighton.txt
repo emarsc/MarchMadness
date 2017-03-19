@@ -1,0 +1,34 @@
+Missouri-Kansas City,7
+Wisconsin,12
+Washington State,26
+North Carolina State,18
+Mississippi,9
+Loyola (MD),30
+Buffalo,21
+Akron,12
+Nebraska,15
+Longwood,55
+Oral Roberts,1
+Arizona State,11
+Seton Hall,14
+Villanova,-10
+St. John's (NY),13
+Providence,14
+Butler,11
+Truman State,32
+Xavier,5
+Marquette,-8
+Georgetown,-20
+DePaul,17
+Butler,9
+Xavier,-2
+DePaul,35
+Seton Hall,-6
+Georgetown,17
+Providence,-2
+Villanova,-16
+St. John's (NY),14
+Marquette,-8
+Providence,12
+Xavier,3
+Villanova,-14

@@ -1,0 +1,27 @@
+Rhode Island,-23
+Fairfield,-17
+Marist,-6
+Longwood,-6
+Old Dominion,-12
+Boston College,-18
+Vermont,-15
+Maine,-5
+Hartford,-4
+Long Island University,14
+Bryant,6
+New Hampshire,1
+Cal State Bakersfield,-4
+Harvard,-16
+Harvard,-14
+Columbia,-12
+Cornell,-13
+Princeton,-5
+Pennsylvania,3
+Yale,-9
+Brown,3
+Cornell,-4
+Columbia,1
+Brown,-5
+Yale,-13
+Pennsylvania,2
+Princeton,-37

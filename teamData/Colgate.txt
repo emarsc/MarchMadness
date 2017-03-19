@@ -1,0 +1,32 @@
+Syracuse,-28
+Cornell,4
+NJIT,-6
+Penn State,-13
+Columbia,-3
+Union (NY),23
+Citadel,-7
+Campbell,-2
+South Carolina Upstate,-6
+Binghamton,-9
+Albany (NY),-8
+Notre Dame,-15
+Duquesne,-13
+Lafayette,10
+American,-3
+Holy Cross,-6
+Navy,-12
+Army,3
+Bucknell,-14
+Boston University,9
+Loyola (MD),3
+Lehigh,-14
+American,5
+Holy Cross,-6
+Navy,3
+Army,12
+Bucknell,-17
+Boston University,-1
+Loyola (MD),10
+Lehigh,-18
+Lafayette,-4
+Lehigh,-5

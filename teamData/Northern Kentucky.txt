@@ -1,0 +1,34 @@
+Earlham,40
+Illinois,-15
+Austin Peay,-8
+Delaware,21
+Miami (OH),9
+North Carolina Central,-8
+Morehead State,5
+Norfolk State,11
+Eastern Illinois,10
+Southeast Missouri State,14
+Eastern Washington,22
+Brescia,24
+West Virginia,-31
+Detroit Mercy,11
+Oakland,-11
+Youngstown State,13
+Cleveland State,8
+Green Bay,-9
+Milwaukee,-10
+Oakland,-9
+Detroit Mercy,14
+Illinois-Chicago,17
+Valparaiso,-7
+Wright State,4
+Green Bay,2
+Milwaukee,6
+Cleveland State,2
+Youngstown State,-4
+Wright State,7
+Illinois-Chicago,8
+Valparaiso,4
+Wright State,5
+Youngstown State,10
+Milwaukee,6

@@ -1,0 +1,31 @@
+Adrian,30
+East Tennessee State,-29
+Illinois,-20
+Florida State,-29
+New Hampshire,-16
+Manhattan,-3
+Eastern Michigan,-26
+Murray State,-10
+Toledo,-8
+Bowling Green State,-13
+Western Kentucky,6
+IPFW,-7
+Northern Kentucky,-11
+Wright State,-13
+Illinois-Chicago,-14
+Valparaiso,-7
+Oakland,5
+Youngstown State,16
+Wright State,-18
+Northern Kentucky,-14
+Milwaukee,-4
+Green Bay,1
+Cleveland State,-17
+Youngstown State,10
+Oakland,-9
+Illinois-Chicago,-5
+Valparaiso,-20
+Cleveland State,8
+Milwaukee,7
+Green Bay,-8
+Milwaukee,-25

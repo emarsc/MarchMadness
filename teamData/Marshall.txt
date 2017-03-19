@@ -1,0 +1,35 @@
+North Carolina Central,12
+Morehead State,8
+Western Carolina,35
+Jackson State,10
+Ohio State,-41
+Ohio,10
+Eastern Kentucky,-9
+Chattanooga,-11
+Toledo,6
+Akron,-11
+West Virginia Wesleyan,16
+Cincinnati,-2
+Pittsburgh,-6
+Florida International,24
+Florida Atlantic,17
+Old Dominion,4
+Charlotte,17
+Middle Tennessee,-12
+Alabama-Birmingham,-16
+Western Kentucky,14
+Texas-San Antonio,21
+Texas-El Paso,-23
+Southern Mississippi,-15
+Louisiana Tech,-4
+Western Kentucky,5
+Alabama-Birmingham,15
+Middle Tennessee,-11
+Old Dominion,-21
+Charlotte,4
+Rice,-1
+North Texas,2
+Florida Atlantic,15
+Old Dominion,1
+Louisiana Tech,16
+Middle Tennessee,-11

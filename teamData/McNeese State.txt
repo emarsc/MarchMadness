@@ -1,0 +1,29 @@
+Purdue,-44
+Louisiana College,-10
+Southern-New Orleans,23
+Memphis,-39
+Louisiana State-Alexandria,2
+Texas State,-12
+Louisiana-Lafayette,-20
+Southern Methodist,-36
+North Carolina Central,-8
+Tulane,7
+North Carolina State,-32
+Northwestern State,7
+Stephen F. Austin,15
+Sam Houston State,-7
+Houston Baptist,-11
+Southeastern Louisiana,-4
+Central Arkansas,10
+Northwestern State,-13
+New Orleans,-19
+Nicholls State,-4
+Incarnate Word,8
+Lamar,-20
+New Orleans,-6
+Texas A&M-Corpus Christi,-7
+Abilene Christian,-4
+Houston Baptist,-2
+Texas A&M-Corpus Christi,-11
+Sam Houston State,-5
+Lamar,-7

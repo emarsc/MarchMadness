@@ -1,0 +1,31 @@
+Boston University,10
+Connecticut,3
+Boston University,-2
+Long Island University,-4
+Maine,8
+Kent State,3
+Cornell,-3
+Stony Brook,-2
+Harvard,-6
+Vermont,2
+Michigan State,8
+Oakland,2
+William & Mary,20
+Drexel,5
+Delaware,36
+James Madison,10
+Drexel,17
+Towson,-7
+Delaware,-7
+Hofstra,-5
+Elon,-2
+Towson,7
+William & Mary,-25
+James Madison,-4
+College of Charleston,1
+Hofstra,-10
+North Carolina-Wilmington,-1
+College of Charleston,-14
+Elon,1
+North Carolina-Wilmington,-9
+Towson,-28

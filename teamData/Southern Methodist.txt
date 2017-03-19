@@ -1,0 +1,34 @@
+Gardner-Webb,28
+Eastern Michigan,27
+Pittsburgh,9
+Michigan,-22
+UC-Santa Barbara,27
+Southern California,-5
+Boise State,-9
+Cal State Bakersfield,6
+Delaware State,14
+Texas Christian,15
+McNeese State,36
+Stanford,23
+Albany (NY),18
+Memphis,4
+East Carolina,31
+Temple,14
+South Florida,19
+Cincinnati,-2
+Tulane,16
+Connecticut,20
+Houston,21
+Central Florida,5
+East Carolina,40
+Tulsa,23
+Temple,16
+Cincinnati,9
+Tulane,5
+Houston,10
+Connecticut,8
+Tulsa,23
+Memphis,41
+East Carolina,4
+Central Florida,11
+Cincinnati,15

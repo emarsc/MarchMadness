@@ -1,0 +1,32 @@
+Coppin State,2
+Sacred Heart,-4
+Manhattan,-12
+Bradley,2
+Vermont,-14
+South Dakota,8
+Madaille,33
+Columbia,2
+Florida Atlantic,8
+St. Bonaventure,-6
+Kentucky,-23
+Stony Brook,38
+Siena,20
+Delaware,2
+William & Mary,-2
+James Madison,-8
+College of Charleston,-6
+Elon,-16
+North Carolina-Wilmington,-8
+Towson,-6
+Northeastern,5
+Drexel,-1
+Elon,-14
+Delaware,8
+Drexel,2
+Towson,-4
+Northeastern,10
+College of Charleston,-4
+North Carolina-Wilmington,-7
+William & Mary,14
+James Madison,5
+Delaware,-5

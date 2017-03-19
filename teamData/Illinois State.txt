@@ -1,0 +1,33 @@
+Murray State,-3
+IPFW,18
+Texas Christian,-9
+Ferris State,14
+IUPUI,14
+New Mexico,5
+Tulsa,-2
+Tennessee-Martin,17
+Saint Joseph's,9
+Hawaii,26
+San Francisco,-8
+Tulsa,12
+Evansville,12
+Loyola (IL),22
+Missouri State,3
+Indiana State,19
+Southern Illinois,7
+Wichita State,14
+Bradley,20
+Drake,14
+Indiana State,5
+Evansville,10
+Northern Iowa,6
+Wichita State,-41
+Drake,29
+Bradley,14
+Missouri State,1
+Loyola (IL),2
+Southern Illinois,4
+Northern Iowa,21
+Evansville,11
+Southern Illinois,13
+Wichita State,-20

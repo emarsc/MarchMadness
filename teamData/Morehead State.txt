@@ -1,0 +1,30 @@
+Kentucky Christian,65
+Lipscomb,14
+Marshall,-8
+Evansville,-13
+Pittsburgh,-13
+Northern Kentucky,-5
+Purdue,-34
+Lipscomb,-14
+Eastern Washington,-2
+East Tennessee State,-10
+Central Arkansas,26
+Mississippi State,-9
+Asbury,43
+Tennessee-Martin,-4
+Eastern Illinois,10
+Southern Illinois-Edwardsville,8
+Belmont,-6
+Tennessee State,2
+Austin Peay,7
+Eastern Kentucky,26
+Tennessee Tech,-3
+Jacksonville State,3
+Southeast Missouri State,8
+Murray State,1
+Eastern Kentucky,5
+Tennessee State,-12
+Belmont,-16
+Tennessee Tech,5
+Jacksonville State,-9
+Murray State,-6

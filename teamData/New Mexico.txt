@@ -1,0 +1,31 @@
+Idaho State,11
+Houston Baptist,16
+New Mexico State,13
+Virginia Tech,-20
+Cal State Northridge,16
+Dayton,-7
+Abilene Christian,9
+Illinois State,-5
+Texas-El Paso,1
+New Mexico State,-13
+Arkansas-Pine Bluff,40
+Arizona,-31
+Fresno State,5
+San Diego State,6
+Utah State,-4
+Nevada,-1
+Nevada-Las Vegas,-5
+Colorado State,13
+Boise State,11
+Wyoming,7
+Utah State,13
+Nevada,-17
+Nevada-Las Vegas,3
+San Jose State,-10
+Air Force,7
+Boise State,5
+Fresno State,-10
+Colorado State,-12
+Wyoming,-11
+San Diego State,5
+Fresno State,-5

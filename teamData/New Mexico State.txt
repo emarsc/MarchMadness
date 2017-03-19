@@ -1,0 +1,33 @@
+Arizona Christian,48
+Colorado State,-3
+Samford,10
+New Mexico,-13
+Bethune-Cookman,16
+Nicholls State,12
+San Diego,5
+Air Force,8
+Long Beach State,8
+New Mexico,13
+Texas-El Paso,11
+Arizona State,11
+UC-Irvine,6
+Eastern New Mexico,34
+Texas-El Paso,9
+Missouri-Kansas City,13
+Chicago State,16
+Grand Canyon,12
+Cal State Bakersfield,5
+Missouri-Kansas City,23
+Seattle,15
+Utah Valley,5
+Northern New Mexico,23
+Chicago State,35
+Cal State Bakersfield,-19
+Grand Canyon,-12
+Texas-Rio Grande Valley,6
+Utah Valley,-12
+Seattle,33
+Texas-Rio Grande Valley,26
+Chicago State,14
+Missouri-Kansas City,18
+Cal State Bakersfield,10

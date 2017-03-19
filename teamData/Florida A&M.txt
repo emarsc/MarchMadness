@@ -1,0 +1,30 @@
+South Florida,-11
+Trinity Baptist,32
+Johnson University,9
+Air Force,-25
+East Carolina,-20
+Georgia Southern,-11
+Stetson,-8
+Kennesaw State,-2
+Southern,-12
+Southeastern Louisiana,-39
+Jacksonville,-3
+Samford,-20
+Wisconsin,-53
+Howard,12
+Coppin State,1
+Morgan State,-3
+Savannah State,-5
+Bethune-Cookman,-6
+Maryland-Eastern Shore,-7
+Delaware State,13
+Morgan State,-17
+Howard,9
+Delaware State,-3
+North Carolina A&T,6
+North Carolina Central,-5
+Norfolk State,-12
+Hampton,-7
+South Carolina State,-11
+Bethune-Cookman,-10
+South Carolina State,-4

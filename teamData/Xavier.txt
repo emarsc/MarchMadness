@@ -1,0 +1,34 @@
+Lehigh,3
+Buffalo,33
+Missouri,1
+Clemson,6
+Northern Iowa,8
+Northern Iowa,22
+North Dakota State,30
+Baylor,-15
+Colorado,-2
+Utah,8
+Wake Forest,4
+Eastern Washington,29
+Providence,26
+Georgetown,5
+St. John's (NY),15
+Villanova,-25
+Butler,-5
+Creighton,-5
+Georgetown,11
+Cincinnati,-8
+St. John's (NY),5
+Seton Hall,2
+Creighton,2
+DePaul,11
+Villanova,-16
+Providence,-12
+Marquette,-22
+Seton Hall,-7
+Butler,-9
+Marquette,-11
+DePaul,14
+DePaul,11
+Butler,5
+Creighton,-3

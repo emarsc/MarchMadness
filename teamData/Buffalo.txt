@@ -1,0 +1,32 @@
+Niagara,10
+Xavier,-33
+Nazareth,47
+Alaska-Anchorage,6
+Nevada,-5
+Weber State,2
+Creighton,-21
+St. Bonaventure,-6
+Pittsburgh,-5
+Coppin State,35
+Canisius,-7
+Robert Morris,-3
+Maine,19
+Toledo,-32
+Eastern Michigan,9
+Ohio,-2
+Ball State,-15
+Kent State,13
+Western Michigan,12
+Miami (OH),-1
+Akron,-1
+Central Michigan,10
+Ball State,27
+Northern Illinois,20
+Bowling Green State,14
+Central Michigan,6
+Miami (OH),13
+Kent State,-8
+Akron,-6
+Ohio,4
+Bowling Green State,12
+Kent State,-3

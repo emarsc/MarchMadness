@@ -1,0 +1,31 @@
+Corban,23
+Northern Illinois,-14
+Arkansas-Little Rock,8
+South Dakota State,7
+Sam Houston State,-7
+San Jose State,-9
+UC-Davis,2
+Washington State,-13
+South Dakota State,-3
+Northwest Nazarene,26
+Stanford,-6
+Eastern Washington,-7
+Montana,-13
+Montana State,2
+Weber State,-25
+Idaho State,15
+Southern Utah,12
+Northern Arizona,16
+Montana State,-3
+Montana,8
+Portland State,17
+Sacramento State,14
+Northern Colorado,12
+North Dakota,-23
+Eastern Washington,-10
+Idaho State,8
+Weber State,5
+Northern Arizona,2
+Southern Utah,9
+Montana,4
+North Dakota,-5

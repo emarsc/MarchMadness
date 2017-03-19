@@ -1,0 +1,33 @@
+Pittsburgh,-3
+Southern Methodist,-27
+Rochester (MI),15
+Gardner-Webb,8
+IUPUI,-12
+Madonna,37
+Nebraska-Omaha,17
+Detroit Mercy,26
+Siena Heights,62
+Vermont,-8
+Syracuse,-48
+Marygrove,53
+Long Beach State,26
+Central Michigan,22
+Buffalo,-9
+Bowling Green State,28
+Ohio,4
+Western Michigan,6
+Akron,-7
+Ball State,-8
+Miami (OH),17
+Kent State,-6
+Northern Illinois,-12
+Toledo,-16
+Akron,-11
+Ohio,-8
+Western Michigan,-8
+Ball State,-7
+Northern Illinois,16
+Central Michigan,28
+Toledo,-4
+Northern Illinois,3
+Akron,-17

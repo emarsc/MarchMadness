@@ -1,0 +1,31 @@
+Florida State,-21
+Columbia International,37
+South Carolina Upstate,-2
+Abilene Christian,1
+Toccoa Falls,47
+Alabama,-30
+Abilene Christian,-3
+Johnson & Wales (NC),47
+Virginia Military Institute,-5
+Georgia,-20
+Virginia Tech,-28
+Winthrop,-16
+Liberty,-11
+Campbell,-10
+Gardner-Webb,-4
+Radford,6
+North Carolina-Asheville,-9
+Presbyterian,21
+Longwood,15
+High Point,-3
+Gardner-Webb,-9
+North Carolina-Asheville,-18
+Presbyterian,6
+Radford,-12
+Liberty,-7
+Campbell,3
+High Point,1
+Winthrop,-14
+Longwood,8
+Longwood,5
+Winthrop,-14

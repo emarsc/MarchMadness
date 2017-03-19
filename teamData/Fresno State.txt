@@ -1,0 +1,32 @@
+Texas-San Antonio,3
+Prairie View,-6
+Lamar,19
+Cal State Bakersfield,-8
+Oregon State,5
+Menlo,13
+Drake,2
+Marquette,-3
+Cal Poly,14
+Holy Names,34
+Pacific,2
+Oregon,-12
+New Mexico,-5
+Nevada,1
+Wyoming,15
+San Jose State,-7
+Air Force,-9
+Boise State,9
+Colorado State,21
+Nevada,5
+Utah State,-13
+Air Force,9
+San Diego State,-3
+Wyoming,-2
+Colorado State,-16
+San Jose State,18
+New Mexico,10
+San Diego State,8
+Boise State,7
+Nevada-Las Vegas,13
+New Mexico,5
+Nevada,-11

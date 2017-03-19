@@ -1,0 +1,32 @@
+Oregon,-14
+Mt. St. Mary (NY),38
+Arkansas State,-3
+Central Arkansas,-5
+Columbia,5
+Fairfield,-1
+Fairleigh Dickinson,19
+St. Francis (NY),20
+Air Force,8
+Monmouth,-10
+St. Bonaventure,-9
+Binghamton,11
+Lehigh,-7
+Bucknell,-8
+Lafayette,-5
+Loyola (MD),9
+Colgate,-3
+American,4
+Holy Cross,-9
+Navy,-16
+Boston University,-1
+Bucknell,-21
+Lafayette,7
+Loyola (MD),-15
+Colgate,-12
+American,-3
+Holy Cross,5
+Navy,3
+Boston University,11
+Lehigh,-14
+American,16
+Bucknell,-16

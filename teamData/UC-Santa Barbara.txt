@@ -1,0 +1,28 @@
+Nebraska-Omaha,-14
+San Francisco,-12
+Cal State Bakersfield,-7
+Southern Methodist,-27
+Southern California,-24
+Sonoma State,24
+San Diego,-9
+UCLA,-40
+Iona,-16
+Nevada,-1
+Cal State Bakersfield,2
+Seattle,-4
+UC-Davis,-26
+UC-Irvine,-4
+Cal Poly,5
+Long Beach State,-5
+UC-Riverside,-10
+Cal State Northridge,-21
+Hawaii,-22
+Cal State Fullerton,-26
+UC-Davis,-3
+UC-Irvine,-17
+Cal State Northridge,-22
+Hawaii,2
+Long Beach State,-18
+UC-Riverside,7
+Cal State Fullerton,-11
+Cal Poly,13

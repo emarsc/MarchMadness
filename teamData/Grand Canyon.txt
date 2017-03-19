@@ -1,0 +1,31 @@
+Duke,-35
+Penn State,-9
+Albany (NY),5
+Marist,12
+Coppin State,33
+Southern Illinois-Edwardsville,-12
+Louisville,-9
+San Diego State,4
+Illinois-Chicago,4
+Arizona,-10
+Mississippi Valley State,10
+Alcorn State,10
+Arkansas-Pine Bluff,40
+Cal Poly,7
+UC-Riverside,-20
+Utah Valley,10
+New Mexico State,-12
+Texas-Rio Grande Valley,13
+San Diego Christian,32
+Seattle,2
+Missouri-Kansas City,-6
+Chicago State,8
+Bethesda University (CA),29
+Cal State Bakersfield,-3
+Texas-Rio Grande Valley,19
+New Mexico State,12
+Seattle,3
+Utah Valley,6
+Chicago State,23
+Missouri-Kansas City,7
+Cal State Bakersfield,6

@@ -1,0 +1,34 @@
+Milligan,38
+Murray State,6
+Tennessee State,-11
+Toledo,10
+North Carolina-Wilmington,5
+Toledo,3
+Evansville,11
+Mississippi,15
+South Alabama,12
+Vanderbilt,23
+Belmont,13
+Virginia Commonwealth,-3
+Georgia State,-8
+Alabama-Birmingham,11
+Rice,3
+North Texas,11
+Marshall,12
+Western Kentucky,15
+Florida International,13
+Florida Atlantic,29
+Southern Mississippi,16
+Louisiana Tech,10
+Texas-San Antonio,10
+Texas-El Paso,-3
+Old Dominion,13
+Charlotte,15
+Western Kentucky,26
+Marshall,11
+Alabama-Birmingham,2
+Florida International,3
+Florida Atlantic,34
+Texas-San Antonio,16
+Texas-El Paso,26
+Marshall,11

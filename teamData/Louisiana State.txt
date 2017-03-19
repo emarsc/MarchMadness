@@ -1,0 +1,31 @@
+Wofford,22
+Southern Mississippi,17
+North Florida,8
+Wichita State,-35
+Old Dominion,6
+Virginia Commonwealth,-11
+Houston,19
+North Carolina Central,4
+Texas Southern,8
+College of Charleston,10
+Wake Forest,-34
+Vanderbilt,-7
+Missouri,11
+Mississippi State,-17
+Texas A&M,-30
+Alabama,-15
+Auburn,-4
+Arkansas,-13
+Florida,-35
+Texas Tech,-13
+South Carolina,-25
+Texas A&M,-12
+Kentucky,-7
+Arkansas,-8
+Mississippi,-20
+Alabama,-18
+Auburn,-23
+Georgia,-2
+Tennessee,10
+Mississippi State,-12
+Mississippi State,-27

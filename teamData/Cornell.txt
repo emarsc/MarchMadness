@@ -1,0 +1,29 @@
+Binghamton,-6
+Siena,-11
+Colgate,-4
+Lafayette,7
+Monmouth,-15
+Houston,-30
+Northeastern,3
+Wyoming,-19
+Southern California,-12
+Troy,-8
+Southeast Missouri State,16
+Syracuse,-24
+Massachusetts-Lowell,-2
+Albany (NY),-10
+Fisher College,28
+Columbia,-4
+Columbia,5
+Harvard,-6
+Dartmouth,13
+Brown,-11
+Yale,-7
+Princeton,-9
+Pennsylvania,-19
+Dartmouth,4
+Harvard,-12
+Pennsylvania,-3
+Princeton,-15
+Yale,-27
+Brown,14

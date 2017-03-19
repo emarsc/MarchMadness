@@ -1,0 +1,34 @@
+San Diego,18
+New Mexico State,-10
+Campbell,13
+Cincinnati,-15
+Bethune-Cookman,28
+Nicholls State,-3
+Saint Louis,4
+Jacksonville State,4
+Miles,19
+South Alabama,3
+Florida State,-8
+Florida A&M,20
+Fort Valley State,20
+North Carolina-Greensboro,11
+Western Carolina,5
+Furman,-10
+Wofford,2
+Mercer,-3
+Citadel,8
+Chattanooga,-4
+East Tennessee State,-10
+Virginia Military Institute,2
+Western Carolina,19
+North Carolina-Greensboro,-6
+Wofford,-4
+Furman,-17
+East Tennessee State,-2
+Virginia Military Institute,19
+Chattanooga,4
+Citadel,-6
+Mercer,-9
+Virginia Military Institute,18
+Furman,4
+East Tennessee State,-9

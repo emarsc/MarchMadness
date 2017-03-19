@@ -1,0 +1,32 @@
+Georgia Tech,-15
+Central Michigan,-12
+Alabama A&M,34
+Sam Houston State,-7
+Southern,-12
+Ohio,-11
+Hiwassee,33
+Lipscomb,-19
+Alabama A&M,5
+Crowley's Ridge,47
+Michigan State,-8
+Tennessee,-6
+Lipscomb,-2
+Furman,-6
+Miami (OH),-8
+Southern Illinois-Edwardsville,6
+Austin Peay,9
+Murray State,4
+Southeast Missouri State,-5
+Jacksonville State,-15
+Tennessee State,6
+Belmont,-12
+Morehead State,3
+Eastern Kentucky,-13
+Tennessee-Martin,-29
+Eastern Illinois,19
+Tennessee State,-13
+Belmont,13
+Jacksonville State,1
+Morehead State,-5
+Eastern Kentucky,-4
+Murray State,-1

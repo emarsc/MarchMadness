@@ -1,0 +1,32 @@
+Marygrove,16
+Oakland,-17
+Villanova,-11
+Texas-El Paso,-10
+Boise State,-21
+Central Arkansas,17
+North Carolina-Wilmington,-5
+Cleveland State,-23
+James Madison,7
+Washington,-6
+UCLA,-14
+Alabama A&M,30
+Ohio,-31
+Akron,-7
+Toledo,16
+Kent State,4
+Eastern Michigan,-6
+Buffalo,-12
+Akron,-10
+Ball State,-6
+Ohio,5
+Central Michigan,-4
+Miami (OH),17
+Northern Illinois,9
+Bowling Green State,10
+Eastern Michigan,8
+Toledo,5
+Ball State,25
+Northern Illinois,14
+Central Michigan,8
+Miami (OH),4
+Ball State,-3

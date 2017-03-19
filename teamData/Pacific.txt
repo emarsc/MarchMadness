@@ -1,0 +1,33 @@
+UCLA,-39
+Green Bay,18
+UC-Irvine,-7
+Wyoming,8
+Nevada,-10
+Sacramento State,16
+Cal State Fullerton,-1
+Massachusetts,-24
+Rider,-7
+North Carolina A&T,9
+Fresno State,-2
+Kennesaw State,13
+Pacific Union,48
+Portland,-4
+Gonzaga,-20
+San Diego,3
+Brigham Young,-29
+Pepperdine,5
+San Francisco,-21
+Saint Mary's (CA),-12
+Brigham Young,-15
+Loyola Marymount,-6
+San Francisco,-21
+Saint Mary's (CA),-4
+Pepperdine,-10
+San Diego,3
+Santa Clara,-17
+Portland,11
+Gonzaga,-21
+Santa Clara,-1
+Loyola Marymount,-1
+Pepperdine,5
+Gonzaga,-32

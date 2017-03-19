@@ -1,0 +1,33 @@
+Clemson,-10
+North Carolina-Asheville,14
+Furman,6
+George Washington,8
+Kansas,-11
+Gardner-Webb,18
+Morehouse,14
+Marquette,-10
+Louisiana-Lafayette,13
+Charleston Southern,20
+Georgia Tech,17
+Oakland,-7
+Auburn,12
+South Carolina,-6
+Missouri,5
+Mississippi,22
+Florida,-4
+Vanderbilt,8
+Texas A&M,-1
+Alabama,-20
+Texas,2
+Kentucky,-9
+South Carolina,-2
+Florida,-12
+Tennessee,1
+Mississippi State,7
+Kentucky,-5
+Alabama,5
+Louisiana State,2
+Auburn,1
+Arkansas,-18
+Tennessee,2
+Kentucky,-11

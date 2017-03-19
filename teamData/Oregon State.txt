@@ -1,0 +1,32 @@
+Prairie View,20
+Texas-San Antonio,8
+Lamar,-3
+Nevada,-25
+Tulsa,-11
+Fresno State,-5
+Southern Oregon,25
+Mississippi State,-17
+Charlotte,-3
+Savannah State,-3
+Long Beach State,-4
+Portland,-8
+Kent State,19
+Southern California,-7
+UCLA,-13
+Washington State,-13
+Washington,-26
+Oregon,-42
+Stanford,-16
+University of California,-11
+Colorado,-7
+Utah,-8
+Arizona,-17
+Arizona State,-13
+Southern California,-26
+UCLA,-18
+Colorado,-8
+Utah,1
+Stanford,-13
+University of California,-30
+Oregon,-21
+University of California,-5

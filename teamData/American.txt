@@ -1,0 +1,30 @@
+Maryland,-6
+Texas A&M,-23
+Akron,-10
+Wagner,-8
+Saint Francis (PA),-7
+Western Illinois,7
+Howard,-17
+New Hampshire,-10
+Youngstown State,15
+Maryland-Eastern Shore,3
+Villanova,-42
+Loyola (MD),-2
+Colgate,3
+Bucknell,-9
+Lehigh,-6
+Boston University,-10
+Army,-4
+Lafayette,14
+Holy Cross,-8
+Navy,-18
+Colgate,-5
+Bucknell,-20
+Lehigh,-15
+Boston University,-3
+Army,3
+Lafayette,-13
+Holy Cross,-15
+Navy,16
+Loyola (MD),2
+Army,-16

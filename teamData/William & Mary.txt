@@ -1,0 +1,31 @@
+Bridgewater (VA),52
+Louisville,-33
+Presbyterian,30
+Duke,-21
+Liberty,9
+Central Michigan,-10
+Hampton,-10
+Milligan,54
+Savannah State,27
+Rhode Island,-11
+Old Dominion,11
+Northeastern,-20
+Hofstra,2
+Elon,3
+North Carolina-Wilmington,-24
+College of Charleston,-10
+James Madison,1
+Elon,-9
+Delaware,24
+North Carolina-Wilmington,18
+Drexel,23
+Northeastern,25
+Towson,-2
+Drexel,-18
+College of Charleston,10
+James Madison,-3
+Delaware,21
+Hofstra,-14
+Towson,4
+Elon,5
+North Carolina-Wilmington,-11

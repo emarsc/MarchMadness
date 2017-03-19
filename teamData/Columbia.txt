@@ -1,0 +1,27 @@
+Stony Brook,7
+Saint Joseph's,-20
+Quinnipiac,8
+Army,-5
+Colgate,3
+Hofstra,-2
+Seton Hall,-24
+Navy,-15
+Manhattanville,42
+Miami (FL),-11
+Albany (NY),-3
+Maine,25
+Howard,18
+Cornell,4
+Cornell,-5
+Dartmouth,12
+Harvard,3
+Yale,-9
+Brown,5
+Pennsylvania,-8
+Princeton,-2
+Harvard,-6
+Dartmouth,-1
+Princeton,-19
+Pennsylvania,3
+Brown,-20
+Yale,-4

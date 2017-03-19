@@ -1,0 +1,31 @@
+Wichita State,-46
+St. Andrews,17
+South Carolina,-42
+Syracuse,-42
+Holy Cross,-16
+Monmouth,-24
+Voorhees,5
+Miami (FL),-36
+Texas A&M,-7
+Clemson,-28
+Furman,2
+Saint Mary's (CA),-27
+Jacksonville,-4
+Coppin State,-16
+Bethune-Cookman,4
+Savannah State,-4
+Delaware State,10
+Morgan State,-2
+Hampton,2
+Maryland-Eastern Shore,-23
+Howard,9
+Norfolk State,-3
+Hampton,-29
+North Carolina Central,-23
+North Carolina A&T,7
+Norfolk State,-11
+Coppin State,5
+Florida A&M,11
+Savannah State,-7
+Florida A&M,4
+Norfolk State,-5

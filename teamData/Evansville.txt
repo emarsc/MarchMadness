@@ -1,0 +1,33 @@
+Louisville,-31
+Alcorn State,23
+Morehead State,13
+Toledo,-4
+North Carolina-Wilmington,-3
+Middle Tennessee,-11
+Wabash,44
+Boise State,5
+Bowling Green State,3
+Murray State,32
+Norfolk State,19
+Austin Peay,8
+Mt. St. Joseph,13
+Illinois State,-12
+Northern Iowa,12
+Bradley,-11
+Drake,-12
+Missouri State,-4
+Southern Illinois,-12
+Wichita State,-17
+Loyola (IL),-6
+Northern Iowa,-7
+Illinois State,-10
+Indiana State,-1
+Missouri State,8
+Loyola (IL),2
+Southern Illinois,5
+Drake,17
+Bradley,-12
+Wichita State,-26
+Indiana State,2
+Indiana State,11
+Illinois State,-11

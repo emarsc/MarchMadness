@@ -1,0 +1,32 @@
+Chattanooga,-13
+Appalachian State,9
+Wisconsin,-12
+Oregon,-4
+Chaminade,14
+Georgia Tech,23
+Presbyterian,40
+North Carolina,-2
+Tennessee Tech,6
+Lipscomb,15
+Gonzaga,-10
+East Tennessee State,4
+Texas A&M,10
+Arkansas,-4
+Florida,-13
+South Carolina,-10
+Vanderbilt,12
+Mississippi,-11
+Mississippi State,17
+Kentucky,2
+Kansas State,12
+Auburn,10
+Mississippi State,-5
+Mississippi,9
+Georgia,-1
+Kentucky,-25
+Missouri,20
+Vanderbilt,-11
+South Carolina,-27
+Louisiana State,-10
+Alabama,5
+Georgia,-2

@@ -1,0 +1,32 @@
+Alabama A&M,55
+Xavier,-1
+Davidson,-15
+Tulane,5
+Northwestern State,24
+North Carolina Central,-10
+Western Kentucky,3
+Miami (OH),26
+Arizona,-19
+Eastern Illinois,-3
+Illinois,-9
+Lipscomb,-5
+Louisiana State,-11
+Georgia,-5
+Auburn,-5
+Arkansas,-19
+Alabama,-12
+Mississippi,-4
+Mississippi State,-15
+South Carolina,-10
+Florida,-39
+Arkansas,5
+Texas A&M,-3
+Vanderbilt,20
+Alabama,-3
+Tennessee,-20
+Kentucky,-10
+Mississippi,-3
+Texas A&M,-17
+Auburn,-11
+Auburn,3
+Mississippi,-12

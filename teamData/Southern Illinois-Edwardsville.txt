@@ -1,0 +1,30 @@
+Hawaii,1
+Florida Atlantic,9
+Texas State,-28
+Southern Illinois,-18
+Arkansas State,-18
+IUPUI,3
+Grand Canyon,12
+Indiana,-23
+Stetson,-8
+Western State,-5
+Saint Louis,-14
+Green Bay,-2
+Marquette,-33
+Missouri S&T,18
+Tennessee Tech,-6
+Eastern Kentucky,-17
+Morehead State,-8
+Austin Peay,-2
+Murray State,-8
+Southeast Missouri State,-3
+Tennessee-Martin,-8
+Tennessee State,-20
+Eastern Illinois,-15
+Belmont,-23
+Jacksonville State,-11
+Southeast Missouri State,-4
+Tennessee-Martin,-7
+Murray State,-11
+Austin Peay,-8
+Eastern Illinois,19

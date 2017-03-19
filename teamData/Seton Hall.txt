@@ -1,0 +1,32 @@
+Fairleigh Dickinson,21
+Central Connecticut State,24
+Iowa,8
+Florida,-5
+Quinnipiac,11
+Stanford,-14
+Columbia,24
+Hawaii,11
+University of California,3
+South Carolina,3
+Delaware,13
+Rutgers,11
+Creighton,-14
+Marquette,3
+DePaul,31
+Marquette,-3
+Providence,-4
+Villanova,-30
+St. John's (NY),13
+Butler,-7
+Xavier,-2
+Georgetown,2
+Providence,2
+St. John's (NY),-8
+Creighton,6
+Villanova,-22
+Xavier,7
+DePaul,3
+Georgetown,3
+Butler,6
+Marquette,6
+Villanova,-2

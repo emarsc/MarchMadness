@@ -1,0 +1,33 @@
+Towson,-6
+Lebanon Valley,25
+Mount St. Mary's,-2
+Houston,-37
+Kent State,4
+Bradley,11
+James Madison,3
+Northern Iowa,4
+Mercer,11
+Penn State,19
+Pennsylvania,19
+Longwood,37
+Prairie View,16
+Virginia Commonwealth,-9
+Massachusetts,5
+St. Bonaventure,-10
+Saint Joseph's,8
+Saint Louis,-7
+Richmond,5
+George Washington,-19
+Massachusetts,2
+Saint Louis,-2
+La Salle,20
+Davidson,7
+Fordham,6
+Richmond,23
+Rhode Island,-3
+Dayton,-13
+George Washington,-9
+Duquesne,1
+Virginia Commonwealth,-12
+Fordham,11
+Virginia Commonwealth,-11

@@ -1,0 +1,32 @@
+Indiana,-4
+Duke,2
+Siena,21
+Alabama-Birmingham,20
+Georgia,11
+North Carolina-Asheville,38
+Long Beach State,30
+Stanford,15
+Missouri-Kansas City,43
+Nebraska,17
+Davidson,18
+Nevada-Las Vegas,18
+Texas Christian,6
+Kansas State,2
+Texas Tech,17
+Oklahoma,11
+Oklahoma State,7
+Iowa State,4
+Texas,12
+West Virginia,-16
+Kentucky,6
+Baylor,5
+Iowa State,-3
+Kansas State,3
+Texas Tech,1
+West Virginia,4
+Baylor,2
+Texas Christian,19
+Texas,10
+Oklahoma,10
+Oklahoma State,5
+Texas Christian,-3

@@ -1,0 +1,31 @@
+Massachusetts,-14
+Wagner,11
+Indiana,-22
+IPFW,-13
+Liberty,-7
+Mississippi Valley State,5
+Long Island University,-4
+Marist,-12
+NJIT,-1
+Sacred Heart,-9
+Central Connecticut State,17
+Boston University,2
+Loyola (MD),-9
+Cornell,2
+Albany (NY),6
+Binghamton,4
+Maine,-2
+Hartford,16
+Stony Brook,-11
+Vermont,-14
+Maryland-Baltimore County,-16
+New Hampshire,-9
+Fisher College,24
+Albany (NY),-13
+Binghamton,1
+Stony Brook,-11
+Maine,32
+Hartford,-3
+Vermont,-21
+Maryland-Baltimore County,-6
+New Hampshire,-11

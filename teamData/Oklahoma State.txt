@@ -1,0 +1,32 @@
+Campbell,37
+Central Arkansas,12
+New Orleans,45
+Connecticut,8
+North Carolina,-32
+Georgetown,27
+Rogers State,16
+Maryland,-1
+Tulsa,4
+Arkansas-Pine Bluff,36
+Wichita State,17
+Texas A&M-Corpus Christi,22
+West Virginia,-17
+Texas,-3
+Baylor,-4
+Iowa State,-10
+Kansas,-7
+Kansas State,-8
+Texas Tech,19
+Texas Christian,13
+Arkansas,28
+Oklahoma,2
+West Virginia,7
+Baylor,-3
+Texas,13
+Texas Christian,3
+Oklahoma,4
+Kansas State,12
+Texas Tech,17
+Iowa State,-3
+Kansas,-5
+Iowa State,-9

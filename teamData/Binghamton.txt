@@ -1,0 +1,32 @@
+Cornell,6
+St. John's (NY),-16
+Central Connecticut State,2
+Virginia Commonwealth,-39
+Ave Maria,18
+Florida Gulf Coast,-16
+Long Beach State,8
+Florida International,-17
+Mansfield,20
+Saint Francis (PA),3
+Colgate,9
+Loyola (MD),-5
+Delaware State,19
+Army,-11
+Marywood,47
+Maryland-Baltimore County,-14
+Massachusetts-Lowell,-4
+Vermont,-17
+New Hampshire,-7
+Albany (NY),-19
+Stony Brook,4
+Hartford,21
+Maine,11
+Maryland-Baltimore County,-18
+Massachusetts-Lowell,-1
+Vermont,-20
+Albany (NY),-12
+New Hampshire,-8
+Stony Brook,-21
+Hartford,-7
+Maine,-1
+Stony Brook,-10

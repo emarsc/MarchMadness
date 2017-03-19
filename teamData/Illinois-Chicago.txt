@@ -1,0 +1,33 @@
+San Francisco,-2
+Texas-San Antonio,8
+Trinity Christian,36
+Elon,-11
+Cal Poly,13
+Northern Illinois,-11
+Chicago State,16
+Eastern Illinois,-14
+Grand Canyon,-4
+DePaul,5
+Loyola (IL),-6
+Northern Arizona,10
+Roosevelt,38
+Valparaiso,-11
+Detroit Mercy,14
+Oakland,-1
+Cleveland State,5
+Youngstown State,3
+Milwaukee,14
+Valparaiso,-31
+Northern Kentucky,-17
+Wright State,-2
+Green Bay,-4
+Milwaukee,5
+Youngstown State,3
+Cleveland State,-3
+Detroit Mercy,5
+Oakland,-12
+Green Bay,-8
+Northern Kentucky,-8
+Wright State,-38
+Green Bay,9
+Milwaukee,-6

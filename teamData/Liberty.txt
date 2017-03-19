@@ -1,0 +1,32 @@
+Cairn,28
+Virginia Commonwealth,-5
+Indiana,-39
+Massachusetts-Lowell,7
+Mississippi Valley State,15
+William & Mary,-9
+Central Pennsylvania College,14
+North Carolina-Greensboro,-7
+Furman,-3
+Princeton,-3
+Clarks Summit,48
+Lamar,-17
+Houston,-23
+Presbyterian,16
+Charleston Southern,11
+North Carolina-Asheville,-13
+Campbell,7
+High Point,4
+Radford,7
+Gardner-Webb,3
+Winthrop,-13
+Longwood,31
+Campbell,32
+Presbyterian,20
+Radford,3
+Gardner-Webb,5
+Charleston Southern,7
+High Point,3
+Winthrop,-17
+Longwood,16
+North Carolina-Asheville,-18
+Radford,-4

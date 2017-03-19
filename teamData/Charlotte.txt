@@ -1,0 +1,30 @@
+Newberry,13
+Elon,5
+East Carolina,12
+South Carolina Upstate,-5
+Davidson,-22
+Appalachian State,8
+James Madison,9
+Oregon State,3
+Wake Forest,-17
+Florida,-41
+Maryland,-16
+North Texas,25
+Rice,-19
+Western Kentucky,-2
+Marshall,-17
+Louisiana Tech,-6
+Southern Mississippi,16
+Old Dominion,2
+North Texas,1
+Rice,-17
+Florida Atlantic,-2
+Florida International,15
+Alabama-Birmingham,-13
+Middle Tennessee,-15
+Old Dominion,-24
+Western Kentucky,6
+Marshall,-4
+Texas-San Antonio,1
+Texas-El Paso,-7
+Alabama-Birmingham,-1

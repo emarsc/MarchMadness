@@ -1,0 +1,33 @@
+Utah Valley,23
+San Diego State,21
+Bryant,39
+Quinnipiac,20
+Florida,5
+Iowa State,2
+Mississippi Valley State,34
+Arizona,7
+Washington,27
+Akron,18
+Tennessee,10
+South Dakota,37
+Pepperdine,30
+Pacific,20
+San Francisco,15
+Loyola Marymount,38
+Saint Mary's (CA),23
+Santa Clara,31
+Portland,21
+Portland,19
+San Diego,36
+Pepperdine,47
+Brigham Young,10
+Santa Clara,35
+Loyola Marymount,30
+Saint Mary's (CA),10
+San Francisco,35
+Pacific,21
+San Diego,58
+Brigham Young,-8
+Pacific,32
+Santa Clara,9
+Saint Mary's (CA),18

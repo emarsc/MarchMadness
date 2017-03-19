@@ -1,0 +1,34 @@
+Mississippi Valley State,31
+Eastern Washington,14
+Butler,-2
+Texas,19
+Notre Dame,-4
+Bryant,20
+Wake Forest,7
+DePaul,16
+New Orleans,34
+Chicago State,4
+Dayton,3
+IUPUI,22
+Houston Baptist,9
+Penn State,10
+Michigan State,-9
+Minnesota,-4
+Nebraska,8
+Rutgers,9
+Iowa,35
+Ohio State,2
+Nebraska,12
+Indiana,13
+Purdue,-21
+Illinois,-7
+Wisconsin,7
+Maryland,-10
+Rutgers,4
+Illinois,-16
+Indiana,-1
+Michigan,2
+Purdue,-4
+Rutgers,22
+Maryland,8
+Wisconsin,-28

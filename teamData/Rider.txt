@@ -1,0 +1,33 @@
+Hampton,11
+Hartford,16
+South Florida,-5
+Fordham,-11
+Wagner,3
+Fairfield,-9
+Siena,2
+Pacific,7
+Kennesaw State,2
+Drexel,8
+North Carolina A&T,1
+Massachusetts,-11
+North Carolina State,-28
+Monmouth,3
+Marist,11
+Niagara,11
+Manhattan,-3
+Saint Peter's,-6
+Siena,-10
+Marist,18
+Saint Peter's,-5
+Niagara,-13
+Canisius,6
+Iona,-19
+Monmouth,-5
+Quinnipiac,5
+Fairfield,-2
+Canisius,-8
+Iona,18
+Manhattan,11
+Quinnipiac,17
+Manhattan,1
+Iona,-18

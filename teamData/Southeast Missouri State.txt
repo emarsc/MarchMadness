@@ -1,0 +1,33 @@
+Illinois,-19
+Hannibal-LaGrange,32
+Western Illinois,3
+Bradley,-6
+Texas-Rio Grande Valley,11
+Missouri-Kansas City,-11
+Central Arkansas,24
+Indiana,-28
+Missouri State,-8
+Northern Kentucky,-14
+Missouri State,-5
+DePaul,-3
+Chicago State,-9
+Cornell,-16
+Henderson State,14
+Eastern Kentucky,33
+Tennessee State,-3
+Belmont,-12
+Tennessee Tech,5
+Tennessee-Martin,-10
+Southern Illinois-Edwardsville,3
+Eastern Illinois,12
+Murray State,1
+Austin Peay,11
+Jacksonville State,-12
+Morehead State,-8
+Southern Illinois-Edwardsville,4
+Eastern Illinois,-6
+Tennessee-Martin,29
+Murray State,13
+Austin Peay,-9
+Tennessee State,3
+Jacksonville State,-23

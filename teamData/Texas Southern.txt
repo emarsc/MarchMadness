@@ -1,0 +1,34 @@
+Texas-Arlington,-7
+Delaware State,13
+Rice,3
+La Salle,1
+James Madison,11
+Louisiana-Lafayette,-11
+Arizona,-22
+Southern Illinois,-4
+Louisville,-31
+Cincinnati,-38
+Louisiana State,-8
+Texas Christian,-37
+Baylor,-26
+Alcorn State,2
+Southern,8
+Prairie View,5
+Grambling,21
+Jackson State,23
+Arkansas-Pine Bluff,7
+Mississippi Valley State,-14
+Alabama State,2
+Alabama A&M,47
+Prairie View,13
+Grambling,7
+Jackson State,-9
+Arkansas-Pine Bluff,38
+Mississippi Valley State,31
+Alabama State,13
+Alabama A&M,10
+Alcorn State,6
+Southern,13
+Alabama State,15
+Grambling,5
+Alcorn State,3

@@ -1,0 +1,34 @@
+Mount St. Mary's,28
+Mississippi Valley State,41
+New Hampshire,59
+Illinois,32
+Temple,-4
+Manhattan,47
+Virginia,9
+Western Carolina,53
+Virginia Military Institute,35
+Missouri-Kansas City,45
+Radford,27
+Northern Kentucky,31
+Oklahoma State,17
+Texas Tech,-1
+Texas Christian,12
+Baylor,21
+Texas,2
+Oklahoma,-2
+Kansas State,-4
+Kansas,16
+Texas A&M,4
+Iowa State,13
+Oklahoma State,-7
+Oklahoma,11
+Kansas State,19
+Kansas,-4
+Texas Tech,9
+Texas,15
+Texas Christian,1
+Baylor,-9
+Iowa State,11
+Texas,10
+Kansas State,1
+Iowa State,-6

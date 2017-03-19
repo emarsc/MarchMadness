@@ -1,0 +1,32 @@
+Oakland,-8
+South Dakota,-6
+Missouri-Kansas City,-2
+Green Bay,-16
+Murray State,1
+Morgan State,32
+Notre Dame (CA),26
+Cincinnati,-29
+Evansville,-3
+Detroit Mercy,13
+San Jose State,-1
+Alabama A&M,13
+Norfolk State,9
+Akron,-5
+Ball State,5
+Eastern Michigan,-28
+Northern Illinois,-17
+Toledo,-12
+Ball State,5
+Central Michigan,-6
+Ohio,-24
+Miami (OH),11
+Toledo,4
+Kent State,1
+Buffalo,-14
+Western Michigan,-10
+Ohio,-20
+Akron,1
+Miami (OH),16
+Kent State,-7
+Buffalo,-12
+Toledo,-15

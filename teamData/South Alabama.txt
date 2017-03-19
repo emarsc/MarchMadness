@@ -1,0 +1,32 @@
+Nevada-Las Vegas,8
+Blue Mountain College,53
+Florida International,5
+Youngstown State,7
+Jacksonville,13
+Eastern Illinois,-10
+Southern Mississippi,23
+Middle Tennessee,-12
+Stetson,-9
+Denver,-13
+Samford,-3
+Spring Hill,21
+Mississippi,-34
+Troy,1
+Georgia State,-1
+Georgia Southern,-5
+Texas State,5
+Texas-Arlington,-6
+Arkansas-Little Rock,-17
+Arkansas State,-12
+Georgia Southern,12
+Georgia State,-3
+Troy,5
+Louisiana-Monroe,3
+Louisiana-Lafayette,-26
+Appalachian State,13
+Coastal Carolina,-4
+Texas-Arlington,-11
+Texas State,-26
+Arkansas-Little Rock,-5
+Arkansas State,3
+Coastal Carolina,-13

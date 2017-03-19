@@ -1,0 +1,32 @@
+Iowa,-17
+Brewton-Parker,6
+Bethune-Cookman,-3
+Maryland-Baltimore County,-8
+Alabama State,7
+Chattanooga,-17
+South Florida,-2
+Florida A&M,2
+Michigan,-27
+Rider,-2
+Massachusetts,-18
+Pacific,-13
+North Carolina A&T,8
+Mercer,-4
+North Georgia,13
+Tennessee State,3
+Lipscomb,-3
+Florida Gulf Coast,-3
+Stetson,19
+North Florida,-2
+Jacksonville,10
+NJIT,6
+South Carolina Upstate,-6
+NJIT,1
+South Carolina Upstate,5
+Stetson,7
+Florida Gulf Coast,-12
+Jacksonville,-1
+North Florida,17
+Lipscomb,-11
+South Carolina Upstate,2
+Florida Gulf Coast,-12

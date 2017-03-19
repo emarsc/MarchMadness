@@ -1,0 +1,33 @@
+Buffalo,-10
+Brown,-9
+Hartford,-4
+Rutgers,-13
+Drexel,19
+North Texas,-9
+Marist,-6
+Iona,16
+Kent State,-28
+Norfolk State,4
+Youngstown State,-4
+St. Bonaventure,-10
+Long Island University,9
+Quinnipiac,-3
+Siena,5
+Rider,-11
+Manhattan,-9
+Monmouth,-7
+Marist,-6
+Saint Peter's,2
+Canisius,7
+Manhattan,-1
+Rider,13
+Fairfield,-20
+Quinnipiac,-8
+Canisius,13
+Iona,-14
+Monmouth,-18
+Siena,-6
+Saint Peter's,-13
+Fairfield,-4
+Quinnipiac,19
+Monmouth,-25

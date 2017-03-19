@@ -1,0 +1,33 @@
+Saint Joseph's,-1
+Youngstown State,5
+Wright State,4
+Middle Tennessee,-10
+Evansville,4
+Middle Tennessee,-3
+North Carolina-Wilmington,-25
+Green Bay,-1
+Detroit Mercy,8
+Marshall,-6
+Southeastern Louisiana,22
+Loyola (IL),4
+Ohio Christian,40
+Buffalo,32
+Miami (OH),15
+Western Michigan,-16
+Central Michigan,-8
+Bowling Green State,12
+Kent State,-24
+Ohio,3
+Northern Illinois,-2
+Ball State,-1
+Bowling Green State,-4
+Eastern Michigan,16
+Kent State,20
+Akron,-6
+Northern Illinois,8
+Western Michigan,-5
+Central Michigan,21
+Ball State,-8
+Eastern Michigan,4
+Bowling Green State,15
+Ohio,-1

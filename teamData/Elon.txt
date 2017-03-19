@@ -1,0 +1,32 @@
+Peace,33
+Charlotte,-5
+South Florida,13
+Illinois-Chicago,11
+Northern Illinois,5
+Cal Poly,6
+Florida International,3
+Georgetown,-3
+North Carolina-Asheville,-11
+Radford,-12
+Saint Peter's,15
+Duke,-11
+Central Pennsylvania College,29
+College of Charleston,-12
+North Carolina-Wilmington,-16
+William & Mary,-3
+Towson,11
+Hofstra,16
+James Madison,-1
+Drexel,20
+William & Mary,9
+Northeastern,2
+Hofstra,14
+James Madison,6
+College of Charleston,-13
+Delaware,-2
+North Carolina-Wilmington,1
+Towson,-19
+Drexel,9
+Northeastern,-1
+Delaware,22
+William & Mary,-5

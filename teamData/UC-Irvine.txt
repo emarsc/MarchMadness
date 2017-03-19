@@ -1,0 +1,35 @@
+Utah State,-16
+South Dakota State,15
+University of California,-10
+Pacific,7
+South Dakota State,11
+Milwaukee,-17
+East Tennessee State,-6
+Santa Clara,3
+Arizona,-22
+Pomona-Pitzer,27
+Saint Mary's (CA),-31
+Nevada,-7
+New Mexico State,-6
+Akron,-8
+Texas-El Paso,5
+Life Pacific,58
+Long Beach State,15
+Hawaii,28
+UC-Santa Barbara,4
+Cal State Fullerton,20
+Cal Poly,22
+Cal State Northridge,32
+Cal Poly,-13
+UC-Davis,-9
+Long Beach State,-9
+UC-Santa Barbara,17
+Hawaii,14
+UC-Riverside,19
+Cal State Fullerton,-2
+Cal State Northridge,3
+UC-Riverside,12
+UC-Davis,30
+UC-Riverside,9
+Long Beach State,5
+UC-Davis,-3

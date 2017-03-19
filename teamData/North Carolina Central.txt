@@ -1,0 +1,33 @@
+Marshall,-12
+Ohio State,-6
+Western Carolina,8
+Jackson State,9
+Northern Kentucky,8
+Missouri,10
+Southern Wesleyan,37
+East Carolina,-13
+Long Island University,23
+Coastal Carolina,-3
+Louisiana State,-4
+McNeese State,8
+Truett-McConnell,34
+Montreat,35
+Delaware State,-1
+Maryland-Eastern Shore,17
+Norfolk State,15
+Hampton,13
+Howard,35
+North Carolina A&T,23
+Delaware State,8
+Morgan State,6
+Coppin State,9
+South Carolina State,23
+Florida A&M,5
+Maryland-Eastern Shore,13
+Howard,7
+Bethune-Cookman,15
+Savannah State,-1
+North Carolina A&T,-5
+Bethune-Cookman,35
+Maryland-Eastern Shore,28
+Norfolk State,8

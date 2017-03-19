@@ -1,0 +1,30 @@
+Rider,-11
+Chowan,1
+Kansas State,-22
+Richmond,-13
+Robert Morris,-14
+Stony Brook,-10
+East Carolina,-20
+William & Mary,10
+Gardner-Webb,-6
+Winthrop,-7
+Appalachian State,-21
+Princeton,-28
+Coker,25
+North Carolina A&T,15
+Savannah State,4
+Delaware State,8
+North Carolina Central,-13
+Norfolk State,-17
+South Carolina State,-2
+Coppin State,12
+Maryland-Eastern Shore,1
+Savannah State,3
+South Carolina State,29
+Howard,14
+Bethune-Cookman,-1
+Florida A&M,7
+Morgan State,-7
+Norfolk State,4
+Coppin State,7
+Maryland-Eastern Shore,-2

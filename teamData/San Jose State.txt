@@ -1,0 +1,30 @@
+West Coast Baptist,39
+Portland,-13
+Denver,-5
+Saint Mary's (CA),-17
+Washington State,12
+Idaho,9
+Santa Clara,15
+Montana,-19
+Life Pacific,39
+Bowling Green State,1
+Southern Utah,10
+Nevada,-25
+Colorado State,-5
+Fresno State,7
+San Diego State,-15
+Air Force,4
+Wyoming,-10
+Boise State,-10
+Colorado State,-9
+Nevada-Las Vegas,4
+New Mexico,10
+San Diego State,5
+Nevada-Las Vegas,2
+Fresno State,-18
+Air Force,5
+Utah State,-6
+Boise State,-7
+Nevada,-15
+Wyoming,-12
+Utah State,-26

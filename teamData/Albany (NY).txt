@@ -1,0 +1,34 @@
+Penn State,6
+Cincinnati,-23
+SUNY-Oneonta,41
+Grand Canyon,-5
+Brown,4
+Siena,9
+Holy Cross,-6
+Yale,-4
+Marist,12
+Colgate,8
+Canisius,-13
+St. Francis (NY),27
+Southern Methodist,-18
+Columbia,3
+Cornell,10
+Massachusetts-Lowell,-6
+Stony Brook,-2
+New Hampshire,-8
+Maryland-Baltimore County,27
+Binghamton,19
+Maine,18
+Vermont,-11
+Hartford,13
+Massachusetts-Lowell,13
+Stony Brook,-7
+New Hampshire,14
+Binghamton,12
+Maryland-Baltimore County,9
+Maine,18
+Vermont,-12
+Hartford,18
+Hartford,29
+Stony Brook,7
+Vermont,-3

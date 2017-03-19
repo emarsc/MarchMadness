@@ -1,0 +1,30 @@
+Hood,31
+Maryland-Eastern Shore,4
+Delaware State,22
+Kennesaw State,8
+Navy,-12
+Duquesne,9
+Messiah,39
+Mount St. Mary's,8
+Richmond,-3
+Towson,-1
+Citadel,9
+James Madison,1
+Virginia Tech,-17
+Binghamton,14
+Maine,11
+Hartford,16
+Vermont,-9
+Albany (NY),-27
+Massachusetts-Lowell,16
+Stony Brook,-10
+New Hampshire,2
+Binghamton,18
+Maine,12
+Hartford,-7
+Vermont,-3
+Albany (NY),-9
+Massachusetts-Lowell,6
+Stony Brook,13
+New Hampshire,-4
+New Hampshire,-9

@@ -1,0 +1,33 @@
+College of Charleston,-13
+Johnson University,62
+Truett-McConnell,29
+Stetson,4
+Iowa State,-67
+Arizona State,-17
+Presbyterian,14
+Colgate,7
+South Carolina Upstate,5
+Campbell,-6
+Toccoa Falls,50
+Virginia Tech,-42
+Maryland-Baltimore County,-9
+North Carolina-Greensboro,-8
+Furman,-15
+Wofford,1
+East Tennessee State,-44
+Virginia Military Institute,5
+Chattanooga,-10
+Samford,-8
+Western Carolina,-5
+North Carolina-Greensboro,-9
+Mercer,-16
+Wofford,-10
+Furman,-8
+East Tennessee State,-21
+Virginia Military Institute,-23
+Mercer,-11
+Western Carolina,-4
+Samford,6
+Chattanooga,9
+Western Carolina,6
+North Carolina-Greensboro,-9

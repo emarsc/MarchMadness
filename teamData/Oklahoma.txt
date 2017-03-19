@@ -1,0 +1,31 @@
+Northwestern State,36
+Tulane,19
+Northern Iowa,-6
+Clemson,6
+Abilene Christian,8
+Northern Colorado,21
+Wisconsin,-20
+Oral Roberts,26
+Wichita State,-3
+Memphis,-5
+Auburn,-4
+Baylor,-26
+Texas Christian,-3
+Kansas State,-11
+Kansas,-11
+Texas Tech,9
+West Virginia,2
+Iowa State,-5
+Texas,-1
+Florida,-32
+Oklahoma State,-2
+Texas Tech,-8
+West Virginia,-11
+Iowa State,-16
+Texas,4
+Oklahoma State,-4
+Baylor,-6
+Kansas State,30
+Kansas,-10
+Texas Christian,5
+Texas Christian,-19

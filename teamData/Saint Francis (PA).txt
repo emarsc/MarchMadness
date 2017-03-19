@@ -1,0 +1,32 @@
+St. Bonaventure,-10
+Duquesne,-14
+Chatham,60
+Longwood,15
+American,7
+NJIT,-13
+Binghamton,-3
+Lehigh,-33
+Stony Brook,-12
+Marquette,-13
+Texas A&M,-23
+Fairleigh Dickinson,-12
+Sacred Heart,20
+St. Francis (NY),25
+Long Island University,-13
+Robert Morris,20
+Mount St. Mary's,-6
+Bryant,14
+Central Connecticut State,-1
+Wagner,5
+Robert Morris,6
+St. Francis (NY),17
+Long Island University,2
+Wagner,-2
+Mount St. Mary's,-19
+Central Connecticut State,9
+Bryant,-4
+Sacred Heart,9
+Fairleigh Dickinson,6
+Bryant,22
+Wagner,1
+Mount St. Mary's,-10

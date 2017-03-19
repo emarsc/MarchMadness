@@ -1,0 +1,32 @@
+Southern Illinois,4
+Miami (OH),2
+Toledo,-4
+Ohio Dominican,55
+Cal State Bakersfield,4
+North Dakota,4
+North Florida,8
+Georgia State,-7
+Penn State,-22
+Loyola (IL),-13
+Urbana,51
+Kent State,5
+Murray State,15
+Oakland,-19
+Detroit Mercy,13
+Cleveland State,4
+Youngstown State,-5
+Green Bay,-17
+Milwaukee,3
+Detroit Mercy,18
+Oakland,21
+Valparaiso,-15
+Illinois-Chicago,2
+Northern Kentucky,-4
+Milwaukee,11
+Green Bay,9
+Youngstown State,3
+Cleveland State,6
+Northern Kentucky,-7
+Valparaiso,-10
+Illinois-Chicago,38
+Northern Kentucky,-5

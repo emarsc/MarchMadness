@@ -1,0 +1,29 @@
+Portland,-16
+Bristol University,36
+Nevada-Las Vegas,-12
+Fresno Pacific,46
+Utah,-18
+UCLA,-42
+Santa Clara,-24
+Montana,-8
+Northern Colorado,-16
+Denver,-18
+Utah Valley,-9
+Grand Canyon,20
+Cal State Northridge,-6
+Long Beach State,-6
+UC-Davis,6
+Cal State Fullerton,8
+UC-Santa Barbara,10
+Hawaii,6
+Cal State Northridge,-4
+Hawaii,-9
+Cal Poly,11
+Long Beach State,-7
+UC-Davis,-14
+Cal State Fullerton,-1
+UC-Irvine,-19
+UC-Santa Barbara,-7
+Cal Poly,-7
+UC-Irvine,-12
+UC-Irvine,-9

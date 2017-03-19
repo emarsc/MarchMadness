@@ -1,0 +1,30 @@
+Maine,-22
+Stephen F. Austin,-6
+Salem International,13
+Saint Francis (PA),-15
+Dartmouth,6
+James Madison,-12
+Creighton,-55
+George Mason,-37
+Averett,19
+Ball State,-16
+Texas Tech,-31
+Campbell,2
+High Point,5
+Presbyterian,3
+Winthrop,-18
+North Carolina-Asheville,-21
+Gardner-Webb,-6
+Radford,-12
+Charleston Southern,-15
+Liberty,-31
+Presbyterian,-9
+High Point,-24
+Gardner-Webb,-26
+Campbell,-4
+North Carolina-Asheville,-22
+Winthrop,-20
+Radford,-7
+Liberty,-16
+Charleston Southern,-8
+Charleston Southern,-5

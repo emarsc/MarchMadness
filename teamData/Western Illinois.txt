@@ -1,0 +1,28 @@
+Kansas State,-27
+Oak Hills Christian,47
+Southeast Missouri State,-3
+Eastern Illinois,-9
+Crown College,38
+Miami (OH),-9
+American,-7
+Chicago State,-7
+Eastern Illinois,-14
+Milwaukee,16
+Purdue,-32
+IPFW,2
+IUPUI,-18
+South Dakota State,8
+Oral Roberts,15
+Denver,-14
+Nebraska-Omaha,-14
+North Dakota State,-32
+South Dakota,-7
+IUPUI,9
+South Dakota State,-33
+Nebraska-Omaha,-12
+Oral Roberts,3
+Denver,-6
+North Dakota State,-9
+South Dakota,-11
+IPFW,-4
+South Dakota,-9

@@ -1,0 +1,31 @@
+Columbia,-7
+Boston College,-7
+Maryland,-14
+Towson,-27
+Hampton,10
+Loyola (MD),-1
+Northeastern,2
+Lehigh,5
+Rutgers,-5
+Hofstra,-38
+Saint Francis (PA),12
+NJIT,-3
+Brown,3
+New Hampshire,3
+Albany (NY),2
+Maine,20
+Massachusetts-Lowell,11
+Hartford,16
+Binghamton,-4
+Maryland-Baltimore County,10
+Vermont,-7
+New Hampshire,3
+Albany (NY),7
+Massachusetts-Lowell,11
+Maine,1
+Hartford,12
+Binghamton,21
+Maryland-Baltimore County,-13
+Vermont,-15
+Binghamton,10
+Albany (NY),-7

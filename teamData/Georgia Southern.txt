@@ -1,0 +1,32 @@
+North Carolina State,-2
+Coastal Georgia,49
+Mercer,-13
+Akron,-8
+Florida A&M,11
+Radford,1
+Savannah State,19
+Florida Gulf Coast,-3
+Minnesota,-37
+Florida Gulf Coast,13
+Florida International,7
+Winthrop,-2
+Fisk,48
+Georgia State,23
+Troy,4
+South Alabama,5
+Louisiana-Lafayette,5
+Louisiana-Monroe,2
+Appalachian State,4
+Coastal Carolina,11
+South Alabama,-12
+Troy,-7
+Louisiana-Monroe,14
+Louisiana-Lafayette,4
+Coastal Carolina,-12
+Appalachian State,-5
+Texas State,3
+Texas-Arlington,-10
+Arkansas State,12
+Arkansas-Little Rock,-2
+Georgia State,-5
+Troy,-20

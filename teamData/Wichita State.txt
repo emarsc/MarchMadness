@@ -1,0 +1,34 @@
+South Carolina State,46
+Long Beach State,37
+Tulsa,27
+Maryland-Eastern Shore,37
+Louisiana State,35
+Louisville,-10
+Michigan State,-5
+Southern Nazarene,30
+Colorado State,15
+Saint Louis,30
+Oklahoma,3
+Oklahoma State,-17
+South Dakota State,22
+Indiana State,8
+Bradley,34
+Drake,25
+Northern Iowa,14
+Loyola (IL),12
+Illinois State,-14
+Evansville,17
+Indiana State,26
+Southern Illinois,42
+Bradley,15
+Drake,8
+Illinois State,41
+Missouri State,18
+Loyola (IL),17
+Southern Illinois,19
+Northern Iowa,29
+Evansville,26
+Missouri State,19
+Bradley,26
+Missouri State,15
+Illinois State,20

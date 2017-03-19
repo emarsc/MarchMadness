@@ -1,0 +1,34 @@
+Tulsa,11
+Missouri State,-26
+Western Kentucky,-7
+Texas Christian,-19
+Dalton State,31
+Cal State Fullerton,23
+Northern Arizona,13
+Alabama State,3
+Samford,-4
+Louisiana-Monroe,-5
+Maryland,-26
+Howard,13
+South Carolina Upstate,1
+Chattanooga,-16
+Tennessee-Martin,18
+Eastern Illinois,1
+Murray State,-13
+Austin Peay,3
+Fort Valley State,12
+Tennessee Tech,15
+Belmont,-17
+Tennessee State,7
+Eastern Kentucky,-5
+Morehead State,-3
+Southeast Missouri State,12
+Southern Illinois-Edwardsville,11
+Belmont,-13
+Tennessee State,6
+Tennessee Tech,-1
+Eastern Kentucky,-3
+Morehead State,9
+Southeast Missouri State,23
+Belmont,6
+Tennessee-Martin,11

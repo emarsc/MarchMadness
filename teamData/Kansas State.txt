@@ -1,0 +1,33 @@
+Western Illinois,27
+Nebraska-Omaha,13
+Hampton,22
+Robert Morris,21
+Boston College,18
+Maryland,-1
+Green Bay,19
+Saint Louis,31
+Prairie View,19
+Washington State,14
+Colorado State,19
+Gardner-Webb,13
+Texas,3
+Kansas,-2
+Oklahoma,11
+Texas Tech,-1
+Baylor,-9
+Oklahoma State,8
+West Virginia,4
+Iowa State,-5
+Tennessee,-12
+Texas Christian,-6
+Baylor,2
+Kansas,-3
+West Virginia,-19
+Iowa State,-8
+Texas,3
+Oklahoma State,-12
+Oklahoma,-30
+Texas Christian,1
+Texas Tech,13
+Baylor,6
+West Virginia,-1

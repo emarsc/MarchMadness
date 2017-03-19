@@ -1,0 +1,30 @@
+Southern Illinois-Edwardsville,-1
+Texas State,6
+Florida Atlantic,1
+North Carolina,-15
+Hawaii-Hilo,31
+Troy,-2
+Arkansas-Pine Bluff,20
+Seton Hall,-11
+Princeton,-13
+Illinois State,-26
+Utah,-14
+Southern Mississippi,14
+Delaware State,11
+Cal State Fullerton,-3
+UC-Irvine,-28
+Long Beach State,7
+Cal State Northridge,3
+UC-Davis,-6
+UC-Riverside,-6
+UC-Santa Barbara,22
+UC-Riverside,9
+Cal State Northridge,4
+Cal Poly,9
+UC-Irvine,-14
+UC-Santa Barbara,-2
+Cal Poly,21
+Cal State Fullerton,6
+UC-Davis,-9
+Long Beach State,-9
+Long Beach State,-11

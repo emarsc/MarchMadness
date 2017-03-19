@@ -1,0 +1,32 @@
+Lesley,27
+Temple,5
+Abilene Christian,-8
+West Virginia,-59
+Detroit Mercy,16
+Winthrop,5
+Providence,-14
+Holy Cross,3
+American,10
+Bryant,13
+Boston University,-4
+Daniel Webster,63
+Dartmouth,-1
+Wheelock,45
+Stony Brook,-3
+Albany (NY),8
+Binghamton,7
+Vermont,-12
+Maine,11
+Hartford,25
+Massachusetts-Lowell,9
+Maryland-Baltimore County,-2
+Stony Brook,-3
+Albany (NY),-14
+Vermont,-8
+Binghamton,8
+Maine,13
+Hartford,30
+Massachusetts-Lowell,11
+Maryland-Baltimore County,4
+Maryland-Baltimore County,9
+Vermont,-33

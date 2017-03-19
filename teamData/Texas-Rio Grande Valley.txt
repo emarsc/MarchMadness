@@ -1,0 +1,32 @@
+Tennessee-Martin,-8
+Memphis,-19
+Texas A&M-Corpus Christi,-22
+Iowa,-28
+Southeast Missouri State,-11
+Grambling,8
+St. Francis (NY),10
+Texas A&M-Corpus Christi,-16
+Portland State,-13
+Portland,-1
+Texas State,11
+North Florida,14
+Lamar,14
+Houston,-25
+Wayland Baptist,31
+Our Lady of the Lake,16
+Texas A&M-Kingsville,18
+Chicago State,19
+Missouri-Kansas City,-4
+Cal State Bakersfield,-7
+Grand Canyon,-13
+Chicago State,8
+Utah Valley,-11
+Seattle,-12
+Missouri-Kansas City,-13
+Grand Canyon,-19
+Cal State Bakersfield,-22
+New Mexico State,-6
+Seattle,-9
+Utah Valley,-20
+New Mexico State,-26
+Missouri-Kansas City,-4

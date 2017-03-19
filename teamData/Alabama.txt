@@ -1,0 +1,33 @@
+Coastal Carolina,17
+Dayton,-5
+Ball State,18
+Valparaiso,-8
+Saint Louis,5
+Charleston Southern,30
+Texas,-9
+Oregon,-9
+South Carolina Upstate,17
+Clemson,-13
+Arkansas State,15
+Stetson,23
+Mississippi State,10
+Vanderbilt,3
+Florida,-13
+Louisiana State,15
+Missouri,12
+Auburn,-20
+Georgia,20
+Mississippi State,9
+Arkansas,-19
+Auburn,-5
+South Carolina,4
+Kentucky,-9
+Missouri,3
+Louisiana State,18
+Georgia,-5
+Texas A&M,-3
+Mississippi,15
+Tennessee,-5
+Mississippi State,20
+South Carolina,11
+Kentucky,-5

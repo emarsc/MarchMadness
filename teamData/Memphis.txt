@@ -1,0 +1,32 @@
+Texas-Rio Grande Valley,19
+Milwaukee,14
+Savannah State,13
+McNeese State,39
+Providence,-9
+Iowa,8
+Jackson State,15
+Mississippi,-8
+Alabama-Birmingham,7
+Monmouth,-3
+Oklahoma,5
+Incarnate Word,24
+Southern Methodist,-4
+South Carolina,16
+Connecticut,9
+Tulane,21
+Tulsa,-10
+South Florida,6
+Houston,3
+Central Florida,5
+Temple,-11
+East Carolina,7
+South Florida,10
+Central Florida,-15
+Tulsa,22
+Temple,-12
+Connecticut,-3
+Cincinnati,-13
+Houston,-1
+Tulane,22
+Southern Methodist,-41
+Central Florida,-30

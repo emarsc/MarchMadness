@@ -1,0 +1,29 @@
+Texas A&M,-28
+Oklahoma,-36
+LeTourneau,5
+Louisiana State-Alexandria,13
+Missouri,-24
+Mississippi State,-6
+Louisiana State-Shreveport,14
+Texas-El Paso,12
+Louisiana-Monroe,4
+Rice,-7
+Louisiana College,20
+McNeese State,-7
+Incarnate Word,-4
+Texas A&M-Corpus Christi,-17
+Nicholls State,5
+Sam Houston State,-9
+McNeese State,13
+Southeastern Louisiana,14
+Lamar,-21
+Central Arkansas,-10
+Stephen F. Austin,-2
+Houston Baptist,-17
+Abilene Christian,-4
+Southeastern Louisiana,-7
+Nicholls State,2
+Lamar,-20
+New Orleans,1
+Stephen F. Austin,5
+Central Arkansas,14

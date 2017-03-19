@@ -1,0 +1,32 @@
+Ohio State,-10
+Washington College,27
+North Dakota State,-7
+High Point,-7
+North Carolina-Greensboro,-13
+Maryland-Baltimore County,12
+Pennsylvania,2
+College of Charleston,-6
+Furman,-33
+Bryant,2
+Columbia,15
+Hartford,-9
+Bucknell,-4
+Holy Cross,-1
+Boston University,-18
+Colgate,12
+Loyola (MD),13
+Lafayette,37
+Lehigh,3
+Army,16
+American,18
+Holy Cross,13
+Boston University,9
+Colgate,-3
+Loyola (MD),3
+Lafayette,8
+Lehigh,-19
+Army,-3
+American,-16
+Bucknell,-22
+Holy Cross,7
+Bucknell,-3

@@ -1,0 +1,33 @@
+Northern Arizona,3
+UC-Davis,-5
+Tennessee State,-8
+Northern Colorado,16
+Sacred Heart,10
+Arizona,-8
+Vanderbilt,-10
+UC-Irvine,-3
+San Jose State,-15
+Cal State East Bay,25
+UC-Riverside,24
+Washington State,-1
+Valparaiso,7
+Brigham Young,-30
+San Francisco,14
+Portland,28
+Loyola Marymount,-10
+San Diego,2
+Pepperdine,14
+Gonzaga,-31
+Loyola Marymount,1
+Brigham Young,8
+Saint Mary's (CA),-13
+Portland,15
+Gonzaga,-35
+San Francisco,-3
+Pacific,17
+Pepperdine,51
+San Diego,-2
+Pacific,1
+Saint Mary's (CA),-14
+San Francisco,7
+Gonzaga,-9

@@ -1,0 +1,31 @@
+Montana State,4
+Central Washington,5
+Creighton,-26
+Montana,24
+Loyola (IL),-9
+San Jose State,-12
+Utah Valley,7
+New Orleans,-16
+Idaho,13
+Kansas State,-14
+Santa Clara,1
+Sacramento State,8
+Washington,5
+Oregon State,13
+Oregon,-19
+Stanford,-30
+University of California,-4
+Utah,-41
+Colorado,2
+Arizona,-17
+Arizona State,8
+UCLA,-16
+Southern California,-9
+Utah,-4
+Colorado,-32
+Arizona,-19
+Arizona State,15
+Washington,8
+Southern California,-23
+UCLA,-9
+Colorado,-10
