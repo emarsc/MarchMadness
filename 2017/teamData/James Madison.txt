@@ -1,0 +1,33 @@
+Old Dominion,-7
+Rice,-24
+Montana State,-7
+Texas Southern,-11
+Louisiana-Lafayette,-12
+George Mason,-3
+Charlotte,-9
+Longwood,12
+Western Michigan,-7
+Appalachian State,-12
+Richmond,-20
+Maryland-Baltimore County,-1
+East Mennonite,17
+Drexel,11
+Towson,20
+Hofstra,8
+Northeastern,-10
+College of Charleston,-2
+Elon,1
+William & Mary,-1
+College of Charleston,-13
+North Carolina-Wilmington,-11
+Delaware,-5
+Elon,-6
+Northeastern,4
+North Carolina-Wilmington,-15
+Delaware,-1
+William & Mary,3
+Towson,-10
+Drexel,6
+Hofstra,-5
+Drexel,10
+College of Charleston,-5

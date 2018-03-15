@@ -1,0 +1,32 @@
+Xavier (LA),12
+Southeastern Louisiana,-13
+North Carolina Central,-9
+Marshall,-10
+Ohio State,-31
+Western Carolina,-11
+Memphis,-15
+Southern Mississippi,11
+Drake,5
+Blue Mountain College,-8
+Baylor,-25
+Duquesne,-12
+Fisk,32
+Alabama A&M,12
+Alabama State,3
+Southern,4
+Alcorn State,-13
+Prairie View,-7
+Texas Southern,-23
+Grambling,-15
+Mississippi Valley State,15
+Arkansas-Pine Bluff,15
+Alcorn State,-11
+Southern,-13
+Prairie View,9
+Texas Southern,9
+Grambling,-3
+Mississippi Valley State,-3
+Arkansas-Pine Bluff,11
+Alabama A&M,8
+Alabama State,6
+Southern,-6

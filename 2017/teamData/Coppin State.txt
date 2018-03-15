@@ -1,0 +1,32 @@
+Hofstra,-2
+Valparaiso,-20
+Coastal Carolina,-30
+Brigham Young,-37
+Utah,-43
+Ball State,-2
+Grand Canyon,-33
+Chestnut Hill,-3
+Georgetown,-52
+Clemson,-42
+Akron,-24
+Buffalo,-35
+Goldey-Beacom,6
+Louisiana-Monroe,-12
+Mount St. Mary's,-38
+South Carolina State,16
+Florida A&M,-1
+Bethune-Cookman,3
+North Carolina A&T,2
+Howard,9
+Norfolk State,-10
+Morgan State,-2
+Hampton,-12
+Maryland-Eastern Shore,-21
+North Carolina Central,-9
+Bethune-Cookman,4
+Delaware State,8
+South Carolina State,-5
+Savannah State,1
+Morgan State,-5
+Hampton,-7
+Howard,-6

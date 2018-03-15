@@ -1,0 +1,31 @@
+Cal Tech,49
+Portland State,6
+Washington,-16
+Nevada-Las Vegas,-9
+Jacksonville State,-23
+Alabama State,-9
+Nebraska-Omaha,-10
+Pacific,1
+San Diego,-7
+Southern Utah,13
+Nebraska-Omaha,-6
+Portland,5
+Bethesda University (CA),43
+Hawaii,3
+Cal State Northridge,-5
+Cal Poly,13
+UC-Irvine,-20
+UC-Riverside,-8
+Long Beach State,-11
+Cal Poly,10
+UC-Santa Barbara,26
+UC-Davis,-9
+Long Beach State,5
+UC-Riverside,1
+UC-Davis,7
+UC-Irvine,2
+Hawaii,-6
+UC-Santa Barbara,11
+Cal State Northridge,8
+Cal State Northridge,13
+UC-Davis,-2

@@ -1,0 +1,33 @@
+Princeton,9
+Coppin State,37
+Coastal Carolina,16
+Saint Louis,30
+Valparaiso,-3
+Utah Valley,-13
+Utah State,14
+Southern California,-7
+Weber State,13
+Colorado,8
+Illinois,-2
+Idaho State,26
+Cal State Bakersfield,10
+Santa Clara,30
+Loyola Marymount,5
+Saint Mary's (CA),-13
+Pacific,29
+San Francisco,10
+San Diego,-13
+Pepperdine,29
+Pacific,15
+Santa Clara,-8
+Loyola Marymount,8
+Gonzaga,-10
+Portland,11
+Pepperdine,-16
+San Francisco,16
+San Diego,12
+Saint Mary's (CA),-13
+Portland,19
+Gonzaga,8
+Loyola Marymount,8
+Saint Mary's (CA),-31

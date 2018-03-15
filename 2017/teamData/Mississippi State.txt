@@ -1,0 +1,32 @@
+Norfolk State,4
+Central Florida,-25
+Boise State,12
+Texas-El Paso,7
+Lehigh,-14
+Northwestern State,6
+Oregon State,17
+Georgia State,22
+East Tennessee State,-2
+Southern Mississippi,42
+Morehead State,9
+Missouri-Kansas City,23
+Alabama,-10
+Louisiana State,17
+Arkansas,6
+Texas A&M,8
+Kentucky,-7
+Tennessee,-17
+Missouri,15
+Alabama,-9
+Mississippi,-27
+Tennessee,5
+Auburn,-6
+South Carolina,-4
+Georgia,-7
+Florida,-5
+Mississippi,-5
+Vanderbilt,-29
+South Carolina,-6
+Louisiana State,12
+Louisiana State,27
+Alabama,-20

@@ -1,0 +1,34 @@
+Florida State,-21
+Nevada,-15
+Drake,11
+Weber State,22
+Nevada,2
+Saint Peter's,14
+Niagara,-16
+Fairleigh Dickinson,17
+Ohio,4
+NJIT,14
+UC-Santa Barbara,16
+Towson,-7
+Delaware,-9
+Marist,13
+Fairfield,-6
+Monmouth,-18
+Canisius,23
+Quinnipiac,-6
+Manhattan,15
+Fairfield,7
+Quinnipiac,10
+Siena,11
+Saint Peter's,3
+Rider,19
+Siena,-2
+Niagara,14
+Canisius,-6
+Marist,7
+Rider,-18
+Manhattan,21
+Monmouth,-6
+Rider,18
+Saint Peter's,8
+Siena,1

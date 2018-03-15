@@ -1,0 +1,33 @@
+Incarnate Word,5
+Louisiana-Monroe,21
+Eastern Washington,33
+Northwestern,-19
+Colorado,-14
+Texas-Arlington,-11
+Alabama,9
+Michigan,-3
+Long Beach State,6
+Arkansas,-3
+Alabama-Birmingham,36
+Kent State,-5
+Kansas State,-3
+Oklahoma State,3
+Iowa State,-9
+Texas Christian,-3
+West Virginia,-2
+Baylor,-10
+Kansas,-12
+Oklahoma,1
+Georgia,-2
+Texas Tech,4
+Texas Christian,-15
+Iowa State,2
+Oklahoma State,-13
+Oklahoma,-4
+Kansas State,-3
+West Virginia,-15
+Kansas,-10
+Texas Tech,-10
+Baylor,-11
+Texas Tech,9
+West Virginia,-10

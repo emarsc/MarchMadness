@@ -1,0 +1,34 @@
+Claflin,46
+Eastern Kentucky,9
+East Tennessee State,9
+Middle Tennessee,-5
+Evansville,3
+Toledo,25
+Western Michigan,5
+Pfeiffer,13
+St. Bonaventure,1
+Campbell,21
+Radford,36
+East Carolina,10
+Clemson,-14
+Towson,9
+Elon,16
+Drexel,18
+Delaware,10
+William & Mary,24
+Hofstra,8
+College of Charleston,6
+Drexel,13
+James Madison,11
+William & Mary,-18
+College of Charleston,-1
+Delaware,28
+James Madison,15
+Elon,-1
+Northeastern,1
+Hofstra,7
+Towson,5
+Northeastern,9
+Delaware,9
+William & Mary,11
+College of Charleston,9

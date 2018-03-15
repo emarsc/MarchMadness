@@ -1,0 +1,33 @@
+Mississippi,-3
+Texas-Rio Grande Valley,8
+Cumberland,31
+Cleveland State,11
+Canisius,3
+Duquesne,3
+Kentucky,-35
+Florida Atlantic,1
+Arkansas-Pine Bluff,5
+Boyce,44
+Illinois State,-17
+Arkansas State,-19
+Bethune-Cookman,25
+Missouri-Kansas City,11
+Southern Illinois,-8
+Jacksonville State,-18
+Morehead State,4
+Belmont,-16
+Tennessee State,-11
+Southeast Missouri State,10
+Eastern Illinois,11
+Southern Illinois-Edwardsville,8
+Austin Peay,6
+Murray State,-8
+Tennessee Tech,29
+Eastern Kentucky,17
+Eastern Illinois,-10
+Southern Illinois-Edwardsville,7
+Southeast Missouri State,-29
+Austin Peay,4
+Murray State,7
+Murray State,6
+Jacksonville State,-11

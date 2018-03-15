@@ -1,0 +1,31 @@
+Austin Peay,28
+Alabama,5
+Saint Mary's (CA),-4
+Nebraska,-2
+Portland,10
+New Mexico,7
+Winthrop,16
+Saint Joseph's (IN),32
+East Tennessee State,14
+Northwestern,-3
+Vanderbilt,5
+Virginia Military Institute,36
+La Salle,11
+St. Bonaventure,16
+Rhode Island,3
+Massachusetts,-12
+Duquesne,19
+Richmond,16
+Saint Louis,21
+Virginia Commonwealth,-5
+Fordham,9
+Duquesne,37
+Saint Joseph's,7
+Rhode Island,1
+Saint Louis,22
+St. Bonaventure,4
+George Mason,13
+Davidson,7
+Virginia Commonwealth,7
+George Washington,-6
+Davidson,-6

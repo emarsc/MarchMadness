@@ -1,0 +1,32 @@
+Fairfield,-22
+Hofstra,4
+Arizona,-30
+Santa Clara,-10
+Northern Colorado,-22
+Norfolk State,2
+Fordham,1
+Hartford,-8
+Massachusetts-Lowell,9
+Yale,-14
+Lafayette,24
+Boston College,-7
+Holy Cross,-5
+Robert Morris,-11
+Saint Francis (PA),-20
+Central Connecticut State,2
+Wagner,-11
+St. Francis (NY),12
+Bryant,2
+Mount St. Mary's,-11
+Wagner,-5
+Long Island University,-3
+Mount St. Mary's,-14
+Fairleigh Dickinson,4
+Bryant,3
+St. Francis (NY),15
+Central Connecticut State,15
+Fairleigh Dickinson,10
+Long Island University,-1
+Saint Francis (PA),-9
+Robert Morris,-7
+Mount St. Mary's,-3

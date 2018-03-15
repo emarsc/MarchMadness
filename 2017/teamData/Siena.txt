@@ -1,0 +1,34 @@
+Cornell,11
+George Washington,-2
+Kansas,-21
+North Carolina-Asheville,-12
+Arkansas-Pine Bluff,23
+Albany (NY),-9
+St. Bonaventure,-7
+Fairfield,7
+Rider,-2
+Florida Gulf Coast,-4
+Bucknell,3
+Hofstra,-20
+Vermont,-16
+Canisius,-3
+Niagara,-5
+Saint Peter's,2
+Quinnipiac,7
+Fairfield,9
+Rider,10
+Saint Peter's,-12
+Manhattan,13
+Iona,-11
+Quinnipiac,9
+Canisius,-7
+Iona,2
+Marist,7
+Monmouth,-20
+Manhattan,23
+Niagara,6
+Monmouth,-4
+Marist,16
+Fairfield,12
+Monmouth,4
+Iona,-1

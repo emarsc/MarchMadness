@@ -1,0 +1,30 @@
+Pacific Lutheran,11
+Colorado,-12
+Notre Dame,-43
+Louisiana-Monroe,6
+Eastern Washington,-4
+Central Florida,-16
+Northwest University,17
+Eastern Washington,-5
+Great Falls,41
+Arkansas-Pine Bluff,5
+Mississippi Valley State,15
+Southern Utah,14
+Washington,-22
+UC-Davis,-7
+UC-Santa Barbara,4
+Cal State Bakersfield,-7
+Missouri-Kansas City,-16
+Chicago State,15
+Grand Canyon,-2
+New Mexico State,-15
+Texas-Rio Grande Valley,12
+Utah Valley,13
+Chicago State,25
+Missouri-Kansas City,-30
+Grand Canyon,-3
+Cal State Bakersfield,-3
+Texas-Rio Grande Valley,9
+New Mexico State,-33
+Utah Valley,-7
+Utah Valley,-12

@@ -1,0 +1,33 @@
+Drake,5
+Bowling Green State,6
+Presentation College,39
+Doane College,34
+Kent State,3
+Houston,-27
+Hofstra,-8
+Montana,5
+Missouri-Kansas City,-2
+Nebraska,-12
+Montana State,17
+Sacramento State,16
+Portland,-3
+Montana State,12
+Gonzaga,-37
+Nebraska-Omaha,17
+South Dakota State,-1
+Denver,6
+IUPUI,11
+North Dakota State,-1
+IPFW,3
+Oral Roberts,-10
+Western Illinois,7
+Denver,5
+Nebraska-Omaha,-8
+North Dakota State,10
+IPFW,11
+South Dakota State,2
+Oral Roberts,14
+Western Illinois,11
+IUPUI,7
+Western Illinois,9
+South Dakota State,-3

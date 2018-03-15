@@ -1,0 +1,30 @@
+Baylor,-15
+Rogers State,11
+Mississippi,-7
+Loyola (IL),-25
+Montana,-21
+Tulsa,-14
+Oakland,-28
+Michigan State,-4
+Oklahoma,-26
+John Brown,32
+Missouri State,-10
+Creighton,-1
+Arkansas-Little Rock,15
+Richmond,15
+Denver,-4
+IPFW,-11
+Western Illinois,-15
+South Dakota State,6
+IUPUI,-6
+South Dakota,10
+Nebraska-Omaha,17
+North Dakota State,-10
+IPFW,-4
+Denver,-24
+South Dakota State,-7
+Western Illinois,-3
+IUPUI,6
+Nebraska-Omaha,-7
+South Dakota,-14
+North Dakota State,-2

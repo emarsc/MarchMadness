@@ -1,0 +1,34 @@
+West Virginia,-28
+Iowa State,-18
+Minnesota,-24
+George Mason,2
+Southern Illinois,-10
+Texas-Arlington,-9
+Michigan,-17
+Arkansas,-13
+Loyola (MD),-7
+Maryland-Baltimore County,-8
+Lehigh,-19
+Bucknell,-16
+Coppin State,38
+Long Island University,2
+Wagner,1
+Bryant,-1
+Central Connecticut State,9
+Fairleigh Dickinson,7
+Saint Francis (PA),6
+Sacred Heart,11
+St. Francis (NY),8
+Robert Morris,1
+Sacred Heart,14
+Bryant,7
+Central Connecticut State,-2
+Robert Morris,4
+Saint Francis (PA),19
+Wagner,-4
+Fairleigh Dickinson,5
+Long Island University,-4
+St. Francis (NY),15
+Sacred Heart,3
+Robert Morris,9
+Saint Francis (PA),10

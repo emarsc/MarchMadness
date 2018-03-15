@@ -1,0 +1,31 @@
+Kent State,-5
+Canisius,3
+Tennessee-Martin,-11
+Kentucky,-31
+Duquesne,-7
+Arkansas State,-27
+Bethune-Cookman,11
+Western Michigan,23
+Purdue,-24
+Ohio,-18
+Lake Erie,17
+Belmont,-27
+Green Bay,-1
+Milwaukee,9
+Wright State,-4
+Northern Kentucky,-8
+Illinois-Chicago,-5
+Valparaiso,-11
+Oakland,11
+Milwaukee,-1
+Green Bay,-10
+Youngstown State,-3
+Detroit Mercy,17
+Oakland,-2
+Valparaiso,-21
+Illinois-Chicago,3
+Northern Kentucky,-2
+Wright State,-6
+Detroit Mercy,-8
+Youngstown State,14
+Youngstown State,-15

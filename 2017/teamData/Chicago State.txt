@@ -1,0 +1,32 @@
+Illinois Tech,8
+Wisconsin,-18
+Oakland,-28
+East-West,28
+Notre Dame,-31
+Illinois-Chicago,-16
+Western Illinois,7
+Bradley,-35
+Saint Louis,-2
+Northwestern,-4
+DePaul,-48
+Missouri State,-20
+Southeast Missouri State,9
+Troy,-18
+Valparaiso,-19
+Central Michigan,-8
+Texas-Rio Grande Valley,-19
+New Mexico State,-16
+Utah Valley,9
+Seattle,-15
+Roosevelt,20
+Texas-Rio Grande Valley,-8
+Cal State Bakersfield,-16
+Grand Canyon,-8
+New Mexico State,-35
+Seattle,-25
+Utah Valley,-33
+Missouri-Kansas City,-19
+Grand Canyon,-23
+Cal State Bakersfield,-20
+Missouri-Kansas City,-5
+New Mexico State,-14

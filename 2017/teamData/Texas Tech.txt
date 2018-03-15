@@ -1,0 +1,32 @@
+Houston Baptist,26
+North Texas,27
+Eastern Kentucky,19
+Auburn,-2
+Utah State,24
+Idaho State,33
+Incarnate Word,21
+Rice,1
+Texas-San Antonio,37
+Nicholls State,43
+Richmond,7
+Longwood,31
+Iowa State,-7
+West Virginia,1
+Kansas,-17
+Kansas State,1
+Oklahoma,-9
+Texas Christian,6
+Oklahoma State,-19
+Baylor,-4
+Louisiana State,13
+Texas,-4
+Oklahoma,8
+Texas Christian,-1
+Kansas,-1
+Baylor,6
+West Virginia,-9
+Iowa State,-2
+Oklahoma State,-17
+Texas,10
+Kansas State,-13
+Texas,-9

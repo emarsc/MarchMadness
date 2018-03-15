@@ -1,0 +1,31 @@
+North Carolina State,-25
+Virginia,-40
+Providence,-16
+Savannah State,6
+Texas-Rio Grande Valley,-10
+Brown,-10
+Army,-20
+Lafayette,-2
+Mount Saint Vincent,18
+Canisius,-10
+Albany (NY),-27
+Manhattan,-7
+Saint Peter's,-7
+Bryant,3
+Central Connecticut State,9
+Saint Francis (PA),-25
+Robert Morris,-4
+Sacred Heart,-12
+Long Island University,-5
+Fairleigh Dickinson,-17
+Mount St. Mary's,-8
+Fairleigh Dickinson,-6
+Wagner,-2
+Saint Francis (PA),-17
+Robert Morris,-24
+Sacred Heart,-15
+Bryant,-11
+Long Island University,-37
+Wagner,-18
+Central Connecticut State,-9
+Mount St. Mary's,-15

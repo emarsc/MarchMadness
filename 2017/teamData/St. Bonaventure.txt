@@ -1,0 +1,32 @@
+Saint Francis (PA),10
+Florida,-7
+Arkansas-Little Rock,-3
+Central Michigan,31
+Pepperdine,26
+Siena,7
+Buffalo,6
+Hofstra,6
+North Carolina-Wilmington,-1
+Niagara,10
+Army,9
+Canisius,-5
+Massachusetts,12
+Dayton,-16
+George Mason,10
+Richmond,-17
+Fordham,20
+Saint Louis,19
+Saint Joseph's,4
+Rhode Island,-12
+Duquesne,7
+Virginia Commonwealth,-6
+Saint Louis,15
+George Washington,-6
+La Salle,18
+Dayton,-4
+Saint Joseph's,6
+Duquesne,3
+Davidson,-5
+Massachusetts,4
+Massachusetts,13
+Rhode Island,-11

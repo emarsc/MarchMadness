@@ -1,0 +1,31 @@
+Northland,35
+Pacific,-18
+Murray State,-16
+Bowling Green State,16
+Missouri-Kansas City,18
+Central Michigan,-12
+Kansas State,-19
+Toledo,1
+Central Michigan,-10
+Wisconsin,-14
+Southern Illinois-Edwardsville,2
+Saint Mary's (MN),49
+Cleveland State,1
+Youngstown State,13
+Milwaukee,6
+Northern Kentucky,9
+Wright State,17
+Valparaiso,-24
+Youngstown State,-3
+Cleveland State,10
+Oakland,8
+Detroit Mercy,-1
+Illinois-Chicago,4
+Valparaiso,17
+Northern Kentucky,-2
+Wright State,-9
+Milwaukee,24
+Illinois-Chicago,8
+Oakland,-13
+Detroit Mercy,8
+Illinois-Chicago,-9

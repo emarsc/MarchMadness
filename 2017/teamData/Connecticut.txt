@@ -1,0 +1,33 @@
+Wagner,-9
+Northeastern,-3
+Loyola Marymount,3
+Oklahoma State,-8
+Chaminade,11
+Oregon,-10
+Boston University,2
+Syracuse,2
+Ohio State,-4
+North Florida,21
+Auburn,-3
+Houston,-16
+Tulsa,-2
+Memphis,-9
+Central Florida,15
+Temple,14
+Georgetown,-3
+Southern Methodist,-20
+East Carolina,7
+South Florida,21
+Tulane,10
+Cincinnati,-14
+South Florida,46
+Central Florida,3
+Memphis,3
+Temple,1
+Houston,-5
+Southern Methodist,-8
+East Carolina,-4
+Cincinnati,-20
+South Florida,11
+Houston,9
+Cincinnati,-10

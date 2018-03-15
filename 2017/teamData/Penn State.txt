@@ -1,0 +1,33 @@
+Albany (NY),-6
+Duquesne,8
+Grand Canyon,9
+Duke,-10
+Cincinnati,-21
+Colgate,13
+George Washington,6
+Georgia Tech,7
+Wright State,22
+George Mason,-19
+Pittsburgh,-8
+St. John's (NY),16
+Morgan State,41
+Northwestern,-10
+Rutgers,13
+Michigan,-3
+Michigan State,9
+Minnesota,2
+Indiana,-3
+Purdue,-25
+Wisconsin,-27
+Illinois,4
+Indiana,-8
+Rutgers,-2
+Maryland,6
+Illinois,13
+Nebraska,-16
+Purdue,-4
+Minnesota,-10
+Ohio State,-1
+Iowa,-11
+Nebraska,9
+Michigan State,-27

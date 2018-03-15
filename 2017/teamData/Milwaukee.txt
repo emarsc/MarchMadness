@@ -1,0 +1,35 @@
+Milwaukee Engineering,30
+Memphis,-14
+DePaul,-18
+East Tennessee State,-24
+UC-Irvine,17
+South Dakota State,-23
+Jacksonville,5
+Montana,-6
+Montana State,5
+Loyola (IL),-16
+Ohio,-2
+Western Illinois,-16
+Belmont,-6
+Youngstown State,-1
+Cleveland State,-9
+Green Bay,-6
+Northern Kentucky,10
+Wright State,-3
+Illinois-Chicago,-14
+Cleveland State,1
+Youngstown State,9
+Detroit Mercy,4
+Oakland,-9
+Valparaiso,-18
+Illinois-Chicago,-5
+Wright State,-11
+Northern Kentucky,-6
+Green Bay,-24
+Valparaiso,-6
+Detroit Mercy,-7
+Oakland,-11
+Detroit Mercy,25
+Valparaiso,2
+Illinois-Chicago,6
+Northern Kentucky,-6

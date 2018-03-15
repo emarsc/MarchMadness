@@ -1,0 +1,34 @@
+Youngstown State,-8
+American,10
+Radford,47
+Georgia Southern,8
+Air Force,9
+Mercer,2
+Adrian,54
+Creighton,-12
+Coppin State,24
+Gonzaga,-18
+Marshall,11
+UC-Irvine,8
+Maryland-Eastern Shore,16
+Bowling Green State,5
+Western Michigan,7
+Central Michigan,4
+Miami (OH),4
+Ohio,15
+Eastern Michigan,7
+Western Michigan,10
+Buffalo,1
+Northern Illinois,3
+Ohio,-15
+Ball State,2
+Eastern Michigan,11
+Toledo,6
+Kent State,-3
+Bowling Green State,-1
+Buffalo,6
+Miami (OH),-4
+Kent State,10
+Eastern Michigan,17
+Ball State,4
+Kent State,-5

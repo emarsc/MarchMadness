@@ -1,0 +1,32 @@
+Western State,39
+Montana,1
+South Dakota State,10
+Pacific,-8
+University of California,-10
+Denver,12
+Northern Iowa,8
+Colorado Christian,7
+Montana,2
+Cornell,19
+Troy,6
+DePaul,14
+Southern California,-2
+Air Force,12
+Nevada-Las Vegas,-6
+Fresno State,-15
+Utah State,8
+Nevada,-15
+San Jose State,10
+New Mexico,-7
+Nevada-Las Vegas,1
+Boise State,-15
+San Diego State,-9
+Air Force,9
+Fresno State,2
+Utah State,-7
+Colorado State,-5
+Boise State,-4
+New Mexico,11
+Colorado State,-2
+San Jose State,12
+Air Force,-15

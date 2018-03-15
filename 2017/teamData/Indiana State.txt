@@ -1,0 +1,31 @@
+Northern Illinois,-2
+Ball State,6
+Missouri-St. Louis,41
+Iowa State,-2
+Stanford,-3
+Quinnipiac,-3
+Northern Illinois,11
+Utah State,1
+Butler,1
+Western Kentucky,-18
+Valparaiso,-18
+Eastern Illinois,3
+Wichita State,-8
+Missouri State,-6
+Southern Illinois,-6
+Illinois State,-19
+Drake,-17
+Bradley,10
+Missouri State,-5
+Wichita State,-26
+Illinois State,-5
+Loyola (IL),-15
+Evansville,1
+Northern Iowa,-5
+Bradley,2
+Drake,24
+Loyola (IL),-18
+Southern Illinois,-6
+Northern Iowa,10
+Evansville,-2
+Evansville,-11

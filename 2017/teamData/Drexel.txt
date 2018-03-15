@@ -1,0 +1,32 @@
+Monmouth,-13
+Rutgers,-21
+Hartford,14
+North Texas,21
+Niagara,-19
+La Salle,-11
+Lafayette,4
+High Point,6
+Saint Joseph's,-1
+Rider,-8
+Kean,40
+Quinnipiac,17
+Pennsylvania,-8
+James Madison,-11
+Northeastern,-5
+North Carolina-Wilmington,-18
+Northeastern,-17
+Delaware,16
+Elon,-20
+North Carolina-Wilmington,-13
+Hofstra,1
+College of Charleston,-14
+William & Mary,-23
+Towson,-1
+Hofstra,-2
+William & Mary,18
+Towson,-4
+Delaware,-1
+Elon,-9
+James Madison,-6
+College of Charleston,-13
+James Madison,-10

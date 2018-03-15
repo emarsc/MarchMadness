@@ -1,0 +1,31 @@
+Cal Poly,9
+Weber State,1
+Life Pacific,6
+Central Michigan,-11
+Arkansas-Little Rock,1
+St. Bonaventure,-26
+Portland State,-6
+Belmont,-8
+Long Beach State,-9
+Southern California,-26
+Louisiana-Lafayette,-26
+Montana,-1
+Gonzaga,-30
+Portland,-13
+Loyola Marymount,1
+San Diego,-8
+Pacific,-5
+Santa Clara,-14
+Brigham Young,-29
+Saint Mary's (CA),-20
+Portland,18
+Gonzaga,-47
+San Francisco,-21
+Pacific,10
+Brigham Young,16
+San Diego,5
+Santa Clara,-51
+Loyola Marymount,-21
+Saint Mary's (CA),-29
+San Francisco,-11
+Pacific,-5

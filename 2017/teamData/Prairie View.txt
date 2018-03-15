@@ -1,0 +1,33 @@
+Oregon State,-20
+Fresno State,6
+Saint Mary's (CA),-38
+Texas-San Antonio,-10
+Jarvis Christian,15
+Lamar,-8
+Wisconsin,-45
+Houston,-44
+Kansas State,-19
+Texas State,-7
+Louisiana Tech,-13
+Utah,-32
+George Mason,-16
+Huston-Tillotson,30
+Southern,-2
+Alcorn State,-11
+Texas Southern,-5
+Jackson State,7
+Grambling,12
+Mississippi Valley State,15
+Arkansas-Pine Bluff,-3
+Alabama A&M,5
+Alabama State,20
+Texas Southern,-13
+Jackson State,-9
+Grambling,-3
+Mississippi Valley State,13
+Arkansas-Pine Bluff,18
+Alabama A&M,-13
+Alabama State,19
+Southern,6
+Alcorn State,6
+Grambling,-4

@@ -1,0 +1,31 @@
+Northwest Nazarene,44
+Concordia (OR),43
+Coppin State,43
+UC-Riverside,18
+Butler,-9
+Montana State,8
+Utah Valley,7
+Xavier,-8
+Prairie View,32
+San Francisco,-3
+Hawaii,14
+Stephen F. Austin,8
+Colorado,16
+Arizona,-10
+Arizona State,6
+Southern California,22
+UCLA,-1
+Washington State,41
+Washington,22
+Oregon,-6
+Oregon State,8
+University of California,-2
+Stanford,-6
+Washington State,4
+Washington,24
+Oregon,-18
+Oregon State,-1
+Colorado,5
+University of California,30
+Stanford,8
+University of California,-3

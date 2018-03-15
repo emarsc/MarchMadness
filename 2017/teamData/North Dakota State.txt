@@ -1,0 +1,30 @@
+Arkansas State,10
+Minnesota-Morris,30
+Navy,7
+North Carolina-Greensboro,-11
+High Point,26
+Waldorf,31
+Missouri State,-14
+Xavier,-30
+North Carolina A&T,18
+North Dakota,-18
+UC-Davis,4
+North Dakota,17
+Arkansas,-16
+South Dakota State,11
+Nebraska-Omaha,12
+IUPUI,4
+South Dakota,1
+Denver,-24
+IPFW,6
+Western Illinois,32
+Oral Roberts,10
+IUPUI,-5
+South Dakota,-10
+South Dakota State,17
+Denver,20
+IPFW,-16
+Western Illinois,9
+Oral Roberts,2
+Nebraska-Omaha,-4
+IUPUI,-19

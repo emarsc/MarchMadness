@@ -1,0 +1,34 @@
+George Washington,-4
+Maryland-Baltimore County,-4
+Boston College,-16
+Wichita State,-37
+Colorado State,-11
+Louisiana Tech,-21
+Southeastern Louisiana,-10
+Central Pennsylvania College,13
+Virginia Tech,-16
+Central Florida,-18
+Michigan,-49
+American,-3
+Texas-El Paso,5
+Akron,-16
+Valley Forge,25
+North Carolina A&T,11
+North Carolina Central,-17
+Howard,-8
+Bethune-Cookman,3
+Florida A&M,7
+South Carolina State,23
+Savannah State,-5
+Hampton,-1
+Coppin State,21
+Norfolk State,-6
+Bethune-Cookman,1
+North Carolina Central,-13
+North Carolina A&T,11
+Delaware State,1
+Howard,-10
+Morgan State,1
+North Carolina A&T,10
+Hampton,2
+North Carolina Central,-28

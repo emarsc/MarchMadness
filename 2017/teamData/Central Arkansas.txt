@@ -1,0 +1,32 @@
+Wisconsin,-32
+Oklahoma State,-12
+Chattanooga,-11
+Army,5
+Western Michigan,-17
+Arkansas-Little Rock,-2
+Southeast Missouri State,-24
+Butler,-24
+Arkansas-Little Rock,-11
+Michigan,-44
+Arkansas State,-12
+Morehead State,-26
+Arizona State,-36
+Sam Houston State,2
+Lamar,-3
+Abilene Christian,5
+Houston Baptist,11
+Texas A&M-Corpus Christi,-7
+McNeese State,-10
+New Orleans,-18
+Stephen F. Austin,-2
+Incarnate Word,-1
+Northwestern State,10
+Southeastern Louisiana,2
+Abilene Christian,11
+Nicholls State,23
+Nicholls State,-7
+New Orleans,-23
+Southeastern Louisiana,-17
+Stephen F. Austin,-5
+Northwestern State,-14
+Sam Houston State,-8

@@ -1,0 +1,29 @@
+Iowa State,-42
+Iowa,-32
+Middle Georgia State,8
+Memphis,-13
+Fort Valley State,17
+St. Francis (NY),-6
+Grambling,-6
+San Diego State,-33
+Georgia Southern,-19
+Oregon,-69
+Oregon State,3
+William & Mary,-27
+East Tennessee State,-21
+Bethune-Cookman,13
+Hampton,-4
+Norfolk State,-4
+Florida A&M,5
+South Carolina State,4
+Morgan State,13
+Delaware State,15
+Howard,3
+Maryland-Eastern Shore,5
+Hampton,-3
+Norfolk State,-5
+Morgan State,-8
+Coppin State,-1
+North Carolina A&T,19
+North Carolina Central,1
+South Carolina State,7

@@ -1,0 +1,32 @@
+Alcorn State,25
+Indiana-Northwest,49
+Eureka,38
+Saint Joseph's,-14
+Oral Roberts,25
+Washington State,9
+North Carolina State,-2
+Norfolk State,13
+San Diego State,6
+Wright State,13
+Milwaukee,16
+Illinois-Chicago,6
+Toledo,-4
+Drake,-4
+Illinois State,-22
+Northern Iowa,11
+Bradley,16
+Wichita State,-12
+Missouri State,6
+Northern Iowa,-3
+Evansville,6
+Bradley,20
+Indiana State,15
+Missouri State,-1
+Southern Illinois,-6
+Evansville,-2
+Wichita State,-17
+Indiana State,18
+Illinois State,-2
+Drake,15
+Southern Illinois,-2
+Southern Illinois,-5

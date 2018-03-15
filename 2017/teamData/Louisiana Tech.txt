@@ -1,0 +1,33 @@
+South Carolina,-9
+Alabama State,31
+Nebraska,-11
+Oklahoma Baptist,16
+Maryland-Eastern Shore,21
+University of California,-9
+Southeastern Louisiana,29
+Alcorn State,33
+Louisiana-Lafayette,-8
+Prairie View,13
+Grambling,34
+Florida Gulf Coast,-1
+Louisiana State-Shreveport,42
+Southern Mississippi,24
+Texas-El Paso,20
+Texas-San Antonio,-1
+Charlotte,6
+Old Dominion,12
+Rice,10
+North Texas,24
+Alabama-Birmingham,-9
+Middle Tennessee,-10
+Western Kentucky,9
+Marshall,4
+Texas-El Paso,1
+Texas-San Antonio,6
+Florida Atlantic,26
+Florida International,16
+North Texas,18
+Rice,-7
+Southern Mississippi,28
+Alabama-Birmingham,12
+Marshall,-16

@@ -1,0 +1,29 @@
+Washington,8
+Lehigh,8
+Virginia,-24
+Pittsburgh,-5
+Vermont,-2
+Bryant,-9
+Albany (NY),4
+Sacred Heart,14
+Delaware,18
+Central Connecticut State,31
+Temple,-6
+Hartford,16
+Mitchell,56
+Pennsylvania,8
+Princeton,-8
+Brown,1
+Brown,10
+Columbia,9
+Cornell,7
+Dartmouth,9
+Harvard,-8
+Princeton,-19
+Pennsylvania,-16
+Harvard,-13
+Dartmouth,13
+Cornell,27
+Columbia,4
+Harvard,2
+Princeton,-12

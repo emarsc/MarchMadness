@@ -1,0 +1,33 @@
+James Madison,24
+Texas Southern,-3
+Nebraska-Omaha,13
+Montana State,5
+Delaware State,22
+Incarnate Word,8
+Houston Baptist,13
+Texas Tech,-1
+Stephen F. Austin,7
+St. Edward's,29
+Pittsburgh,-10
+Northwestern State,7
+St. Thomas (TX),20
+Old Dominion,-6
+Charlotte,19
+Middle Tennessee,-3
+Alabama-Birmingham,-7
+North Texas,22
+Louisiana Tech,-10
+Southern Mississippi,3
+Old Dominion,-8
+Charlotte,17
+North Texas,15
+Florida International,11
+Florida Atlantic,6
+Texas-San Antonio,12
+Texas-El Paso,-8
+Southern Mississippi,1
+Louisiana Tech,7
+Marshall,1
+Western Kentucky,-7
+Southern Mississippi,11
+Texas-El Paso,-10

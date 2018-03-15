@@ -1,0 +1,33 @@
+Grambling,15
+North Carolina A&T,10
+Charlotte,-12
+Stetson,23
+Florida A&M,20
+Mercer,-4
+Air Force,7
+Hampton,20
+North Carolina Central,13
+Virginia,-23
+College of Charleston,-18
+North Carolina-Wilmington,-10
+Presbyterian,20
+South Florida,11
+Southern Methodist,-31
+Central Florida,-3
+Temple,-19
+Houston,-16
+Cincinnati,-9
+Connecticut,-7
+Tulsa,3
+Memphis,-7
+Southern Methodist,-40
+Tulane,9
+South Florida,-7
+Temple,14
+Central Florida,-3
+Tulane,3
+Tulsa,-8
+Connecticut,4
+Houston,-22
+Temple,11
+Southern Methodist,-4

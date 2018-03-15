@@ -1,0 +1,34 @@
+Brown,29
+Albany (NY),23
+Rhode Island,-5
+Penn State,21
+Samford,15
+Lipscomb,23
+Iowa State,1
+Bowling Green State,29
+Butler,-10
+Texas Southern,38
+Fairleigh Dickinson,51
+Marshall,2
+Temple,6
+Tulane,36
+Houston,9
+Southern Methodist,2
+East Carolina,9
+Temple,7
+Tulane,17
+Xavier,8
+South Florida,41
+Tulsa,2
+Connecticut,14
+Central Florida,10
+Southern Methodist,-9
+South Florida,14
+Tulsa,20
+Memphis,13
+Central Florida,-4
+Houston,18
+Connecticut,20
+Tulsa,19
+Connecticut,10
+Southern Methodist,-15

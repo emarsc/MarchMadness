@@ -1,0 +1,31 @@
+Arizona State,-18
+Cal State Fullerton,-6
+George Fox,32
+Loyola Marymount,-16
+Pepperdine,6
+Texas-Rio Grande Valley,13
+Cal State Bakersfield,-2
+New Hope Christian,31
+San Francisco,4
+Portland,2
+Walla Walla,59
+North Dakota,37
+Northern Colorado,-14
+Sacramento State,7
+Southern Utah,11
+Northern Arizona,-7
+Montana,9
+Montana State,-6
+Sacramento State,-3
+Idaho,-17
+Eastern Washington,-6
+Idaho State,5
+Weber State,-3
+Montana State,-2
+Montana,-3
+Southern Utah,7
+Northern Arizona,12
+Northern Colorado,-3
+North Dakota,-9
+Northern Arizona,13
+North Dakota,-23

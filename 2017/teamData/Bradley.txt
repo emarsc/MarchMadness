@@ -1,0 +1,33 @@
+Illinois-Springfield,15
+Delaware,-14
+Southeast Missouri State,6
+Hofstra,-2
+Wofford,8
+George Mason,-11
+Eastern Illinois,4
+Nevada,-22
+Ball State,-17
+Chicago State,35
+Texas-Arlington,-5
+Mississippi,-17
+Texas Christian,-32
+Southern Illinois,9
+Wichita State,-34
+Evansville,11
+Loyola (IL),-16
+Northern Iowa,11
+Indiana State,-10
+Illinois State,-20
+Missouri State,-14
+Loyola (IL),-20
+Wichita State,-15
+Southern Illinois,-20
+Drake,7
+Indiana State,-2
+Illinois State,-14
+Northern Iowa,-3
+Evansville,12
+Missouri State,9
+Drake,8
+Drake,9
+Wichita State,-26

@@ -1,0 +1,33 @@
+Wright State,-4
+Arkansas,-25
+Missouri Southern State,21
+Southern Illinois-Edwardsville,18
+Mount St. Mary's,10
+Minnesota,-12
+Murray State,4
+Texas Southern,4
+Louisville,-23
+Sam Houston State,-6
+Saint Louis,15
+Nevada-Las Vegas,-7
+Tennessee-Martin,8
+Bradley,-9
+Drake,14
+Indiana State,6
+Missouri State,8
+Illinois State,-7
+Evansville,12
+Drake,-4
+Northern Iowa,-1
+Wichita State,-42
+Missouri State,1
+Bradley,20
+Loyola (IL),6
+Northern Iowa,-8
+Evansville,-5
+Wichita State,-19
+Indiana State,6
+Illinois State,-4
+Loyola (IL),2
+Loyola (IL),5
+Illinois State,-13

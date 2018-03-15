@@ -1,0 +1,32 @@
+Northwestern,-31
+West Virginia,-41
+Kent State,-30
+Michigan State,-47
+Massachusetts-Lowell,-5
+Liberty,-15
+IPFW,-25
+Indiana,-33
+Gonzaga,-34
+Seattle,-15
+Grand Canyon,-10
+Iowa State,-28
+Drake,-32
+Arkansas-Pine Bluff,-14
+Alabama A&M,-3
+Alabama State,3
+Alcorn State,7
+Southern,-6
+Prairie View,-15
+Texas Southern,14
+Jackson State,-15
+Grambling,-3
+Alabama A&M,2
+Alabama State,-5
+Alcorn State,-11
+Southern,-11
+Prairie View,-13
+Texas Southern,-31
+Jackson State,3
+Grambling,4
+Arkansas-Pine Bluff,11
+Alcorn State,-3

@@ -1,0 +1,33 @@
+Saint Louis,21
+Indiana State,-6
+Alabama,-18
+Coppin State,2
+Southern Utah,11
+Valparaiso,-6
+Indiana-Kokomo,40
+IUPUI,-11
+Bradley,17
+Eastern Kentucky,5
+Longwood,16
+Alabama State,25
+North Florida,5
+Kent State,-10
+Bowling Green State,-5
+Miami (OH),11
+Buffalo,15
+Central Michigan,15
+Bowling Green State,-5
+Eastern Michigan,8
+Western Michigan,6
+Toledo,1
+Buffalo,-27
+Akron,-2
+Ohio,-2
+Northern Illinois,9
+Central Michigan,9
+Eastern Michigan,7
+Western Michigan,-25
+Toledo,8
+Northern Illinois,5
+Western Michigan,3
+Akron,-4

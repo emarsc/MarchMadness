@@ -1,0 +1,32 @@
+Alabama State,13
+Jacksonville State,7
+Belmont,-21
+North Carolina A&T,21
+Washington,-39
+Nevada-Las Vegas,-10
+Eastern Kentucky,-19
+Missouri,-3
+Indiana State,18
+Saint Mary's (CA),-22
+Detroit Mercy,-6
+Ohio,1
+Austin Peay,5
+Florida Atlantic,15
+Florida International,3
+Charlotte,2
+Old Dominion,-12
+Alabama-Birmingham,-18
+Middle Tennessee,-15
+Marshall,-14
+Texas-El Paso,3
+Texas-San Antonio,15
+Louisiana Tech,-9
+Southern Mississippi,17
+Marshall,-5
+Middle Tennessee,-26
+Alabama-Birmingham,12
+Charlotte,-6
+Old Dominion,-14
+North Texas,11
+Rice,7
+Texas-San Antonio,-4

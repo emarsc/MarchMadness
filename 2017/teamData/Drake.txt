@@ -1,0 +1,31 @@
+South Dakota,-5
+Missouri-Kansas City,-6
+Simpson,15
+Iona,-11
+UC-Davis,-6
+Alaska-Anchorage,-5
+DePaul,-2
+Fresno State,-2
+Jackson State,-5
+Iowa State,-17
+South Dakota State,-8
+Mississippi Valley State,32
+Loyola (IL),4
+Southern Illinois,-14
+Wichita State,-25
+Evansville,12
+Indiana State,17
+Northern Iowa,-19
+Southern Illinois,4
+Illinois State,-14
+Missouri State,1
+Northern Iowa,-8
+Wichita State,-8
+Bradley,-7
+Illinois State,-29
+Indiana State,-24
+Evansville,-17
+Missouri State,-3
+Loyola (IL),-15
+Bradley,-8
+Bradley,-9

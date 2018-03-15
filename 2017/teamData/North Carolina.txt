@@ -1,0 +1,34 @@
+Tulane,20
+Chattanooga,40
+Long Beach State,26
+Hawaii,15
+Chaminade,43
+Oklahoma State,32
+Wisconsin,15
+Indiana,-9
+Radford,45
+Davidson,9
+Tennessee,2
+Kentucky,-3
+Northern Iowa,43
+Monmouth,28
+Georgia Tech,-12
+Clemson,3
+North Carolina State,51
+Wake Forest,6
+Florida State,13
+Syracuse,17
+Boston College,8
+Virginia Tech,19
+Miami (FL),-15
+Pittsburgh,2
+Notre Dame,7
+Duke,-8
+North Carolina State,24
+Virginia,24
+Louisville,11
+Pittsburgh,18
+Virginia,-10
+Duke,7
+Miami (FL),25
+Duke,-10

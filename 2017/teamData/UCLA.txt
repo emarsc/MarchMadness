@@ -1,0 +1,33 @@
+Pacific,39
+Cal State Northridge,15
+San Diego,20
+Long Beach State,37
+Portland,22
+Nebraska,11
+Texas A&M,7
+UC-Riverside,42
+Kentucky,5
+Michigan,18
+UC-Santa Barbara,40
+Ohio State,13
+Western Michigan,14
+Oregon,-2
+Oregon State,13
+University of California,10
+Stanford,14
+Colorado,15
+Utah,1
+Arizona State,22
+Arizona,-11
+Southern California,-8
+Washington State,16
+Washington,41
+Oregon,3
+Oregon State,18
+Southern California,32
+Arizona State,12
+Arizona,5
+Washington,32
+Washington State,9
+Southern California,2
+Arizona,-11

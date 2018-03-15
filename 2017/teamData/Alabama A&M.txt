@@ -1,0 +1,29 @@
+Missouri State,-34
+Missouri,-55
+Tennessee Tech,-34
+Southern Mississippi,-8
+Murray State,-37
+Alabama-Birmingham,-30
+Tennessee Tech,-5
+Troy,-29
+Georgia State,-15
+Bowling Green State,-13
+Western Michigan,-30
+Jackson State,-12
+Grambling,-2
+Mississippi Valley State,3
+Arkansas-Pine Bluff,-16
+Alabama State,-2
+Southern,-1
+Alcorn State,-11
+Prairie View,-5
+Texas Southern,-47
+Mississippi Valley State,-2
+Arkansas-Pine Bluff,-16
+Alabama State,-8
+Southern,-13
+Alcorn State,-15
+Prairie View,13
+Texas Southern,-10
+Jackson State,-8
+Grambling,-21

@@ -1,0 +1,31 @@
+James Madison,7
+Richmond,3
+Louisville,-6
+Louisiana State,-6
+St. John's (NY),8
+Dartmouth,12
+Towson,2
+Rhode Island,-12
+Virginia Commonwealth,-3
+Georgia State,12
+Howard,19
+William & Mary,-11
+Rice,6
+North Texas,7
+Marshall,-4
+Western Kentucky,12
+Southern Mississippi,4
+Louisiana Tech,-12
+Charlotte,-2
+Rice,8
+North Texas,6
+Florida International,7
+Florida Atlantic,-4
+Middle Tennessee,-13
+Alabama-Birmingham,21
+Charlotte,24
+Marshall,21
+Western Kentucky,14
+Texas-El Paso,1
+Texas-San Antonio,-18
+Marshall,-1

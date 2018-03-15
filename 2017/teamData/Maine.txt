@@ -1,0 +1,32 @@
+Virginia Tech,-13
+Longwood,22
+Boston University,-24
+Northeastern,-8
+Long Island University,-5
+Maine-Presque Isle,51
+Central Connecticut State,-21
+Duke,-39
+Holy Cross,2
+Dartmouth,5
+Quinnipiac,-10
+Providence,-20
+Brown,-5
+Buffalo,-19
+Columbia,-25
+Vermont,-13
+Maryland-Baltimore County,-11
+Massachusetts-Lowell,2
+Stony Brook,-20
+Hartford,-10
+New Hampshire,-11
+Albany (NY),-18
+Binghamton,-11
+Vermont,-21
+Maryland-Baltimore County,-12
+Hartford,11
+Massachusetts-Lowell,-32
+Stony Brook,-1
+New Hampshire,-13
+Albany (NY),-18
+Binghamton,1
+Vermont,-45

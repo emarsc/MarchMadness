@@ -1,0 +1,32 @@
+South Alabama,-8
+UC-Riverside,12
+Cal State Fullerton,9
+Northern Arizona,39
+Texas Christian,-4
+Western Kentucky,10
+Southern Utah,8
+Arizona State,-24
+Duke,-49
+Incarnate Word,28
+Oregon,-20
+Southern Illinois,7
+Kansas,-18
+Colorado State,-14
+Wyoming,6
+Boise State,-18
+Utah State,-16
+New Mexico,5
+San Diego State,-13
+Air Force,2
+Wyoming,-1
+San Jose State,-4
+New Mexico,-3
+Colorado State,-20
+Nevada,-27
+San Jose State,-2
+San Diego State,-13
+Air Force,-23
+Nevada,-36
+Utah State,7
+Fresno State,-13
+San Diego State,-10

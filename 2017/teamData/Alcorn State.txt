@@ -1,0 +1,32 @@
+Loyola (IL),-25
+Evansville,-23
+Selma University,45
+Blue Mountain College,26
+Colorado State,-22
+San Francisco,-13
+University of California,-24
+Louisiana Tech,-33
+Georgia Tech,-24
+Grand Canyon,-10
+Rust,15
+Texas Southern,-2
+Prairie View,11
+Grambling,-5
+Jackson State,13
+Mississippi Valley State,-7
+Arkansas-Pine Bluff,18
+Alabama State,7
+Alabama A&M,11
+Southern,10
+Jackson State,11
+Grambling,10
+Mississippi Valley State,11
+Arkansas-Pine Bluff,12
+Alabama State,8
+Alabama A&M,15
+Southern,1
+Texas Southern,-6
+Prairie View,-6
+Mississippi Valley State,3
+Southern,22
+Texas Southern,-3

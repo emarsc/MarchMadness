@@ -1,0 +1,30 @@
+Houston,-41
+Towson,-6
+Wilmington (DE),15
+Campbell,16
+Brown,-6
+Bowling Green State,-32
+High Point,-1
+Rutgers,-14
+Manhattan,3
+Wagner,-2
+Penn State,-41
+Loyola Marymount,-21
+Cal State Northridge,-21
+Norfolk State,2
+Bethune-Cookman,6
+Florida A&M,3
+North Carolina A&T,29
+Savannah State,-13
+South Carolina State,2
+Coppin State,2
+Florida A&M,17
+North Carolina Central,-6
+Delaware State,-11
+Howard,-3
+Savannah State,8
+Delaware State,11
+Hampton,7
+Coppin State,5
+Maryland-Eastern Shore,-1
+Howard,-3

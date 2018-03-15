@@ -1,0 +1,30 @@
+Sacred Heart,22
+Dartmouth,17
+Wagner,6
+Loyola (MD),-15
+Army,1
+Rider,9
+Siena,-7
+Bucknell,-11
+North Carolina State,-21
+Boston College,6
+Pennsylvania,-6
+Iona,6
+Manhattan,18
+Canisius,-14
+Siena,-9
+Saint Peter's,-14
+Iona,-7
+Monmouth,-42
+Marist,10
+Manhattan,29
+Niagara,20
+Quinnipiac,-2
+Marist,20
+Rider,2
+Quinnipiac,3
+Saint Peter's,-19
+Monmouth,-20
+Canisius,3
+Niagara,4
+Siena,-12

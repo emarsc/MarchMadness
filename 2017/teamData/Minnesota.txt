@@ -1,0 +1,33 @@
+Louisiana-Lafayette,12
+Texas-Arlington,17
+Mount St. Mary's,24
+St. John's (NY),6
+Arkansas,14
+Southern Illinois,12
+Florida State,-8
+Vanderbilt,4
+NJIT,6
+Georgia Southern,37
+Northern Illinois,20
+Long Island University,10
+Arkansas State,7
+Michigan State,-1
+Purdue,9
+Northwestern,4
+Ohio State,10
+Michigan State,-18
+Penn State,-2
+Wisconsin,-2
+Ohio State,-6
+Maryland,-7
+Illinois,9
+Iowa,12
+Rutgers,9
+Indiana,1
+Michigan,5
+Maryland,14
+Penn State,10
+Nebraska,15
+Wisconsin,-17
+Michigan State,5
+Michigan,-7

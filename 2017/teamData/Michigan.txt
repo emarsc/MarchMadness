@@ -1,0 +1,35 @@
+Howard,18
+IUPUI,12
+Marquette,18
+Southern Methodist,22
+South Carolina,-15
+Mount St. Mary's,17
+Virginia Tech,-3
+Kennesaw State,27
+Texas,3
+UCLA,-18
+Central Arkansas,44
+Maryland-Eastern Shore,49
+Furman,6
+Iowa,-3
+Penn State,3
+Maryland,-7
+Illinois,-16
+Nebraska,6
+Wisconsin,-4
+Illinois,9
+Indiana,30
+Michigan State,-8
+Ohio State,-4
+Michigan State,29
+Indiana,12
+Wisconsin,6
+Minnesota,-5
+Rutgers,4
+Purdue,12
+Northwestern,-2
+Nebraska,36
+Illinois,20
+Purdue,4
+Minnesota,7
+Wisconsin,15

@@ -1,0 +1,32 @@
+St. John's (NY),-47
+Kennesaw State,3
+Trinity (FL),30
+New Mexico State,-16
+San Diego,-5
+Nicholls State,-7
+Samford,-28
+Cleveland State,-11
+Jacksonville,-10
+Florida College,2
+South Florida,-6
+Tennessee-Martin,-25
+Central Florida,-30
+Savannah State,-13
+Morgan State,-6
+Coppin State,-3
+South Carolina State,-4
+Florida A&M,6
+Maryland-Eastern Shore,-3
+Norfolk State,-7
+Stetson,-9
+Delaware State,-6
+Howard,4
+Coppin State,-4
+Maryland-Eastern Shore,-1
+Hampton,1
+Norfolk State,10
+North Carolina Central,-15
+North Carolina A&T,3
+Florida A&M,10
+Delaware State,7
+North Carolina Central,-35

@@ -1,0 +1,32 @@
+Brewton-Parker,34
+Florida,-22
+Georgia Southern,13
+Radford,11
+East Carolina,4
+Akron,-2
+Davidson,-21
+George Mason,-11
+Oglethorpe,57
+Clemson,-43
+Auburn,-2
+La Salle,-2
+Kennesaw State,4
+Wofford,-17
+Furman,-2
+Virginia Military Institute,18
+East Tennessee State,-9
+Samford,3
+Chattanooga,-2
+North Carolina-Greensboro,-2
+Western Carolina,18
+Citadel,16
+Western Carolina,15
+Furman,-2
+Wofford,-3
+Virginia Military Institute,30
+East Tennessee State,-17
+Citadel,11
+North Carolina-Greensboro,-6
+Chattanooga,10
+Samford,9
+East Tennessee State,-7

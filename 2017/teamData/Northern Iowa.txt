@@ -1,0 +1,30 @@
+Coe,37
+Arizona State,19
+Oklahoma,6
+Xavier,-8
+Xavier,-22
+George Mason,-4
+Wyoming,-8
+South Dakota State,28
+North Dakota,8
+Iowa,-23
+North Carolina,-43
+Missouri State,-4
+Evansville,-12
+Loyola (IL),-11
+Wichita State,-14
+Bradley,-11
+Drake,19
+Loyola (IL),3
+Southern Illinois,1
+Evansville,7
+Drake,8
+Illinois State,-6
+Indiana State,5
+Southern Illinois,8
+Missouri State,3
+Bradley,3
+Wichita State,-29
+Indiana State,-10
+Illinois State,-21
+Missouri State,-6

@@ -1,0 +1,32 @@
+Virginia Military Institute,3
+Old Dominion,-3
+Robert Morris,12
+Hampton,13
+Maryland,-6
+Boston College,13
+Bucknell,-5
+Wake Forest,-8
+Maryland-Baltimore County,3
+Texas Tech,-7
+James Madison,20
+Oral Roberts,-15
+Davidson,2
+Fordham,8
+George Washington,7
+St. Bonaventure,17
+Saint Joseph's,4
+Dayton,-16
+George Mason,-5
+Rhode Island,11
+Duquesne,11
+Virginia Commonwealth,-7
+George Washington,9
+La Salle,12
+George Mason,-23
+Virginia Commonwealth,-11
+Davidson,8
+Fordham,22
+Massachusetts,11
+Saint Louis,10
+George Washington,3
+Virginia Commonwealth,-10

@@ -1,0 +1,32 @@
+Indiana-Kokomo,64
+Tennessee Tech,12
+Marygrove,49
+Pepperdine,11
+St. Bonaventure,-31
+Arkansas-Little Rock,-12
+Green Bay,12
+William & Mary,10
+Arkansas-Pine Bluff,23
+Green Bay,10
+Illinois,-19
+Montana State,3
+Chicago State,8
+Eastern Michigan,-22
+Northern Illinois,-4
+Akron,-4
+Toledo,8
+Ball State,-15
+Miami (OH),9
+Bowling Green State,6
+Kent State,7
+Buffalo,-10
+Western Michigan,4
+Ohio,10
+Miami (OH),-5
+Buffalo,-6
+Ball State,-9
+Northern Illinois,-23
+Toledo,-21
+Eastern Michigan,-28
+Western Michigan,-8
+Kent State,-10

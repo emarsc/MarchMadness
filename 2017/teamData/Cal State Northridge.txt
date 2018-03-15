@@ -1,0 +1,30 @@
+Pomona-Pitzer,24
+UCLA,-15
+Stanford,-27
+Northern Illinois,2
+Texas A&M,-22
+New Mexico,-16
+Portland,-18
+Idaho State,3
+St. John's (NY),-6
+Loyola Marymount,-1
+Bethesda University (CA),-5
+Boise State,-17
+Morgan State,21
+UC-Riverside,6
+Cal State Fullerton,5
+Long Beach State,7
+UC-Davis,-3
+Hawaii,-3
+UC-Irvine,-32
+UC-Santa Barbara,21
+UC-Riverside,4
+Long Beach State,10
+Hawaii,-4
+UC-Santa Barbara,22
+Cal Poly,-14
+UC-Davis,-11
+UC-Irvine,-3
+Cal Poly,-6
+Cal State Fullerton,-8
+Cal State Fullerton,-13

@@ -1,0 +1,32 @@
+Louisiana Tech,9
+Holy Cross,32
+Monmouth,1
+South Carolina State,42
+Michigan,15
+Syracuse,14
+Vermont,18
+Florida International,16
+Seton Hall,-3
+South Florida,11
+Clemson,-2
+Lander,28
+Memphis,-16
+Georgia,6
+Texas A&M,11
+Tennessee,10
+Mississippi,11
+Florida,4
+Kentucky,-16
+Auburn,29
+Missouri,10
+Louisiana State,25
+Georgia,2
+Alabama,-4
+Mississippi State,4
+Arkansas,-7
+Vanderbilt,-9
+Florida,-15
+Tennessee,27
+Mississippi State,6
+Mississippi,-5
+Alabama,-11

@@ -1,0 +1,33 @@
+Ball State,-21
+Southern Utah,12
+Eastern Illinois,5
+Brigham Young,-30
+Alabama,-5
+Samford,-4
+Kansas State,-31
+Wichita State,-30
+Chicago State,2
+Southern Illinois,-15
+Southern Illinois-Edwardsville,14
+Winthrop,-11
+Rhode Island,-34
+La Salle,-21
+Davidson,-11
+Duquesne,-7
+George Mason,7
+St. Bonaventure,-19
+Dayton,-21
+Massachusetts,4
+George Washington,-8
+George Mason,2
+North Carolina A&T,19
+St. Bonaventure,-15
+Duquesne,6
+Dayton,-22
+Fordham,-14
+Virginia Commonwealth,-14
+Saint Joseph's,1
+La Salle,15
+Richmond,-10
+Duquesne,1
+George Washington,-7

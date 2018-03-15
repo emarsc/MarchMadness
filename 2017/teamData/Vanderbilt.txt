@@ -1,0 +1,34 @@
+Marquette,-24
+Belmont,14
+Norfolk State,23
+Bucknell,-3
+Butler,-10
+Santa Clara,10
+Tennessee State,24
+Minnesota,-4
+High Point,27
+Middle Tennessee,-23
+Chattanooga,2
+Dayton,-5
+Louisiana State,7
+Auburn,19
+Alabama,-3
+Kentucky,-6
+Tennessee,-12
+Georgia,-8
+Florida,2
+Arkansas,-1
+Iowa State,6
+Texas A&M,14
+Mississippi,-7
+Arkansas,13
+Missouri,-20
+Texas A&M,5
+South Carolina,9
+Tennessee,11
+Mississippi State,29
+Kentucky,-6
+Florida,2
+Texas A&M,25
+Florida,10
+Arkansas,-14

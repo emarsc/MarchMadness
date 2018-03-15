@@ -1,0 +1,28 @@
+Stanford,-10
+Fisher College,27
+Holy Cross,-11
+Massachusetts,-4
+George Washington,-3
+Fordham,12
+Northeastern,6
+Boston College,8
+Houston,1
+Howard,21
+Vermont,-11
+Dartmouth,16
+McGill,25
+Bryant,5
+Dartmouth,14
+Cornell,6
+Columbia,-3
+Pennsylvania,10
+Princeton,-1
+Brown,13
+Yale,8
+Columbia,6
+Cornell,12
+Yale,13
+Brown,19
+Princeton,-4
+Pennsylvania,-3
+Yale,-2

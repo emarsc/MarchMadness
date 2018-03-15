@@ -1,0 +1,32 @@
+Colgate,28
+Holy Cross,44
+Monmouth,21
+South Carolina State,42
+South Carolina,-14
+Wisconsin,-17
+North Florida,6
+Connecticut,-2
+Boston University,22
+Georgetown,-7
+Eastern Michigan,48
+St. John's (NY),-33
+Cornell,24
+Boston College,-15
+Miami (FL),15
+Pittsburgh,11
+Virginia Tech,-10
+Boston College,23
+North Carolina,-17
+Notre Dame,-18
+Wake Forest,5
+Florida State,10
+North Carolina State,7
+Virginia,4
+Clemson,1
+Pittsburgh,-5
+Louisville,-4
+Georgia Tech,-6
+Duke,3
+Louisville,-20
+Georgia Tech,29
+Miami (FL),-5

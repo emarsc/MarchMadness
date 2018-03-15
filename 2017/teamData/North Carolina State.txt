@@ -1,0 +1,32 @@
+Georgia Southern,2
+St. Francis (NY),25
+Montana,13
+Creighton,-18
+Saint Joseph's,10
+Loyola (IL),2
+Illinois,-14
+Boston University,4
+Tennessee State,12
+Appalachian State,33
+Fairfield,21
+McNeese State,32
+Rider,28
+Miami (FL),-18
+Virginia Tech,26
+North Carolina,-51
+Boston College,-8
+Georgia Tech,-10
+Pittsburgh,5
+Wake Forest,-5
+Duke,2
+Louisville,-25
+Syracuse,-7
+Miami (FL),-5
+Florida State,-24
+Wake Forest,-30
+North Carolina,-24
+Notre Dame,-9
+Georgia Tech,2
+Virginia,-15
+Clemson,-4
+Clemson,-14

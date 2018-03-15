@@ -1,0 +1,33 @@
+Goldey-Beacom,8
+Bradley,14
+La Salle,-6
+Miami (OH),2
+Northern Kentucky,-21
+Austin Peay,-1
+Bryn Athyn,33
+Delaware State,15
+Yale,-18
+Seton Hall,-13
+Marist,3
+South Florida,-28
+Iona,9
+Hofstra,-2
+College of Charleston,-9
+Northeastern,-36
+North Carolina-Wilmington,-10
+Towson,-27
+Drexel,-16
+Northeastern,7
+Towson,-17
+William & Mary,-24
+James Madison,5
+Hofstra,-8
+North Carolina-Wilmington,-28
+Elon,2
+James Madison,1
+Drexel,1
+William & Mary,-21
+College of Charleston,-13
+Elon,-22
+Hofstra,5
+North Carolina-Wilmington,-9

@@ -1,0 +1,32 @@
+UC-Santa Barbara,14
+Southern California,-10
+Kansas State,-13
+Rice,-13
+Buena Vista,47
+Eastern Michigan,-17
+Cal State Fullerton,10
+Iowa,9
+Iowa State,-44
+Montana State,6
+Missouri-Kansas City,5
+Cal State Fullerton,6
+Pittsburgh,-19
+South Dakota,-17
+North Dakota State,-12
+IPFW,-2
+South Dakota State,8
+IUPUI,8
+Western Illinois,14
+Denver,9
+Oral Roberts,-17
+South Dakota State,-4
+South Dakota,8
+Western Illinois,12
+IUPUI,-11
+IPFW,-7
+Oral Roberts,7
+Denver,1
+North Dakota State,4
+IPFW,4
+IUPUI,28
+South Dakota State,-2

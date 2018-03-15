@@ -1,0 +1,30 @@
+Dayton,-28
+Oakland City,40
+Northern Kentucky,8
+Miami (OH),-6
+Delaware,1
+Spalding,19
+IPFW,-4
+Arkansas,-37
+IPFW,-40
+Wofford,-19
+Evansville,-8
+Lipscomb,-14
+Indiana,-35
+Western Kentucky,-5
+Belmont,-5
+Tennessee Tech,-9
+Jacksonville State,-3
+Southern Illinois-Edwardsville,2
+Eastern Illinois,8
+Morehead State,-7
+Murray State,3
+Tennessee-Martin,-6
+Southeast Missouri State,-11
+Eastern Kentucky,2
+Tennessee State,-4
+Murray State,-44
+Eastern Illinois,5
+Southern Illinois-Edwardsville,8
+Tennessee-Martin,-4
+Southeast Missouri State,9

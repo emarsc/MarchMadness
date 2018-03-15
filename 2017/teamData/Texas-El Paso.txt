@@ -1,0 +1,32 @@
+Louisiana College,34
+Wake Forest,-22
+Western Michigan,10
+Mississippi State,-7
+Southeastern Louisiana,-16
+Northwestern State,-12
+New Mexico,-1
+New Mexico State,-11
+Northern Arizona,-2
+Maryland-Eastern Shore,-5
+UC-Irvine,-5
+New Mexico State,-9
+Texas-San Antonio,-12
+Louisiana Tech,-20
+Southern Mississippi,-8
+Florida International,1
+Florida Atlantic,1
+Texas-San Antonio,20
+Western Kentucky,-3
+Marshall,23
+Alabama-Birmingham,4
+Middle Tennessee,3
+Louisiana Tech,-1
+Southern Mississippi,30
+North Texas,6
+Rice,8
+Florida Atlantic,5
+Florida International,14
+Old Dominion,-1
+Charlotte,7
+Rice,10
+Middle Tennessee,-26

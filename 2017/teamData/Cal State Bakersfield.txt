@@ -1,0 +1,31 @@
+San Diego Christian,42
+Arizona,-12
+UC-Santa Barbara,7
+Fresno State,8
+Wright State,-4
+North Florida,23
+North Dakota,-2
+Pacific Union,33
+Southern Methodist,-6
+Northern Arizona,34
+Portland State,2
+Bethesda University (CA),27
+Brigham Young,-10
+UC-Santa Barbara,-2
+Dartmouth,4
+Seattle,7
+Texas-Rio Grande Valley,7
+New Mexico State,-5
+Utah Valley,3
+Chicago State,16
+Missouri-Kansas City,11
+Grand Canyon,3
+New Mexico State,19
+Texas-Rio Grande Valley,22
+Utah Valley,9
+Seattle,3
+Missouri-Kansas City,9
+Chicago State,20
+Grand Canyon,-6
+Utah Valley,1
+New Mexico State,-10

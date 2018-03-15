@@ -1,0 +1,33 @@
+Arizona,-2
+Kentucky,-21
+Mississippi Valley State,47
+Florida Gulf Coast,1
+St. John's (NY),11
+Baylor,-15
+Wichita State,5
+Duke,-9
+Oral Roberts,4
+Youngstown State,20
+Tennessee Tech,8
+Northeastern,-8
+Oakland,12
+Minnesota,1
+Northwestern,9
+Rutgers,28
+Penn State,-9
+Minnesota,18
+Ohio State,-5
+Indiana,-7
+Purdue,-11
+Michigan,8
+Nebraska,11
+Michigan,-29
+Iowa,11
+Ohio State,8
+Purdue,-17
+Nebraska,16
+Wisconsin,10
+Illinois,-3
+Maryland,-3
+Penn State,27
+Minnesota,-5

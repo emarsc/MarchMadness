@@ -1,0 +1,32 @@
+Georgia,10
+Davidson,17
+Xavier,-6
+Oklahoma,-6
+High Point,9
+Nebraska,2
+Coppin State,42
+Mercer,43
+South Carolina State,28
+Alabama,13
+South Carolina,2
+North Carolina-Wilmington,14
+Wake Forest,5
+North Carolina,-3
+Notre Dame,-5
+Georgia Tech,-12
+Virginia,-4
+Louisville,-32
+Virginia Tech,-1
+Pittsburgh,7
+Georgia Tech,12
+Florida State,-48
+Syracuse,-1
+Duke,-2
+Wake Forest,12
+Miami (FL),-6
+Virginia Tech,-1
+Florida State,-2
+North Carolina State,4
+Boston College,14
+North Carolina State,14
+Duke,-7

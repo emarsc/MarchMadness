@@ -1,0 +1,29 @@
+St. Francis (IL),42
+Troy,-3
+Saint Louis,-5
+Western Illinois,9
+Troy,4
+South Alabama,10
+Bradley,-4
+Illinois-Chicago,14
+Northern Kentucky,-10
+Western Illinois,14
+Missouri,3
+Fontbonne,52
+Indiana State,-3
+Jacksonville State,-1
+Morehead State,-10
+Eastern Kentucky,14
+Murray State,-11
+Austin Peay,-8
+Tennessee-Martin,-11
+Southeast Missouri State,-12
+Belmont,-13
+Southern Illinois-Edwardsville,15
+Tennessee State,10
+Tennessee Tech,-19
+Tennessee-Martin,10
+Southeast Missouri State,6
+Austin Peay,-5
+Murray State,17
+Southern Illinois-Edwardsville,-19

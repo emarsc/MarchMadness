@@ -1,0 +1,31 @@
+Gonzaga,-23
+Idaho State,9
+Benedictine (AZ),34
+Denver,3
+Brigham Young,13
+Washington State,-7
+Texas-San Antonio,4
+Utah,-7
+Utah State,-1
+Weber State,-8
+Texas-San Antonio,-6
+Montana Tech,25
+UC-Riverside,9
+UC-Davis,-14
+Antelope Valley,39
+Grand Canyon,-10
+Chicago State,-9
+Missouri-Kansas City,10
+Cal State Bakersfield,-3
+Texas-Rio Grande Valley,11
+New Mexico State,-5
+Seattle,-13
+Missouri-Kansas City,-8
+Chicago State,33
+Cal State Bakersfield,-9
+Grand Canyon,-6
+New Mexico State,12
+Texas-Rio Grande Valley,20
+Seattle,7
+Seattle,12
+Cal State Bakersfield,-1

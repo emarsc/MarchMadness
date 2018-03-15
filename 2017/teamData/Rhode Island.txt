@@ -1,0 +1,33 @@
+Dartmouth,23
+Marist,42
+Brown,7
+Cincinnati,5
+Duke,-10
+Belmont,9
+Valparaiso,-3
+Providence,-3
+Old Dominion,12
+Houston,-5
+Holy Cross,11
+William & Mary,11
+Saint Louis,34
+Saint Joseph's,30
+Dayton,-3
+La Salle,-12
+Massachusetts,2
+Duquesne,21
+Richmond,-11
+St. Bonaventure,12
+George Washington,12
+Davidson,11
+Massachusetts,8
+Dayton,-1
+Fordham,-10
+George Mason,3
+La Salle,11
+Virginia Commonwealth,10
+Saint Joseph's,19
+Davidson,3
+St. Bonaventure,11
+Davidson,24
+Virginia Commonwealth,7

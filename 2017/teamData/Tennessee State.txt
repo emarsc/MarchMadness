@@ -1,0 +1,30 @@
+UC-Davis,14
+Northern Arizona,4
+Santa Clara,8
+Middle Tennessee,11
+Canisius,14
+Reinhardt,32
+Vanderbilt,-24
+Lipscomb,1
+North Carolina State,-12
+Alabama State,22
+Duke,-10
+Covenant,31
+Murray State,-9
+Kennesaw State,-3
+Southeast Missouri State,3
+Tennessee-Martin,11
+Eastern Kentucky,14
+Morehead State,-2
+Tennessee Tech,-6
+Jacksonville State,-7
+Southern Illinois-Edwardsville,20
+Belmont,-17
+Eastern Illinois,-10
+Austin Peay,4
+Tennessee Tech,13
+Jacksonville State,-6
+Morehead State,12
+Eastern Kentucky,2
+Belmont,-5
+Southeast Missouri State,-3

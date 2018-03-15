@@ -1,0 +1,32 @@
+North Florida,17
+Georgia State,18
+Eastern Kentucky,21
+Texas Tech,2
+Purdue,-25
+South Carolina Upstate,7
+Alabama-Birmingham,4
+Boston College,-1
+Coastal Carolina,45
+Mercer,2
+Oklahoma,4
+Connecticut,3
+Georgia,-12
+Vanderbilt,-19
+Mississippi,-3
+Missouri,5
+Kentucky,-20
+Louisiana State,4
+Alabama,20
+South Carolina,-29
+Texas Christian,8
+Tennessee,-10
+Alabama,5
+Mississippi State,6
+Mississippi,-6
+Florida,-19
+Texas A&M,-19
+Louisiana State,23
+Arkansas,-11
+Georgia,-1
+Missouri,11
+Missouri,-3

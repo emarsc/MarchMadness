@@ -1,0 +1,32 @@
+American,6
+Georgetown,1
+St. Mary's (MD),48
+Towson,5
+Stony Brook,14
+Richmond,6
+Kansas State,1
+Pittsburgh,-14
+Oklahoma State,1
+Howard,23
+Saint Peter's,10
+Jacksonville State,26
+Charlotte,16
+Illinois,25
+Nebraska,-2
+Michigan,7
+Indiana,3
+Illinois,6
+Iowa,8
+Rutgers,12
+Minnesota,7
+Ohio State,6
+Purdue,-1
+Penn State,-6
+Ohio State,9
+Northwestern,10
+Wisconsin,-11
+Minnesota,-14
+Iowa,-14
+Rutgers,20
+Michigan State,3
+Northwestern,-8

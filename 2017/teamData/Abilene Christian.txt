@@ -1,0 +1,29 @@
+Schreiner,14
+New Hampshire,8
+Charleston Southern,-1
+Oklahoma,-8
+Howard Payne,16
+New Mexico,-9
+Charleston Southern,3
+Northern New Mexico,21
+Hillsdale,4
+Sacramento State,-2
+San Francisco,-35
+New Orleans,-9
+Southeastern Louisiana,-22
+Central Arkansas,-5
+Stephen F. Austin,9
+Southeastern Louisiana,-6
+Lamar,3
+Nicholls State,-3
+Incarnate Word,-3
+Texas A&M-Corpus Christi,-12
+New Orleans,1
+Sam Houston State,7
+Central Arkansas,-11
+Northwestern State,4
+McNeese State,4
+Texas A&M-Corpus Christi,-12
+Sam Houston State,3
+Incarnate Word,-14
+Houston Baptist,-9

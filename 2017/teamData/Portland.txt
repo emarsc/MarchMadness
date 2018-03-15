@@ -1,0 +1,33 @@
+UC-Riverside,16
+San Jose State,13
+Lewis & Clark,46
+UCLA,-22
+Dayton,-10
+Cal State Northridge,18
+Colorado,-13
+Texas-Rio Grande Valley,1
+South Dakota,3
+Oregon State,8
+Portland State,-2
+Cal State Fullerton,-5
+Pacific,4
+Pepperdine,13
+Santa Clara,-28
+Saint Mary's (CA),-41
+Loyola Marymount,-1
+San Francisco,-25
+Gonzaga,-21
+Gonzaga,-19
+Pepperdine,-18
+San Diego,-16
+Santa Clara,-15
+Brigham Young,-11
+Saint Mary's (CA),-10
+Loyola Marymount,-6
+Pacific,-11
+San Francisco,-14
+Walla Walla,38
+Brigham Young,-19
+San Diego,-3
+San Diego,5
+Saint Mary's (CA),-23

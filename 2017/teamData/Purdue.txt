@@ -1,0 +1,32 @@
+McNeese State,44
+Villanova,-3
+Georgia State,8
+Utah State,21
+Auburn,25
+NJIT,11
+Louisville,-7
+Morehead State,34
+Arizona State,33
+Cleveland State,24
+Notre Dame,5
+Western Illinois,32
+Norfolk State,46
+Iowa,22
+Minnesota,-9
+Ohio State,1
+Wisconsin,11
+Iowa,-5
+Illinois,23
+Penn State,25
+Michigan State,11
+Nebraska,-3
+Northwestern,21
+Maryland,1
+Indiana,5
+Rutgers,19
+Michigan State,17
+Penn State,4
+Michigan,-12
+Indiana,11
+Northwestern,4
+Michigan,-4

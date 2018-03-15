@@ -1,0 +1,32 @@
+Oral Roberts,15
+Oregon,17
+Florida Gulf Coast,9
+Virginia Commonwealth,8
+Michigan State,15
+Louisville,3
+Sam Houston State,34
+Xavier,15
+Southern,30
+Jackson State,25
+John Brown,54
+Texas Southern,26
+Oklahoma,26
+Iowa State,2
+Oklahoma State,4
+West Virginia,-21
+Kansas State,9
+Texas,10
+Texas Christian,9
+Texas Tech,4
+Mississippi,3
+Kansas,-5
+Kansas State,-2
+Oklahoma State,3
+Texas Christian,18
+Texas Tech,-6
+Kansas,-2
+Oklahoma,6
+Iowa State,-3
+West Virginia,9
+Texas,11
+Kansas State,-6

@@ -1,0 +1,32 @@
+North Carolina-Greensboro,25
+St. Francis (NY),40
+Yale,24
+Grambling,56
+Iowa,33
+Providence,11
+Ohio State,2
+West Virginia,-9
+East Carolina,23
+Robert Morris,40
+University of California,4
+Louisville,8
+Florida State,-2
+Pittsburgh,-12
+Wake Forest,17
+Clemson,4
+Boston College,17
+Georgia Tech,13
+Notre Dame,17
+Villanova,-2
+Virginia Tech,23
+Syracuse,-4
+Louisville,16
+Virginia Tech,-2
+Duke,-10
+North Carolina,-24
+Miami (FL),-6
+North Carolina State,15
+North Carolina,10
+Pittsburgh,25
+Pittsburgh,12
+Notre Dame,-13

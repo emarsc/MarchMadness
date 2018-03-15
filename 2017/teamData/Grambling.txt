@@ -1,0 +1,33 @@
+East Carolina,-15
+North Carolina A&T,4
+Providence,-17
+Virginia,-56
+Texas-Rio Grande Valley,-8
+Savannah State,6
+Jarvis Christian,46
+Miami (OH),-2
+Kent State,-29
+Tougaloo,15
+Selma University,50
+Louisiana Tech,-34
+Louisiana-Monroe,-36
+Alabama State,-4
+Alabama A&M,2
+Southern,-8
+Alcorn State,5
+Texas Southern,-21
+Prairie View,-12
+Jackson State,15
+Arkansas-Pine Bluff,8
+Mississippi Valley State,3
+Southern,-1
+Alcorn State,-10
+Texas Southern,-7
+Prairie View,3
+Jackson State,3
+Arkansas-Pine Bluff,20
+Mississippi Valley State,-4
+Alabama State,13
+Alabama A&M,21
+Prairie View,4
+Texas Southern,-5

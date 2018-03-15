@@ -1,0 +1,33 @@
+Louisiana State,-22
+Allen,40
+Vermont,-1
+Bradley,-8
+Kent State,-7
+Colorado,-15
+Mars Hill,3
+Miami (FL),-17
+Virginia Wise,60
+Texas Christian,-9
+Austin Peay,19
+Coastal Carolina,1
+Georgia Tech,-4
+Mercer,17
+Citadel,-1
+Chattanooga,-11
+Samford,-2
+Furman,9
+Virginia Military Institute,18
+East Tennessee State,-7
+North Carolina-Greensboro,19
+Western Carolina,-6
+Citadel,10
+Mercer,3
+East Tennessee State,3
+Samford,4
+Chattanooga,-8
+North Carolina-Greensboro,-19
+Western Carolina,28
+Virginia Military Institute,18
+Furman,-9
+Chattanooga,12
+North Carolina-Greensboro,-4

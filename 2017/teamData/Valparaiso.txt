@@ -1,0 +1,32 @@
+Southern Utah,14
+Trinity Christian,14
+Coppin State,20
+Oregon,-22
+Alabama,8
+Brigham Young,3
+Ball State,6
+Rhode Island,3
+Kentucky,-24
+Missouri State,3
+Indiana State,18
+Santa Clara,-7
+Chicago State,19
+Illinois-Chicago,11
+Oakland,-12
+Detroit Mercy,7
+Youngstown State,16
+Cleveland State,11
+Green Bay,24
+Illinois-Chicago,31
+Wright State,15
+Northern Kentucky,7
+Milwaukee,18
+Green Bay,-17
+Cleveland State,21
+Youngstown State,10
+Oakland,-11
+Detroit Mercy,20
+Milwaukee,6
+Wright State,10
+Northern Kentucky,-4
+Milwaukee,-2

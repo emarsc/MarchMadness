@@ -1,0 +1,31 @@
+Northwestern State,28
+American,23
+Southern California,-2
+Cal State Northridge,22
+Virginia Tech,3
+UCLA,-7
+Texas A&M-Corpus Christi,17
+Denver,22
+South Carolina State,7
+Arizona,-4
+Saint Francis (PA),23
+Tennessee,-10
+Kentucky,-42
+South Carolina,-11
+Louisiana State,30
+Mississippi State,-8
+Arkansas,-2
+Georgia,1
+Mississippi,4
+West Virginia,-4
+Vanderbilt,-14
+Louisiana State,12
+Missouri,3
+Florida,-9
+Vanderbilt,-5
+Auburn,19
+Arkansas,-9
+Alabama,3
+Missouri,17
+Kentucky,-8
+Vanderbilt,-25

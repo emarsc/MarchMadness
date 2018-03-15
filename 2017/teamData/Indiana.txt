@@ -1,0 +1,33 @@
+Kansas,4
+Massachusetts-Lowell,22
+Liberty,39
+IPFW,-3
+Mississippi Valley State,33
+North Carolina,9
+Southern Illinois-Edwardsville,23
+Southeast Missouri State,28
+Houston Baptist,42
+Butler,-5
+Delaware State,47
+Austin Peay,35
+Nebraska,-4
+Louisville,-15
+Wisconsin,-7
+Illinois,16
+Maryland,-3
+Rutgers,19
+Penn State,3
+Michigan State,7
+Michigan,-30
+Northwestern,-13
+Penn State,8
+Wisconsin,-5
+Purdue,-5
+Michigan,-12
+Minnesota,-1
+Iowa,-6
+Northwestern,1
+Purdue,-11
+Ohio State,4
+Iowa,22
+Wisconsin,-10

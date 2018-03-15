@@ -1,0 +1,33 @@
+Kentucky,-24
+Cleveland State,-3
+Duquesne,1
+Tennessee-Martin,-3
+Tennessee State,-14
+Youngstown State,6
+Manhattan,1
+Monmouth,-6
+Boston University,10
+St. Francis (NY),10
+Albany (NY),13
+Buffalo,7
+St. Bonaventure,5
+Siena,3
+Quinnipiac,6
+Iona,-23
+Fairfield,14
+Marist,33
+Monmouth,-4
+Quinnipiac,-5
+Niagara,-7
+Manhattan,14
+Rider,-6
+Siena,7
+Saint Peter's,2
+Niagara,-13
+Iona,6
+Rider,8
+Marist,-2
+Fairfield,-3
+Saint Peter's,-7
+Marist,4
+Saint Peter's,-3

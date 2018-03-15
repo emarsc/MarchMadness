@@ -1,0 +1,34 @@
+University of California,-29
+UC-Irvine,-15
+Wayne State (NE),8
+Wyoming,-10
+Idaho,-7
+UC-Irvine,-11
+East Tennessee State,-12
+Milwaukee,23
+Minnesota-Crookston,32
+Missouri-Kansas City,9
+Northern Iowa,-28
+Idaho,3
+Murray State,4
+Drake,8
+Wichita State,-22
+North Dakota State,-11
+South Dakota,1
+Western Illinois,-8
+Nebraska-Omaha,-8
+Oral Roberts,-6
+IUPUI,-2
+IPFW,10
+Denver,-9
+Nebraska-Omaha,4
+Western Illinois,33
+Oral Roberts,7
+North Dakota State,-17
+South Dakota,-2
+IUPUI,14
+IPFW,8
+Denver,24
+Denver,10
+South Dakota,3
+Nebraska-Omaha,2

@@ -1,0 +1,33 @@
+Eastern Michigan,3
+Gardner-Webb,19
+Southern Methodist,-9
+Marquette,3
+Yale,5
+Morehead State,13
+Maryland,14
+Duquesne,-9
+Buffalo,5
+Penn State,8
+Rice,10
+Nebraska-Omaha,19
+Marshall,6
+Notre Dame,-1
+Virginia,12
+Syracuse,-11
+Louisville,-5
+Miami (FL),-26
+North Carolina State,-5
+Louisville,-55
+Clemson,-7
+North Carolina,-2
+Duke,-8
+Boston College,11
+Syracuse,5
+Virginia Tech,-3
+Florida State,14
+Wake Forest,-4
+North Carolina,-18
+Georgia Tech,-9
+Virginia,-25
+Georgia Tech,2
+Virginia,-12

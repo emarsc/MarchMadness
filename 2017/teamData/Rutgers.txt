@@ -1,0 +1,33 @@
+Molloy,29
+Drexel,21
+DePaul,7
+Niagara,13
+North Texas,13
+Hartford,2
+Miami (FL),-12
+Morgan State,14
+Central Connecticut State,42
+Stony Brook,5
+Fairleigh Dickinson,13
+Fordham,15
+Seton Hall,-11
+Wisconsin,-20
+Penn State,-13
+Michigan State,-28
+Iowa,-6
+Northwestern,-9
+Indiana,-19
+Nebraska,1
+Maryland,-12
+Wisconsin,-7
+Iowa,-20
+Penn State,2
+Ohio State,-6
+Minnesota,-9
+Purdue,-19
+Northwestern,-4
+Michigan,-4
+Maryland,-20
+Illinois,3
+Ohio State,9
+Northwestern,-22

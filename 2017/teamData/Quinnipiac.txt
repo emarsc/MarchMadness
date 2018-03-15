@@ -1,0 +1,31 @@
+Vermont,-24
+Columbia,-8
+Gonzaga,-20
+Seton Hall,-11
+Indiana State,3
+Monmouth,-19
+Marist,14
+Hartford,20
+Holy Cross,-18
+Maine,10
+Drexel,-17
+Brown,-5
+Niagara,3
+Canisius,-6
+Manhattan,9
+Saint Peter's,-4
+Siena,-7
+Iona,6
+Canisius,5
+Iona,-10
+Monmouth,-19
+Siena,-9
+Niagara,8
+Fairfield,2
+Saint Peter's,-31
+Rider,-5
+Fairfield,-3
+Manhattan,-21
+Marist,-13
+Rider,-17
+Niagara,-19

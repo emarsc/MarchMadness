@@ -1,0 +1,33 @@
+Illinois State,3
+Middle Tennessee,-6
+Green Bay,16
+Missouri-Kansas City,-11
+Bowling Green State,-1
+Alabama A&M,37
+Southern Illinois,-4
+Detroit Mercy,10
+Evansville,-32
+Bethel (TN),38
+Mississippi,-5
+South Dakota State,-4
+Wright State,-15
+Brescia,16
+Tennessee State,9
+Jacksonville State,13
+Tennessee Tech,-4
+Eastern Illinois,11
+Southern Illinois-Edwardsville,8
+Eastern Kentucky,7
+Austin Peay,-3
+Southeast Missouri State,-1
+Tennessee-Martin,8
+Belmont,-12
+Morehead State,-1
+Austin Peay,44
+Southern Illinois-Edwardsville,11
+Eastern Illinois,-17
+Southeast Missouri State,-13
+Tennessee-Martin,-7
+Tennessee Tech,1
+Morehead State,6
+Tennessee-Martin,-6

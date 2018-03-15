@@ -1,0 +1,31 @@
+LaGrange,36
+Oklahoma State,-45
+Tulsa,-9
+Southern California,-34
+Florida College,27
+Tulane,15
+Washington State,16
+Northwestern,-34
+Louisiana-Lafayette,-5
+Utah State,-10
+Williams Baptist,17
+Abilene Christian,9
+Texas A&M-Corpus Christi,1
+Lamar,4
+Incarnate Word,15
+Sam Houston State,-2
+Houston Baptist,8
+Central Arkansas,18
+McNeese State,19
+Stephen F. Austin,-10
+Abilene Christian,-1
+Nicholls State,9
+McNeese State,6
+Southeastern Louisiana,8
+Central Arkansas,23
+Stephen F. Austin,17
+Northwestern State,-1
+Southeastern Louisiana,-5
+Nicholls State,10
+Sam Houston State,12
+Texas A&M-Corpus Christi,3

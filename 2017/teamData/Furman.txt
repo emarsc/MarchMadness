@@ -1,0 +1,32 @@
+Presbyterian,-2
+Alabama-Birmingham,10
+Georgia,-6
+Trinity Baptist,49
+North Carolina-Asheville,-6
+Hiwassee,50
+Winthrop,-1
+Navy,33
+Liberty,3
+Gardner-Webb,3
+South Carolina State,-2
+Tennessee Tech,6
+Michigan,-6
+Citadel,15
+Mercer,2
+Samford,10
+Chattanooga,-16
+Wofford,-9
+East Tennessee State,13
+Virginia Military Institute,17
+Western Carolina,48
+North Carolina-Greensboro,6
+Mercer,2
+Citadel,8
+Chattanooga,4
+Samford,17
+Virginia Military Institute,28
+Western Carolina,12
+North Carolina-Greensboro,-21
+East Tennessee State,-12
+Wofford,9
+Samford,-4

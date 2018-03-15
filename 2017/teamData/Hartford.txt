@@ -1,0 +1,32 @@
+Central Connecticut State,-15
+Niagara,4
+Rider,-16
+Drexel,-14
+Appalachian State,-9
+Rutgers,-2
+North Texas,-3
+Long Island University,-7
+Sacred Heart,8
+Quinnipiac,-20
+Boston College,2
+Dartmouth,4
+Navy,9
+Davidson,-30
+Yale,-16
+Vermont,-31
+Maryland-Baltimore County,-16
+Massachusetts-Lowell,-16
+Maine,10
+Stony Brook,-16
+New Hampshire,-25
+Binghamton,-21
+Albany (NY),-13
+Vermont,-13
+Maine,-11
+Maryland-Baltimore County,7
+Massachusetts-Lowell,3
+Stony Brook,-12
+New Hampshire,-30
+Binghamton,7
+Albany (NY),-18
+Albany (NY),-29

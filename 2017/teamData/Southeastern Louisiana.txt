@@ -1,0 +1,32 @@
+Millsaps,46
+Tulane,-17
+Jackson State,13
+Xavier (LA),17
+Texas-El Paso,16
+Colorado State,-8
+University of California,-12
+Maryland-Eastern Shore,10
+Louisiana Tech,-29
+Florida A&M,39
+Toledo,-22
+North Texas,-6
+Southern,11
+Abilene Christian,22
+Incarnate Word,11
+Houston Baptist,-7
+Lamar,-20
+Abilene Christian,6
+McNeese State,4
+Houston Baptist,12
+Northwestern State,-14
+Sam Houston State,-2
+Nicholls State,28
+Central Arkansas,-2
+Texas A&M-Corpus Christi,-5
+New Orleans,-8
+Northwestern State,7
+Stephen F. Austin,-8
+Central Arkansas,17
+Nicholls State,-6
+New Orleans,5
+Lamar,-12

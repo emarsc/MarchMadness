@@ -1,0 +1,34 @@
+Akron,8
+Toledo,-5
+Jacksonville,-25
+South Alabama,-7
+Florida International,5
+Westminster,30
+Canisius,-6
+Robert Morris,1
+Oberlin,15
+Michigan State,-20
+American,-15
+Niagara,4
+Ohio State,-37
+Milwaukee,1
+Green Bay,-13
+Northern Kentucky,-13
+Wright State,5
+Valparaiso,-16
+Illinois-Chicago,-3
+Detroit Mercy,-16
+Green Bay,3
+Milwaukee,-9
+Cleveland State,3
+Oakland,-14
+Detroit Mercy,-10
+Illinois-Chicago,-3
+Valparaiso,-10
+Wright State,-3
+Northern Kentucky,4
+Oakland,-29
+Cleveland State,-14
+Cleveland State,15
+Oakland,1
+Northern Kentucky,-10

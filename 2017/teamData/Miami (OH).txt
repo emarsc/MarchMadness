@@ -1,0 +1,32 @@
+Muskingum,27
+Wright State,-2
+Delaware,-2
+Austin Peay,6
+Northern Kentucky,-9
+Western Illinois,9
+Grambling,2
+IPFW,-16
+Missouri,-26
+IUPUI,3
+Central Florida,-7
+Tennessee Tech,8
+Olivet,20
+Northern Illinois,2
+Toledo,-15
+Ball State,-11
+Akron,-4
+Northern Illinois,-4
+Central Michigan,-9
+Buffalo,1
+Eastern Michigan,-17
+Bowling Green State,-11
+Kent State,-4
+Western Michigan,-17
+Central Michigan,5
+Kent State,-4
+Buffalo,-13
+Ohio,-17
+Bowling Green State,-16
+Akron,4
+Ohio,-14
+Western Michigan,-4

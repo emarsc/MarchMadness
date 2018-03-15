@@ -1,0 +1,34 @@
+Fordham,37
+Detroit Mercy,29
+North Carolina-Wilmington,-9
+Milwaukee,24
+South Dakota State,12
+UC-Irvine,6
+Lees-McRae,5
+Limestone,28
+Dayton,-14
+Mississippi State,2
+Morehead State,10
+Tennessee,-4
+Savannah State,21
+Virginia Military Institute,27
+Citadel,44
+Mercer,9
+North Carolina-Greensboro,-4
+Western Carolina,23
+Furman,-13
+Wofford,7
+Samford,10
+Chattanooga,5
+Virginia Military Institute,10
+Wofford,-3
+Citadel,21
+Mercer,17
+Samford,2
+Chattanooga,14
+Furman,12
+Western Carolina,16
+North Carolina-Greensboro,-6
+Mercer,7
+Samford,9
+North Carolina-Greensboro,5

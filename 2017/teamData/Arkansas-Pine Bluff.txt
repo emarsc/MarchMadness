@@ -1,0 +1,32 @@
+Alabama-Birmingham,-20
+Ecclesia,36
+George Washington,-20
+Blue Mountain College,-3
+Siena,-23
+Hawaii,-20
+Tennessee-Martin,-5
+Central Michigan,-23
+Arkansas-Little Rock,-15
+Seattle,-5
+Oklahoma State,-36
+New Mexico,-40
+Denver,-22
+Grand Canyon,-40
+Mississippi Valley State,14
+Alabama State,8
+Alabama A&M,16
+Southern,-1
+Alcorn State,-18
+Texas Southern,-7
+Prairie View,3
+Grambling,-8
+Jackson State,-15
+Alabama State,-12
+Alabama A&M,16
+Southern,7
+Alcorn State,-12
+Texas Southern,-38
+Prairie View,-18
+Grambling,-20
+Jackson State,-11
+Mississippi Valley State,-11

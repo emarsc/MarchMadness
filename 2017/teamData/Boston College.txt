@@ -1,0 +1,32 @@
+Nicholls State,-6
+Maryland-Eastern Shore,16
+Stony Brook,7
+Towson,10
+Kansas State,-18
+Richmond,-13
+Dartmouth,18
+Harvard,-8
+Hartford,-2
+Auburn,1
+Sacred Heart,7
+Fairfield,-6
+Providence,12
+Syracuse,15
+Wake Forest,-13
+Duke,-11
+North Carolina State,8
+Syracuse,-23
+Virginia,-17
+North Carolina,-8
+Miami (FL),-1
+Virginia Tech,-6
+Wake Forest,-5
+Louisville,-23
+Pittsburgh,-11
+Georgia Tech,-11
+Notre Dame,-8
+Florida State,-32
+Virginia Tech,-16
+Notre Dame,-16
+Clemson,-14
+Wake Forest,-14

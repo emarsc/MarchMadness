@@ -1,0 +1,31 @@
+Northern Colorado,37
+Northwestern,2
+Bucknell,26
+Norfolk State,36
+Vanderbilt,10
+Arizona,4
+Utah,9
+Central Arkansas,24
+Indiana State,-1
+Cincinnati,10
+Indiana,5
+Vermont,12
+St. John's (NY),-3
+Providence,17
+Villanova,8
+Georgetown,9
+Creighton,-11
+Xavier,5
+Marquette,8
+DePaul,1
+Seton Hall,7
+Georgetown,-4
+Creighton,-9
+Marquette,3
+Providence,-6
+St. John's (NY),24
+DePaul,16
+Villanova,8
+Xavier,9
+Seton Hall,-6
+Xavier,-5

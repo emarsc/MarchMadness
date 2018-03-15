@@ -1,0 +1,31 @@
+Sacramento State,22
+Mary,32
+Louisiana Tech,11
+Dayton,2
+UCLA,-11
+Virginia Tech,-13
+Clemson,-2
+South Dakota,12
+Creighton,-15
+Kansas,-17
+Gardner-Webb,-8
+Southern,5
+Indiana,4
+Maryland,2
+Iowa,3
+Northwestern,-8
+Michigan,-6
+Ohio State,-1
+Rutgers,-1
+Northwestern,-12
+Purdue,3
+Michigan State,-11
+Iowa,-11
+Wisconsin,-1
+Penn State,16
+Ohio State,1
+Michigan State,-16
+Illinois,-16
+Minnesota,-15
+Michigan,-36
+Penn State,-9

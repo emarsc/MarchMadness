@@ -1,0 +1,33 @@
+Texas Southern,7
+Minnesota,-17
+Florida Gulf Coast,-13
+Arkansas,-4
+St. Francis (IL),21
+Mount St. Mary's,9
+Fordham,4
+Texas,11
+North Texas,16
+Texas-Dallas,50
+Saint Mary's (CA),14
+Bradley,5
+Loyola Marymount,3
+Coastal Carolina,21
+Appalachian State,15
+Texas State,-8
+Troy,-22
+South Alabama,6
+Louisiana-Monroe,16
+Louisiana-Lafayette,37
+Appalachian State,16
+Coastal Carolina,-2
+Texas State,15
+Arkansas State,6
+Arkansas-Little Rock,16
+Georgia State,1
+Georgia Southern,10
+South Alabama,11
+Troy,15
+Louisiana-Monroe,15
+Louisiana-Lafayette,-2
+Coastal Carolina,23
+Texas State,-21

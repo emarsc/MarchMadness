@@ -1,0 +1,32 @@
+Loyola (MD),5
+Penn State,-8
+Saint Francis (PA),14
+Canisius,-1
+Kentucky,-34
+Tennessee-Martin,-3
+Cleveland State,7
+Maryland-Baltimore County,-9
+Pittsburgh,9
+Robert Morris,-4
+Central Connecticut State,3
+Jackson State,12
+Colgate,13
+Fordham,3
+Virginia Commonwealth,-7
+La Salle,-7
+Saint Louis,7
+Dayton,-19
+George Washington,-2
+Rhode Island,-21
+Davidson,-14
+Richmond,-11
+St. Bonaventure,-7
+Dayton,-37
+Saint Louis,-6
+Massachusetts,30
+George Washington,-7
+Fordham,-18
+St. Bonaventure,-3
+George Mason,-1
+Saint Joseph's,-3
+Saint Louis,-1

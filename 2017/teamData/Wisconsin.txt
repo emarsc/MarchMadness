@@ -1,0 +1,34 @@
+Central Arkansas,32
+Creighton,-12
+Chicago State,18
+Tennessee,12
+Georgetown,16
+North Carolina,-15
+Prairie View,45
+Syracuse,17
+Oklahoma,20
+Idaho State,34
+Marquette,9
+Green Bay,14
+Florida A&M,53
+Rutgers,20
+Indiana,7
+Purdue,-11
+Ohio State,23
+Michigan,4
+Minnesota,2
+Penn State,27
+Rutgers,7
+Illinois,14
+Indiana,5
+Nebraska,1
+Northwestern,-7
+Michigan,-6
+Maryland,11
+Ohio State,-10
+Michigan State,-10
+Iowa,-2
+Minnesota,17
+Indiana,10
+Northwestern,28
+Michigan,-15

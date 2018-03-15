@@ -1,0 +1,34 @@
+Tennessee State,-14
+Santa Clara,5
+Northern Arizona,13
+Holy Names,14
+Sacramento State,9
+Weber State,-28
+Drake,6
+Oakland,-13
+Idaho,-2
+University of California,-25
+North Dakota State,-4
+William Jessup,23
+Air Force,-10
+Seattle,7
+Utah Valley,14
+UC-Santa Barbara,26
+Cal Poly,4
+UC-Riverside,-6
+Cal State Northridge,3
+Hawaii,6
+UC-Irvine,9
+Cal Poly,-4
+UC-Santa Barbara,3
+Cal State Fullerton,9
+UC-Riverside,14
+Long Beach State,-9
+Cal State Fullerton,-7
+Cal State Northridge,11
+Long Beach State,4
+Hawaii,9
+UC-Irvine,-30
+Cal Poly,11
+Cal State Fullerton,2
+UC-Irvine,3

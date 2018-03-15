@@ -1,0 +1,30 @@
+Vanguard,48
+Nevada,-15
+Connecticut,-3
+Portland State,16
+Boise State,-1
+Southern Utah,7
+Cal State Northridge,1
+Incarnate Word,1
+Colorado State,3
+Texas-Arlington,-3
+Morgan State,21
+Saint Mary's (CA),-12
+Brigham Young,-5
+Pepperdine,-1
+Santa Clara,10
+Gonzaga,-38
+Portland,1
+San Diego,-7
+Santa Clara,-1
+Pacific,6
+Brigham Young,-8
+San Diego,19
+San Francisco,-10
+Gonzaga,-30
+Portland,6
+Saint Mary's (CA),-33
+Pepperdine,21
+San Francisco,2
+Pacific,1
+Brigham Young,-8

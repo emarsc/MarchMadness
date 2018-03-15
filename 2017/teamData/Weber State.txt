@@ -1,0 +1,32 @@
+Antelope Valley,63
+Pepperdine,-1
+Stanford,-18
+UC-Davis,28
+Iona,-22
+Buffalo,-2
+Denver,-2
+Brigham Young,-13
+West Coast Baptist,56
+Utah Valley,8
+Utah State,6
+Montana State,12
+Montana,3
+Idaho State,12
+Idaho,25
+Eastern Washington,3
+North Dakota,-6
+Northern Colorado,5
+Idaho State,22
+Southern Utah,16
+Northern Arizona,6
+Sacramento State,-3
+Portland State,3
+Northern Colorado,6
+North Dakota,-9
+Eastern Washington,-10
+Idaho,-5
+Montana,-4
+Montana State,9
+Southern Utah,20
+Eastern Washington,8
+North Dakota,-4

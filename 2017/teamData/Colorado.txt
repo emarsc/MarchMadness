@@ -1,0 +1,33 @@
+Sacramento State,37
+Seattle,12
+Louisiana-Monroe,19
+Notre Dame,-6
+Texas,14
+Wofford,15
+Colorado State,-14
+Portland,13
+Xavier,2
+Brigham Young,-8
+Fort Hays State,10
+Air Force,7
+Eastern Washington,8
+Utah,-16
+Arizona State,-1
+Arizona,-9
+UCLA,-15
+Southern California,-3
+Washington,-2
+Washington State,-2
+Oregon State,7
+Oregon,9
+Stanford,7
+University of California,-11
+Washington,15
+Washington State,32
+Oregon State,8
+Oregon,-28
+Utah,-5
+Stanford,19
+University of California,8
+Washington State,10
+Arizona,-14

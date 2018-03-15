@@ -1,0 +1,31 @@
+Southern,10
+Sam Houston State,21
+Georgia Tech,6
+Tennessee Tech,11
+Marshall,-10
+Bryant,26
+Iona,-4
+Milwaukee,2
+Cleveland State,18
+Western Kentucky,-1
+Urbana,27
+Western Michigan,31
+Kent State,18
+Buffalo,2
+Eastern Michigan,-4
+Akron,-15
+Northern Illinois,9
+Toledo,-3
+Bowling Green State,24
+Western Michigan,-5
+Akron,15
+Central Michigan,-10
+Ball State,2
+Eastern Michigan,8
+Bowling Green State,20
+Miami (OH),17
+Kent State,-3
+Buffalo,-4
+Miami (OH),14
+Toledo,1
+Kent State,-2

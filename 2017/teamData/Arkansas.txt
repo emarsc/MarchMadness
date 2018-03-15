@@ -1,0 +1,34 @@
+IPFW,9
+Southern Illinois,25
+Texas-Arlington,4
+Minnesota,-14
+Mount St. Mary's,13
+Stephen F. Austin,16
+Austin Peay,37
+Houston,12
+North Florida,15
+Texas,3
+North Dakota State,16
+Sam Houston State,34
+Florida,-9
+Tennessee,4
+Kentucky,-26
+Mississippi State,-6
+Missouri,19
+Texas A&M,2
+Louisiana State,13
+Vanderbilt,1
+Oklahoma State,-28
+Alabama,19
+Missouri,-5
+Vanderbilt,-13
+Louisiana State,8
+South Carolina,7
+Mississippi,18
+Texas A&M,9
+Auburn,11
+Florida,-13
+Georgia,18
+Mississippi,1
+Vanderbilt,14
+Kentucky,-17

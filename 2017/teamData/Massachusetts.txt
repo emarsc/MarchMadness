@@ -1,0 +1,33 @@
+Massachusetts-Lowell,14
+Mississippi,-2
+Temple,3
+Holy Cross,8
+Harvard,4
+Wagner,7
+Central Florida,-3
+Pacific,24
+Providence,-6
+North Carolina A&T,6
+Kennesaw State,18
+Rider,11
+Georgia State,9
+St. Bonaventure,-12
+George Mason,-5
+Virginia Commonwealth,-17
+Dayton,12
+Rhode Island,-2
+Saint Joseph's,5
+Fordham,-3
+Saint Louis,-4
+George Mason,-2
+La Salle,-10
+Rhode Island,-8
+Saint Joseph's,11
+Duquesne,-30
+Davidson,-5
+George Washington,-16
+La Salle,13
+Richmond,-11
+St. Bonaventure,-4
+Saint Joseph's,7
+St. Bonaventure,-13

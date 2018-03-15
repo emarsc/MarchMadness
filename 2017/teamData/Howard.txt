@@ -1,0 +1,34 @@
+Michigan,-18
+Marquette,-32
+IUPUI,-22
+Gardner-Webb,-16
+Georgetown,-13
+American,17
+Maryland,-23
+George Washington,-17
+Jacksonville State,-13
+Shenandoah,11
+Central Pennsylvania College,7
+Old Dominion,-19
+Virginia Commonwealth,-34
+Harvard,-21
+Florida A&M,-12
+Columbia,-18
+Maryland-Eastern Shore,8
+Coppin State,-9
+North Carolina A&T,15
+North Carolina Central,-35
+Savannah State,-3
+South Carolina State,-9
+Florida A&M,-9
+Bethune-Cookman,-4
+Hampton,-14
+Morgan State,3
+North Carolina A&T,31
+North Carolina Central,-7
+Norfolk State,-8
+Maryland-Eastern Shore,10
+Delaware State,-10
+Coppin State,6
+Morgan State,3
+Norfolk State,-15

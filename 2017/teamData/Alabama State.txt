@@ -1,0 +1,31 @@
+Western Kentucky,-13
+Texas Christian,-36
+Louisiana Tech,-31
+Kennesaw State,-7
+Northern Arizona,-14
+Cal State Fullerton,9
+Jacksonville State,-3
+Troy,-18
+San Diego State,-32
+Tennessee State,-22
+Ball State,-25
+Fort Valley State,7
+Grambling,4
+Jackson State,-3
+Arkansas-Pine Bluff,-8
+Mississippi Valley State,-3
+Alabama A&M,2
+Alcorn State,-7
+Southern,14
+Texas Southern,-2
+Prairie View,-20
+Arkansas-Pine Bluff,12
+Mississippi Valley State,5
+Alabama A&M,8
+Alcorn State,-8
+Southern,-6
+Texas Southern,-13
+Prairie View,-19
+Grambling,-13
+Jackson State,-6
+Texas Southern,-15

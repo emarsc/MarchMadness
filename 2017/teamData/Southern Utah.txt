@@ -1,0 +1,33 @@
+Valparaiso,-14
+Saint Louis,-12
+Bethesda University (CA),16
+Coastal Carolina,-15
+Ball State,-11
+Life Pacific,45
+Nevada-Las Vegas,-8
+Oakland,-10
+Loyola Marymount,-7
+Cal State Fullerton,-13
+IUPUI,-20
+Seattle,-14
+San Jose State,-10
+Northern Arizona,13
+Northern Colorado,2
+North Dakota,-30
+Sacramento State,-5
+Portland State,-11
+Idaho,-12
+Eastern Washington,-15
+North Dakota,-2
+Northern Colorado,-18
+Weber State,-16
+Idaho State,-26
+Montana,-15
+Montana State,-5
+Northern Arizona,16
+Portland State,-7
+Sacramento State,-10
+Eastern Washington,-16
+Idaho,-9
+Montana State,4
+Weber State,-20

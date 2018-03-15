@@ -1,0 +1,32 @@
+Jacksonville State,-11
+Wichita State,-27
+New Orleans,9
+Oregon State,11
+Oral Roberts,14
+Arkansas-Little Rock,-10
+Illinois State,2
+Oklahoma State,-4
+Texas State,15
+Stephen F. Austin,23
+San Diego State,-19
+Illinois State,-12
+Connecticut,2
+Houston,-3
+Memphis,10
+Temple,2
+Tulane,7
+South Florida,12
+East Carolina,-3
+Central Florida,11
+Cincinnati,-2
+Southern Methodist,-23
+Memphis,-22
+Houston,-9
+Central Florida,-18
+Cincinnati,-20
+South Florida,14
+East Carolina,8
+Southern Methodist,-23
+Tulane,-12
+Tulane,6
+Cincinnati,-19

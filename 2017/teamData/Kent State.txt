@@ -1,0 +1,35 @@
+Cleveland State,5
+Mississippi Valley State,30
+Hiram,56
+South Dakota,-3
+George Mason,-4
+Wofford,7
+Northeastern,-3
+Grambling,29
+Niagara,28
+NJIT,16
+Wright State,-5
+Oregon State,-19
+Texas,5
+Ball State,10
+Ohio,-18
+Northern Illinois,-4
+Western Michigan,-4
+Buffalo,-13
+Toledo,24
+Northern Illinois,7
+Central Michigan,-7
+Eastern Michigan,6
+Miami (OH),4
+Bowling Green State,-1
+Toledo,-20
+Miami (OH),4
+Akron,3
+Buffalo,8
+Ohio,3
+Bowling Green State,7
+Akron,-10
+Central Michigan,10
+Buffalo,3
+Ohio,2
+Akron,5

@@ -1,0 +1,32 @@
+Notre Dame,-25
+Salve Regina,27
+Gonzaga,-39
+Eastern Washington,-4
+Louisiana-Monroe,7
+Northwestern,-20
+Brown,-1
+Yale,9
+Ohio,-26
+Navy,-2
+New Hampshire,-13
+Dartmouth,-6
+St. Francis (NY),-3
+Long Island University,-11
+Mount St. Mary's,1
+Fairleigh Dickinson,-3
+Wagner,11
+Sacred Heart,-2
+Harvard,-5
+Saint Francis (PA),-14
+Robert Morris,3
+Central Connecticut State,11
+Fairleigh Dickinson,1
+Mount St. Mary's,-7
+Sacred Heart,-3
+Long Island University,-3
+St. Francis (NY),11
+Robert Morris,8
+Saint Francis (PA),4
+Wagner,-3
+Central Connecticut State,14
+Saint Francis (PA),-22

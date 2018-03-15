@@ -1,0 +1,32 @@
+Greensboro,17
+East Carolina,-10
+Grambling,-4
+Western Kentucky,-21
+Jacksonville,-17
+North Carolina-Greensboro,-20
+North Dakota State,-18
+Notre Dame,-54
+Massachusetts,-6
+Pacific,-9
+Rider,-1
+Kennesaw State,-8
+Georgia Tech,-7
+Hampton,-15
+Delaware State,-2
+Maryland-Eastern Shore,-11
+Coppin State,-2
+Morgan State,-29
+Howard,-15
+North Carolina Central,-23
+Norfolk State,-14
+Delaware State,-17
+Saint Louis,-19
+Allen,8
+Florida A&M,-6
+South Carolina State,-7
+Howard,-31
+Maryland-Eastern Shore,-11
+Savannah State,-19
+Bethune-Cookman,-3
+North Carolina Central,5
+Maryland-Eastern Shore,-10

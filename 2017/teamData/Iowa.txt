@@ -1,0 +1,32 @@
+Kennesaw State,17
+Savannah State,32
+Seton Hall,-8
+Texas-Rio Grande Valley,28
+Virginia,-33
+Memphis,-8
+Notre Dame,-14
+Nebraska-Omaha,-9
+Stetson,27
+Iowa State,14
+Northern Iowa,23
+North Dakota,11
+Delaware State,32
+Purdue,-22
+Michigan,3
+Nebraska,-3
+Rutgers,6
+Purdue,5
+Northwestern,-35
+Maryland,-8
+Illinois,-12
+Ohio State,13
+Rutgers,20
+Nebraska,11
+Minnesota,-12
+Michigan State,-11
+Illinois,-4
+Indiana,6
+Maryland,14
+Wisconsin,2
+Penn State,11
+Indiana,-22

@@ -1,0 +1,32 @@
+Lafayette,-4
+Lipscomb,13
+Fordham,-22
+Fairleigh Dickinson,26
+Boston University,13
+Iona,-14
+Manhattan,14
+Houston Baptist,-15
+Maryland,-10
+Elon,-15
+St. Francis (NY),7
+Notre Dame,-8
+Monmouth,10
+Siena,-2
+Quinnipiac,4
+Rider,6
+Fairfield,14
+Siena,12
+Niagara,-2
+Rider,5
+Marist,16
+Iona,-3
+Monmouth,-1
+Canisius,-2
+Quinnipiac,31
+Manhattan,19
+Marist,25
+Fairfield,19
+Niagara,13
+Canisius,7
+Canisius,3
+Iona,-8

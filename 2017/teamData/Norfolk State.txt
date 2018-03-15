@@ -1,0 +1,33 @@
+Mississippi State,-4
+Shenandoah,20
+Elizabeth City State,36
+Vanderbilt,-23
+Butler,-36
+Bucknell,-26
+Sacred Heart,-2
+Loyola (IL),-13
+Northern Kentucky,-11
+Niagara,-4
+Evansville,-19
+Eastern Kentucky,7
+Purdue,-46
+Bowling Green State,-9
+Morgan State,-2
+Savannah State,4
+North Carolina Central,-15
+Delaware State,5
+Hampton,17
+Coppin State,10
+Bethune-Cookman,7
+North Carolina A&T,14
+South Carolina State,3
+Savannah State,5
+Maryland-Eastern Shore,6
+South Carolina State,11
+Florida A&M,12
+Bethune-Cookman,-10
+Howard,8
+Hampton,-4
+South Carolina State,5
+Howard,15
+North Carolina Central,-8

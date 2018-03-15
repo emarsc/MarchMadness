@@ -1,0 +1,33 @@
+Maryland-Eastern Shore,4
+Siena,2
+Arkansas-Pine Bluff,20
+Georgia,-8
+Alabama-Birmingham,-7
+Penn State,-6
+Harvard,3
+South Florida,1
+Florida State,-19
+Temple,3
+Howard,17
+Central Florida,15
+Miami (FL),-8
+Saint Joseph's,-5
+Davidson,4
+Richmond,-7
+Virginia Commonwealth,-30
+La Salle,-10
+Duquesne,2
+George Mason,19
+Saint Louis,8
+Rhode Island,-12
+Richmond,-9
+Virginia Commonwealth,-1
+St. Bonaventure,6
+Davidson,-11
+Duquesne,7
+Massachusetts,16
+George Mason,9
+Fordham,1
+Dayton,6
+Saint Louis,7
+Richmond,-3

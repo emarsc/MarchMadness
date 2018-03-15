@@ -1,0 +1,34 @@
+LeTourneau,47
+Ohio,-21
+Southern,8
+Tennessee Tech,7
+Georgia Tech,-8
+Idaho,7
+Baylor,-34
+Louisiana State-Shreveport,32
+Southern Illinois,6
+Sul Ross State,21
+North Texas,6
+Hillsdale,38
+Arkansas,-34
+Houston Baptist,-14
+Central Arkansas,-2
+McNeese State,7
+Nicholls State,13
+New Orleans,2
+Northwestern State,9
+Lamar,22
+Texas A&M-Corpus Christi,14
+Southeastern Louisiana,2
+Stephen F. Austin,9
+Abilene Christian,-7
+Lamar,-4
+Incarnate Word,9
+Houston Baptist,-11
+Incarnate Word,-16
+Abilene Christian,-3
+McNeese State,5
+Stephen F. Austin,-8
+Central Arkansas,8
+Houston Baptist,4
+New Orleans,-12

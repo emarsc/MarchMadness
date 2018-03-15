@@ -1,0 +1,31 @@
+Duquesne,-5
+Millersville,13
+Long Island University,-4
+Notre Dame,-35
+Fairfield,15
+Creighton,-30
+Stony Brook,1
+Mount St. Mary's,7
+Towson,-17
+Binghamton,5
+Massachusetts-Lowell,9
+American,2
+Lafayette,-9
+Lehigh,1
+Army,-9
+Navy,-13
+Boston University,8
+Bucknell,-13
+Colgate,-3
+Holy Cross,3
+Lafayette,8
+Lehigh,2
+Army,15
+Navy,-3
+Boston University,-15
+Bucknell,1
+Colgate,-10
+Holy Cross,-1
+American,-2
+Lafayette,3
+Boston University,-4

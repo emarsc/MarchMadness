@@ -1,0 +1,32 @@
+Virginia Commonwealth,-15
+Georgia,-14
+South Carolina Upstate,16
+Siena,12
+Furman,6
+Kansas,-38
+Brevard,18
+Coastal Carolina,2
+Elon,11
+Warren Wilson,65
+Western Carolina,2
+North Carolina-Greensboro,-2
+Ohio State,-2
+Radford,-3
+Gardner-Webb,5
+Liberty,13
+High Point,30
+Longwood,21
+Charleston Southern,9
+Winthrop,-3
+Campbell,16
+Presbyterian,26
+Radford,11
+Charleston Southern,18
+High Point,3
+Winthrop,3
+Longwood,22
+Presbyterian,41
+Campbell,13
+Gardner-Webb,-5
+Liberty,18
+Campbell,-2

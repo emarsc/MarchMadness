@@ -1,0 +1,32 @@
+Southeast Missouri State,19
+Northern Kentucky,15
+McKendree,47
+Detroit Mercy,20
+Winthrop,-4
+West Virginia,-32
+Florida State,-11
+North Carolina State,14
+Virginia Commonwealth,18
+IUPUI,8
+Central Michigan,19
+Brigham Young,2
+Missouri,9
+Maryland,-25
+Ohio State,5
+Indiana,-16
+Michigan,16
+Maryland,-6
+Purdue,-23
+Michigan,-9
+Iowa,12
+Penn State,-4
+Wisconsin,-14
+Minnesota,-9
+Northwestern,7
+Penn State,-13
+Iowa,4
+Northwestern,16
+Nebraska,16
+Michigan State,3
+Rutgers,-3
+Michigan,-20

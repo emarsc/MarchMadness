@@ -1,0 +1,32 @@
+Ferrum,19
+Manhattan,13
+Florida State,-14
+Illinois,4
+New Hampshire,-5
+Furman,1
+Dayton,-16
+Greensboro,43
+Hampton,7
+Georgia Southern,2
+Saint Louis,11
+Charleston Southern,16
+Radford,-2
+High Point,6
+Longwood,18
+Presbyterian,23
+Campbell,9
+North Carolina-Asheville,3
+Liberty,13
+Gardner-Webb,2
+High Point,-3
+Radford,16
+Campbell,14
+North Carolina-Asheville,-3
+Gardner-Webb,6
+Longwood,20
+Liberty,17
+Charleston Southern,14
+Presbyterian,37
+Charleston Southern,14
+Gardner-Webb,3
+Campbell,17

@@ -1,0 +1,34 @@
+Virginia,-25
+Presbyterian,19
+High Point,-6
+North Dakota State,11
+Navy,13
+Belmont Abbey,36
+North Carolina A&T,20
+Liberty,7
+Mars Hill,52
+Wake Forest,-3
+Southern Wesleyan,35
+North Carolina-Asheville,2
+Georgetown,-22
+Citadel,8
+Samford,-11
+Chattanooga,5
+Western Carolina,19
+East Tennessee State,4
+Virginia Military Institute,9
+Mercer,2
+Citadel,9
+Wofford,-19
+Furman,-6
+Chattanooga,-23
+Samford,6
+Western Carolina,8
+Wofford,19
+Furman,21
+Mercer,6
+Virginia Military Institute,7
+East Tennessee State,6
+Citadel,9
+Wofford,4
+East Tennessee State,-5

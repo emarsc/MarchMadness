@@ -1,0 +1,34 @@
+Quinnipiac,24
+Providence,-22
+Marist,4
+Lyndon State,59
+Wofford,1
+Hofstra,14
+Houston,-1
+Yale,2
+South Carolina,-18
+Dartmouth,15
+Northeastern,-2
+Eastern Michigan,8
+Butler,-12
+Siena,16
+Harvard,11
+Maine,13
+Hartford,31
+Binghamton,17
+Maryland-Baltimore County,9
+New Hampshire,12
+Massachusetts-Lowell,14
+Albany (NY),11
+Stony Brook,7
+Maine,21
+Hartford,13
+Binghamton,20
+New Hampshire,8
+Maryland-Baltimore County,3
+Massachusetts-Lowell,21
+Albany (NY),12
+Stony Brook,15
+Maine,45
+New Hampshire,33
+Albany (NY),3

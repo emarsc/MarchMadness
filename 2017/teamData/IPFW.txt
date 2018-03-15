@@ -1,0 +1,31 @@
+Arkansas,-9
+Kenyon,57
+Illinois State,-18
+Massachusetts-Lowell,13
+Indiana,3
+Mississippi Valley State,25
+Siena Heights,48
+Austin Peay,4
+Miami (OH),16
+Notre Dame,-15
+Austin Peay,40
+Stetson,19
+Detroit Mercy,7
+Western Illinois,-2
+Oral Roberts,11
+Nebraska-Omaha,2
+Denver,4
+Olivet,55
+South Dakota,-3
+North Dakota State,-6
+South Dakota State,-10
+IUPUI,30
+Oral Roberts,4
+Denver,-3
+South Dakota,-11
+Nebraska-Omaha,7
+North Dakota State,16
+South Dakota State,-8
+IUPUI,-1
+Western Illinois,4
+Nebraska-Omaha,-4

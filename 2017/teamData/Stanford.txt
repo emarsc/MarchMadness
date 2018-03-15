@@ -1,0 +1,31 @@
+Harvard,10
+Cal State Northridge,27
+Weber State,18
+Colorado State,7
+Miami (FL),-14
+Indiana State,3
+Seton Hall,14
+Saint Mary's (CA),-15
+Kansas,-15
+Cal State East Bay,24
+Southern Methodist,-23
+Idaho,6
+Arizona State,-5
+Arizona,-39
+Southern California,-16
+UCLA,-14
+Washington State,30
+Washington,7
+Oregon State,16
+Oregon,-17
+University of California,-11
+Colorado,-7
+Utah,6
+Arizona,-7
+Arizona State,-6
+University of California,5
+Oregon State,13
+Oregon,-2
+Colorado,-19
+Utah,-8
+Arizona State,-10

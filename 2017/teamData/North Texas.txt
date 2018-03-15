@@ -1,0 +1,30 @@
+Sul Ross State,8
+Texas Tech,-27
+Drexel,-21
+Rutgers,-13
+Niagara,9
+Hartford,3
+Texas College,28
+Texas-Arlington,-16
+Delaware State,33
+Sam Houston State,-6
+Southeastern Louisiana,6
+San Diego,-1
+Charlotte,-25
+Old Dominion,-7
+Alabama-Birmingham,-2
+Middle Tennessee,-11
+Rice,-22
+Southern Mississippi,-10
+Louisiana Tech,-24
+Charlotte,-1
+Old Dominion,-6
+Rice,-15
+Florida Atlantic,6
+Florida International,-19
+Texas-El Paso,-6
+Texas-San Antonio,10
+Louisiana Tech,-18
+Southern Mississippi,-23
+Western Kentucky,-11
+Marshall,-2

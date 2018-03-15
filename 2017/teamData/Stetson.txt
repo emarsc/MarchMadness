@@ -1,0 +1,32 @@
+Webber,16
+Florida International,15
+Citadel,-4
+East Carolina,-23
+Air Force,-13
+Radford,-14
+Florida A&M,8
+Central Florida,-36
+Florida College,32
+Iowa,-27
+Southern Illinois-Edwardsville,8
+South Alabama,9
+IPFW,-19
+Campbell,-9
+Alabama,-23
+Ave Maria,23
+Florida Gulf Coast,-1
+Lipscomb,-26
+Kennesaw State,-19
+NJIT,6
+South Carolina Upstate,-11
+Jacksonville,-11
+North Florida,14
+Jacksonville,-3
+Bethune-Cookman,9
+North Florida,-32
+Kennesaw State,-7
+Lipscomb,-12
+South Carolina Upstate,11
+NJIT,-4
+Florida Gulf Coast,-10
+Florida Gulf Coast,-30

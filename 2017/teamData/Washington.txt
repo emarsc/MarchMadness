@@ -1,0 +1,31 @@
+Yale,-8
+Cal State Fullerton,16
+Northern Arizona,34
+Long Beach State,6
+Western Kentucky,39
+Texas Christian,-13
+Texas Christian,-15
+Gonzaga,-27
+Nevada,-2
+Western Michigan,6
+Cal Poly,16
+Seattle,22
+Washington State,-5
+Oregon,-22
+Oregon State,26
+University of California,-10
+Stanford,-7
+Colorado,2
+Utah,-22
+Arizona State,-11
+Arizona,-11
+Southern California,-8
+UCLA,-41
+Colorado,-15
+Utah,-24
+Arizona State,-2
+Arizona,-8
+Washington State,-8
+UCLA,-32
+Southern California,-16
+Southern California,-5

@@ -1,0 +1,32 @@
+Georgetown,-45
+Mars Hill,25
+North Carolina-Asheville,-16
+Charleston Southern,2
+Charlotte,5
+College of Charleston,-12
+Auburn,-7
+Campbell,7
+Citadel,-5
+Colgate,6
+Virginia Wise,32
+Presbyterian,28
+Alabama,-17
+Jacksonville State,-1
+Florida College,32
+Allen,26
+Missouri-Kansas City,9
+NJIT,10
+North Florida,-8
+Jacksonville,7
+Florida Gulf Coast,2
+Stetson,11
+Lipscomb,-7
+Kennesaw State,6
+Lipscomb,-12
+Kennesaw State,-5
+Jacksonville,3
+North Florida,13
+Stetson,-11
+Florida Gulf Coast,-8
+NJIT,1
+Kennesaw State,-2

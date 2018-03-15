@@ -1,0 +1,33 @@
+South Dakota State,29
+UC-Irvine,10
+San Diego State,-12
+Wyoming,10
+Southeastern Louisiana,12
+Louisiana Tech,9
+Alcorn State,24
+Princeton,11
+Seton Hall,-3
+UC-Davis,25
+Cal Poly,26
+Virginia,-4
+Arizona,-5
+Arizona State,16
+UCLA,-10
+Southern California,1
+Washington,10
+Washington State,4
+Oregon,-23
+Oregon State,11
+Stanford,11
+Utah,2
+Colorado,11
+Arizona State,25
+Arizona,-5
+Stanford,-5
+Oregon,-3
+Oregon State,30
+Utah,-30
+Colorado,-8
+Oregon State,5
+Utah,3
+Oregon,-8

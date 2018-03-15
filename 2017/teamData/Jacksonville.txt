@@ -1,0 +1,32 @@
+Denver,8
+Air Force,-18
+Youngstown State,25
+Florida International,3
+South Alabama,-13
+Trinity Baptist,45
+North Carolina A&T,17
+Milwaukee,-5
+Bethune-Cookman,10
+Eastern Kentucky,-4
+Marist,21
+Florida A&M,3
+Florida Memorial,18
+Davidson,-15
+Thomas University,29
+South Carolina State,4
+Middle Georgia State,39
+North Florida,-16
+NJIT,1
+South Carolina Upstate,-7
+Lipscomb,-17
+Kennesaw State,-10
+Stetson,11
+Florida Gulf Coast,-22
+Stetson,3
+Florida Gulf Coast,-10
+South Carolina Upstate,-3
+NJIT,3
+Kennesaw State,1
+Lipscomb,-12
+North Florida,-4
+North Florida,-3

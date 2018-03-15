@@ -1,0 +1,32 @@
+Xavier,-3
+Yale,-8
+Princeton,9
+Mississippi State,14
+Arkansas State,-8
+La Salle,-8
+Robert Morris,6
+Stony Brook,-5
+Mount St. Mary's,19
+Saint Francis (PA),33
+Cabrini,21
+Army,7
+Boston University,-14
+Loyola (MD),-1
+American,6
+Bucknell,11
+Holy Cross,17
+Navy,-3
+Lafayette,7
+Colgate,14
+Boston University,-17
+Loyola (MD),-2
+American,15
+Bucknell,8
+Holy Cross,-16
+Navy,19
+Lafayette,26
+Colgate,18
+Army,14
+Colgate,5
+Boston University,3
+Bucknell,-16

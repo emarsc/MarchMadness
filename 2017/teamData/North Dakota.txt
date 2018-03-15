@@ -1,0 +1,31 @@
+Crown College,50
+Mayville State,28
+Presentation College,38
+North Florida,-1
+Wright State,-4
+Cal State Bakersfield,2
+North Dakota State,18
+Northern Iowa,-8
+North Dakota State,-17
+Iowa,-11
+Portland State,-37
+Sacramento State,8
+Northern Arizona,5
+Southern Utah,30
+Montana State,5
+Montana,-6
+Weber State,6
+Idaho State,25
+Southern Utah,2
+Northern Arizona,-1
+Northern Colorado,10
+Eastern Washington,9
+Idaho,23
+Idaho State,16
+Weber State,9
+Northern Colorado,3
+Sacramento State,-4
+Portland State,9
+Portland State,23
+Idaho,5
+Weber State,4

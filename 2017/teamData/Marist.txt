@@ -1,0 +1,32 @@
+Duke,-45
+Rhode Island,-42
+Vermont,-4
+Brown,8
+Grand Canyon,-12
+Dartmouth,6
+Massachusetts-Lowell,12
+Niagara,6
+Quinnipiac,-14
+Albany (NY),-12
+Jacksonville,-21
+Delaware,-3
+Holy Cross,-9
+Iona,-13
+Manhattan,2
+Rider,-11
+Monmouth,-7
+Canisius,-33
+Niagara,6
+Rider,-18
+Saint Peter's,-16
+Fairfield,-10
+Monmouth,-12
+Manhattan,-1
+Fairfield,-20
+Siena,-7
+Saint Peter's,-25
+Iona,-7
+Canisius,2
+Quinnipiac,13
+Siena,-16
+Canisius,-4

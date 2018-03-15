@@ -1,0 +1,34 @@
+Auburn,-17
+Edward Waters,36
+Miami (FL),-38
+Louisiana State,-8
+Florida National University,46
+North Dakota,1
+Cal State Bakersfield,-23
+Wright State,-8
+Florida,-31
+Syracuse,-6
+Arkansas,-15
+Texas-Rio Grande Valley,-14
+Thomas University,30
+Connecticut,-21
+Florida International,-24
+Ball State,-5
+Palm Beach Atlantic,35
+Jacksonville,16
+South Carolina Upstate,8
+NJIT,-6
+Kennesaw State,2
+Lipscomb,6
+Florida Gulf Coast,-4
+Stetson,-14
+Florida Gulf Coast,-15
+Stetson,32
+NJIT,22
+South Carolina Upstate,-13
+Lipscomb,11
+Kennesaw State,-17
+Jacksonville,4
+Jacksonville,3
+Lipscomb,6
+Florida Gulf Coast,-16

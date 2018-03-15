@@ -1,0 +1,29 @@
+Butler,-37
+Colorado Christian,21
+Santa Clara,-16
+Arizona,-16
+Sacred Heart,22
+Bucknell,-12
+Oklahoma,-21
+Northern New Mexico,24
+Colorado State,-17
+Denver,-3
+UC-Riverside,16
+Sacramento State,16
+Portland State,14
+Southern Utah,-2
+Northern Arizona,4
+Montana,-21
+Montana State,-15
+Idaho State,-4
+Weber State,-5
+Northern Arizona,-13
+Southern Utah,18
+North Dakota,-10
+Idaho,-12
+Eastern Washington,-26
+Weber State,-6
+Idaho State,6
+North Dakota,-3
+Portland State,3
+Sacramento State,3

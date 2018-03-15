@@ -1,0 +1,33 @@
+Sewanee,43
+Morehead State,-14
+Piedmont,29
+Saint Peter's,-13
+Fairleigh Dickinson,-18
+Fordham,-16
+Cincinnati,-23
+Belmont,-2
+Tennessee Tech,19
+Tennessee State,-1
+Belmont,-2
+Morehead State,14
+Tennessee,-15
+Tennessee Tech,2
+Austin Peay,14
+Missouri,5
+Fisk,83
+Kennesaw State,3
+Stetson,26
+Florida Gulf Coast,-4
+Jacksonville,17
+North Florida,-6
+South Carolina Upstate,7
+NJIT,4
+South Carolina Upstate,12
+NJIT,24
+Florida Gulf Coast,5
+Stetson,12
+North Florida,-11
+Jacksonville,12
+Kennesaw State,11
+NJIT,31
+North Florida,-6

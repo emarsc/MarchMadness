@@ -1,0 +1,28 @@
+Vanderbilt,-14
+Western Kentucky,21
+Florida,-17
+Rhode Island,-9
+Lipscomb,2
+Pepperdine,8
+Lipscomb,2
+Middle Tennessee,-13
+Milwaukee,6
+Cleveland State,27
+Austin Peay,5
+Tennessee-Martin,16
+Southeast Missouri State,12
+Morehead State,6
+Eastern Kentucky,13
+Jacksonville State,17
+Tennessee Tech,12
+Eastern Illinois,13
+Tennessee State,17
+Southern Illinois-Edwardsville,23
+Murray State,12
+Jacksonville State,13
+Tennessee Tech,-13
+Eastern Kentucky,4
+Morehead State,16
+Trevecca Nazarene,51
+Tennessee State,5
+Jacksonville State,-6

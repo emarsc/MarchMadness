@@ -1,0 +1,34 @@
+Army,14
+Baylor,-17
+Valparaiso,22
+Georgetown,-4
+Tennessee,4
+Connecticut,10
+Boise State,5
+Western Oregon,39
+Savannah State,69
+Alabama,9
+Montana,14
+Nevada-Las Vegas,20
+Fresno State,12
+UCLA,2
+Southern California,23
+Washington,22
+Washington State,19
+Oregon State,42
+University of California,23
+Stanford,17
+Utah,6
+Colorado,-9
+Arizona State,1
+Arizona,27
+UCLA,-3
+Southern California,11
+Utah,18
+Colorado,28
+University of California,3
+Stanford,2
+Oregon State,21
+Arizona State,23
+University of California,8
+Arizona,-3

@@ -1,0 +1,32 @@
+North Dakota State,-10
+Central Baptist,43
+Georgetown,6
+Army,3
+Chattanooga,6
+Southern Illinois-Edwardsville,18
+Lehigh,8
+Cleveland State,27
+Texas Christian,-23
+Tennessee-Martin,19
+Central Arkansas,12
+Alabama,-15
+Minnesota,-7
+Louisiana-Lafayette,3
+Louisiana-Monroe,31
+Coastal Carolina,-15
+Appalachian State,-13
+Arkansas-Little Rock,5
+Troy,2
+South Alabama,12
+Louisiana-Monroe,10
+Louisiana-Lafayette,19
+Appalachian State,1
+Coastal Carolina,10
+Texas-Arlington,-6
+Texas State,-4
+Arkansas-Little Rock,9
+Georgia Southern,-12
+Georgia State,11
+Troy,-9
+South Alabama,-3
+Louisiana-Monroe,-3

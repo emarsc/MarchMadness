@@ -1,0 +1,33 @@
+McPherson,17
+Jacksonville,18
+Johnson & Wales,43
+Florida A&M,25
+Stetson,13
+Akron,-9
+East Carolina,-7
+New Mexico State,-8
+Missouri State,13
+Army,-8
+Denver,-12
+Colorado,-7
+UC-Davis,10
+Wyoming,-12
+Utah State,5
+Colorado State,-27
+Fresno State,9
+San Jose State,-4
+Nevada,-7
+Nevada-Las Vegas,-2
+San Diego State,3
+Fresno State,-9
+Wyoming,-9
+New Mexico,-7
+Boise State,-10
+Nevada,-19
+San Jose State,-5
+Nevada-Las Vegas,23
+Utah State,-31
+San Diego State,-13
+Boise State,-28
+Wyoming,15
+Colorado State,-26

@@ -1,0 +1,33 @@
+Portland State,18
+Cal Poly,22
+Northern Iowa,-19
+Tulane,9
+Davidson,-8
+Citadel,17
+Kentucky,-46
+Nevada-Las Vegas,24
+Purdue,-33
+San Diego State,11
+New Mexico State,-11
+Creighton,-11
+Central Arkansas,36
+Stanford,5
+University of California,-16
+Colorado,1
+Utah,-6
+Arizona,-16
+UCLA,-22
+Southern California,-3
+Washington,11
+Washington State,-8
+Oregon,-1
+Oregon State,13
+University of California,-25
+Stanford,6
+Washington,2
+Washington State,-15
+UCLA,-12
+Southern California,1
+Arizona,-13
+Stanford,10
+Oregon,-23

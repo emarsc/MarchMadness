@@ -1,0 +1,31 @@
+Florida Memorial,19
+Stetson,-15
+South Alabama,-5
+Jacksonville,-3
+Youngstown State,-5
+Ave Maria,17
+Binghamton,17
+Elon,-3
+South Carolina,-16
+Florida Gulf Coast,-19
+Georgia Southern,-7
+Northern Illinois,-7
+North Florida,24
+Marshall,-24
+Western Kentucky,-3
+Florida Atlantic,-9
+Texas-El Paso,-1
+Texas-San Antonio,-2
+Middle Tennessee,-13
+Alabama-Birmingham,9
+Florida Atlantic,-18
+Old Dominion,-7
+Charlotte,-15
+Rice,-11
+North Texas,19
+Southern Mississippi,-3
+Louisiana Tech,-16
+Texas-San Antonio,-2
+Texas-El Paso,-14
+Middle Tennessee,-3
+Alabama-Birmingham,12

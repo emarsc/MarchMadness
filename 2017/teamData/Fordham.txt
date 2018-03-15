@@ -1,0 +1,32 @@
+East Tennessee State,-37
+NYIT,26
+Fairleigh Dickinson,13
+Saint Peter's,22
+Lipscomb,16
+Rider,11
+Texas-Arlington,-4
+Sacred Heart,-1
+Harvard,-12
+St. John's (NY),-28
+Manhattan,-7
+Rutgers,-15
+Central Connecticut State,23
+Duquesne,-3
+Richmond,-8
+Saint Joseph's,-15
+Davidson,6
+St. Bonaventure,-20
+Virginia Commonwealth,2
+Massachusetts,3
+Davidson,-18
+Dayton,-9
+Saint Joseph's,3
+La Salle,-15
+George Mason,-6
+Rhode Island,10
+Saint Louis,14
+Duquesne,18
+Richmond,-22
+George Washington,-1
+La Salle,-12
+George Mason,-11

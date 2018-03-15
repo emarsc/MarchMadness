@@ -1,0 +1,33 @@
+Pennsylvania,-17
+DePaul,-6
+Bucknell,-13
+Richmond,-12
+Kansas State,-21
+Hampton,14
+Towson,1
+Youngstown State,-1
+Lehigh,-6
+Duquesne,4
+Oakland,-21
+Virginia,-40
+Buffalo,3
+Sacred Heart,11
+Fairleigh Dickinson,-4
+Long Island University,-11
+St. Francis (NY),4
+Saint Francis (PA),-20
+Wagner,-3
+Central Connecticut State,7
+Bryant,-3
+Mount St. Mary's,-1
+Saint Francis (PA),-6
+Long Island University,4
+St. Francis (NY),24
+Mount St. Mary's,-4
+Wagner,2
+Bryant,-8
+Central Connecticut State,10
+Fairleigh Dickinson,1
+Sacred Heart,7
+Long Island University,1
+Mount St. Mary's,-9

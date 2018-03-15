@@ -1,0 +1,30 @@
+Davidson,-12
+Tennessee,-9
+Warren Wilson,68
+Hartford,9
+Duke,-35
+Charlotte,-8
+Western Carolina,-5
+Montreat,59
+North Carolina State,-33
+James Madison,12
+Hampton,21
+Texas State,-9
+Texas-Arlington,-15
+Arkansas-Little Rock,-8
+Arkansas State,13
+Coastal Carolina,-12
+Georgia Southern,-4
+Georgia State,-11
+Texas-Arlington,-16
+Texas State,-13
+Arkansas State,-1
+Arkansas-Little Rock,-7
+Georgia State,5
+Georgia Southern,5
+South Alabama,-13
+Troy,-10
+Louisiana-Monroe,-11
+Louisiana-Lafayette,-15
+Coastal Carolina,4
+Troy,-20

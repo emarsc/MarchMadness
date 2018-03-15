@@ -1,0 +1,33 @@
+Florida Atlantic,4
+Hawaii,-6
+Southern Illinois-Edwardsville,28
+Texas A&M-Corpus Christi,-4
+Texas-San Antonio,-15
+McNeese State,12
+Panhandle State,31
+Texas-Rio Grande Valley,-11
+Prairie View,7
+Tulsa,-15
+Howard Payne,50
+Tulane,3
+Appalachian State,9
+Coastal Carolina,-7
+Texas-Arlington,8
+South Alabama,-5
+Troy,4
+Louisiana-Lafayette,-6
+Louisiana-Monroe,6
+Coastal Carolina,2
+Appalachian State,13
+Texas-Arlington,-15
+Arkansas-Little Rock,7
+Arkansas State,4
+Georgia Southern,-3
+Georgia State,-16
+Troy,4
+South Alabama,26
+Louisiana-Lafayette,-10
+Louisiana-Monroe,5
+Louisiana-Monroe,12
+Texas-Arlington,21
+Troy,-6

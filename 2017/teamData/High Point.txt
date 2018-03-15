@@ -1,0 +1,31 @@
+Averett,33
+Virginia Tech,-26
+North Carolina-Greensboro,6
+Navy,7
+North Dakota State,-26
+Clemson,-9
+Morgan State,1
+Drexel,-6
+Vanderbilt,-27
+Ferrum,24
+North Carolina Wesleyan,18
+Western Carolina,-5
+Gardner-Webb,7
+Longwood,-5
+Winthrop,-6
+North Carolina-Asheville,-30
+Liberty,-4
+Presbyterian,33
+Campbell,5
+Radford,3
+Charleston Southern,3
+Winthrop,3
+Longwood,24
+North Carolina-Asheville,-3
+Presbyterian,10
+Radford,-1
+Liberty,-3
+Charleston Southern,-1
+Campbell,10
+Gardner-Webb,-2
+Gardner-Webb,-36

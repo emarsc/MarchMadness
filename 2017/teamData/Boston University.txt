@@ -1,0 +1,32 @@
+Northeastern,-10
+Northeastern,2
+Maine,24
+Long Island University,17
+Western New England,37
+Saint Peter's,-13
+Connecticut,-2
+North Carolina State,-4
+Canisius,-10
+Syracuse,-22
+New Hampshire,4
+Massachusetts-Lowell,-2
+Holy Cross,6
+Lehigh,14
+Navy,18
+Lafayette,16
+American,10
+Loyola (MD),-8
+Colgate,-9
+Bucknell,-11
+Army,1
+Lehigh,17
+Navy,-9
+Lafayette,17
+American,3
+Loyola (MD),15
+Colgate,1
+Bucknell,-20
+Army,-11
+Holy Cross,3
+Loyola (MD),4
+Lehigh,-3
