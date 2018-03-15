@@ -70,7 +70,7 @@ class Perceptron:
 	def update(self, error):
 		for i in range(0, len(self.weights)):
 			self.weights[i]=self.weights[i]+self._input[i]*error
-		self.biad=self.bias+error
+		self.bias=self.bias+error
 
 	def forward(self, _input):
 		self._input=_input
@@ -80,13 +80,13 @@ class Perceptron:
 		else:
 			self.output=1
 
-	def train(self, results, iter=10):
+	def train(self, results, iter=1):
 		for i in range(0, iter):
 			random.shuffle(results)
 			for r in results:
 				self.forward(r[0])
-				if self.output!=r[1]:
-					self.update(r[1]-self.output)
+				if self.output!=r[2]:
+					self.update(r[2]-self.output)
 		
 			
 

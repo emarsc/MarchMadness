@@ -146,7 +146,7 @@ with open('modteamdata.csv', 'r') as file:
 				row['School']=row['school']
 				row.pop('school', None)
 			elif key!="" and key!='school' and key!='School':
-				print(row[key])
+				#print(row[key])
 				row[key]=float(row[key])
 
 		school=row.pop('School', None)

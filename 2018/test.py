@@ -22,20 +22,20 @@ def zero_one_loss(numTest):
 		else:
 			realWinners.append((row['team'], score))
 
-	"""gs=GraphSearch()
+	gs=GraphSearch()
 	gs.train(train)
-	gsPredictions=gs.predict(toPredict)"""
-	nn=NNet(pd.teamdata['Purdue'].keys())
+	gsPredictions=gs.predict(toPredict)
+	"""nn=NNet(pd.teamdata['Purdue'].keys())
 	nn.train(train)
-	nnPredictions=nn.predict(toPredict)
+	nnPredictions=nn.predict(toPredict)"""
 	avgScoreDiff=0
 	loss=0	
 	for i in range(0, numTest):	
-		if nnPredictions[i][0]!=realWinners[i][0]:
-			avgScoreDiff=avgScoreDiff+nnPredictions[i][1]+realWinners[i][1]
+		if gsPredictions[i][0]!=realWinners[i][0]:
+			avgScoreDiff=avgScoreDiff+gsPredictions[i][1]+realWinners[i][1]
 			loss+=1
 		else:
-			avgScoreDiff+=abs(realWinners[i][1]-nnPredictions[i][1])
+			avgScoreDiff+=abs(realWinners[i][1]-gsPredictions[i][1])
 				
 	print("0/1 Loss: "+str(loss/numTest))
 	print("Average Score Difference: "+str(avgScoreDiff/numTest))
@@ -49,7 +49,7 @@ def test_perceptron():
 			outcome=-1
 		else:
 			outcome=1
-		result=[[], outcome]
+		result=[[], int(r['teamscore'])-int(r['oppscore']), outcome]
 		for attr in perc.attributes:
 			result[0].append(pd.teamdata[r['team']][attr]-pd.teamdata[r['opponent']][attr])
 		results.append(result)
@@ -58,13 +58,13 @@ def test_perceptron():
 	train=results[100:len(results)]
 	perc.train(train)
 	loss=0
-	print(test)
+	#print(test)
 	for i in range(0, 100):
 		perc.forward(test[i][0])
-		if perc.output!=test[i][1]:
+		if perc.output!=test[i][2]:
 			loss+=1
 	print("0/1 Loss: "+str(loss/100))
 
 if __name__=="__main__":
-	#zero_one_loss(100)	
+	zero_one_loss(100)	
 	test_perceptron()
