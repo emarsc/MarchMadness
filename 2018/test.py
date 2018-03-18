@@ -56,7 +56,7 @@ def test_perceptron():
 	random.shuffle(results)
 	test=results[0:100]
 	train=results[100:len(results)]
-	perc.train(train)
+	perc.train(train, iter=2)
 	loss=0
 	#print(test)
 	for i in range(0, 100):
@@ -67,4 +67,4 @@ def test_perceptron():
 
 if __name__=="__main__":
 	zero_one_loss(100)	
-	test_perceptron()
+	#test_perceptron()

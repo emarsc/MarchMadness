@@ -85,8 +85,8 @@ class Perceptron:
 			random.shuffle(results)
 			for r in results:
 				self.forward(r[0])
-				if self.output!=r[2]:
-					self.update(r[2]-self.output)
+				if self.output!=r[1]:
+					self.update(r[1]-self.output)
 		
 			
 
