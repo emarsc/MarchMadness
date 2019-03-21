@@ -1,15 +1,15 @@
 import parsedata as pd
 from predict import GraphSearch
-from predict import Perceptron
+#from predict import Perceptron
 import random
 
 bracket=pd.get_bracket()
 
 data=pd.get_result_data()
-
+#print(data)
 gs=GraphSearch()
 gs.train(data)
-
+#print("hello")
 #perc=Perceptron(list(pd.teamdata['Purdue'].keys()))
 
 """parsedresults=[]
@@ -46,7 +46,8 @@ for i in range(0, 7):
 		#_input=[]
 		#for attr in perc.attributes:
 		#	_input.append(pd.teamdata[team1][attr]-pd.teamdata[team2][attr])
-		
+		print(team1)
+		print(team2)
 		winner, score=gs.predict_game((team1, team2))
 		#perc.forward(_input)
 		#if perc.output==-1:

@@ -3,8 +3,9 @@ import urllib
 import urllib.request
 import difflib
 
-csv_path="NCAA_Hoops_Results_3_9_2018.csv"
-
+#csv_path="NCAA_Hoops_Results_3_9_2018.csv"
+csv_path="2019_results.csv"
+file_path="2019/"
 
 def make_bracket():
 	with open(csv_path, 'r') as file:
@@ -26,7 +27,7 @@ def make_bracket():
 		else:
 			i+=1
 			bracket.append(team)
-	with open("bracket.txt", "w+") as file:
+	with open(file_path+"bracket.txt", "w+") as file:
 		file.writelines(bracket)
 	file.close()
 	print("Bracket successfully created")
@@ -65,7 +66,7 @@ def check_data_row(row):
 	file.close()"""
 
 def get_bracket():
-	with open('bracket.txt', 'r') as file:
+	with open(file_path+'bracket.txt', 'r') as file:
 		bracket=file.read()
 	file.close()
 	bracket=bracket.split('\n')
@@ -85,7 +86,7 @@ def get_bracket():
 	return graph"""
 
 def get_result_data():
-	with open(csv_path, 'r') as file:
+	with open(file_path+csv_path, 'r') as file:
 		cr=csv.DictReader(file)
 		data=list(cr)
 	file.close()

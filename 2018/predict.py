@@ -14,10 +14,12 @@ class GraphSearch():
 		self.graph={}
 		for row in data:
 			self.graph[row['team']]=[]
+			self.graph[row['opponent']]=[]
 		for row in data:
 			if(row['team']!="NA" and row['teamscore']!="NA" and row['oppscore']!='NA'):
 				self.graph[row['team']].append((row['opponent'], int(row['teamscore'])-int(row['oppscore'])))
-	
+		print(self.graph)
+
 	def graph_search(self, team1, team2, current_score, depth, max_depth=4):
 		if(depth>max_depth):
 			return None
