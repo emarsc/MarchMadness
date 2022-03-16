@@ -1,0 +1,142 @@
+predicting the first four ...
+FIRST FOUR: Rutgers VS Notre Dame
+Winner: Notre Dame. Score: 0.3826001820923524
+FIRST FOUR: Indiana VS Wyoming
+Winner: Indiana. Score: 3.2689332642463502
+FIRST FOUR: Wright St. VS Bryant
+Winner: Wright St.. Score: 8.416151710448705
+FIRST FOUR: Texas Southern VS A&M-Corpus Christi
+Winner: Texas Southern. Score: 0.0308366430674873
+predicting the tournament ...
+ROUND 1
+Gonzaga VS Georgia St.
+WINNER: Gonzaga, 31.1822442801929
+Boise St. VS Memphis
+WINNER: Memphis, 1.7575910402200035
+UConn VS New Mexico St.
+WINNER: UConn, 8.902725703551734
+Arkansas VS Vermont
+WINNER: Arkansas, 14.085890117116376
+Alabama VS Notre Dame
+WINNER: Alabama, 3.7269097781427343
+Texas Tech VS Montana St.
+WINNER: Texas Tech, 19.968830849167993
+Michigan St. VS Davidson
+WINNER: Davidson, 0.5989382184453405
+Duke VS Cal St. Fullerton
+WINNER: Duke, 14.422376941493239
+Baylor VS Norfolk St.
+WINNER: Baylor, 30.113742632446584
+North Carolina VS Marquette
+WINNER: North Carolina, 2.1996927316225263
+Saint Mary's (CA) VS Indiana
+WINNER: Indiana, 3.4020622199083697
+UCLA VS Akron
+WINNER: UCLA, 16.043624515479223
+Texas VS Virginia Tech
+WINNER: Texas, 2.926733408304796
+Purdue VS Yale
+WINNER: Purdue, 22.598657357217117
+Murray St. VS San Francisco
+WINNER: San Francisco, 5.499626301418765
+Kentucky VS Saint Peter's
+WINNER: Kentucky, 21.238718380707326
+Arizona VS Wright St.
+WINNER: Arizona, 29.38297426662669
+Seton Hall VS TCU
+WINNER: Seton Hall, 0.9631897410562357
+Houston VS UAB
+WINNER: Houston, 12.251753519523167
+Illinois VS Chattanooga
+WINNER: Illinois, 9.731957992590202
+Colorado St. VS Michigan
+WINNER: Michigan, 6.559027821006104
+Tennessee VS Longwood
+WINNER: Tennessee, 24.393755604931606
+Ohio St. VS Loyola Chicago
+WINNER: Ohio St., 0.057793752783108436
+Villanova VS Delaware
+WINNER: Villanova, 21.408296255532065
+Kansas VS Texas Southern
+WINNER: Kansas, 22.193775891743414
+San Diego St. VS Creighton
+WINNER: San Diego St., 5.782555216512786
+Iowa VS Richmond
+WINNER: Iowa, 12.696042608389092
+Providence VS South Dakota St.
+WINNER: Providence, 3.029536086201096
+LSU VS Iowa St.
+WINNER: LSU, 1.5448551833322335
+Wisconsin VS Colgate
+WINNER: Wisconsin, 12.866418547408186
+Southern California VS Miami (FL)
+WINNER: Southern California, 4.035141938257051
+Auburn VS Jacksonville St.
+WINNER: Auburn, 19.25911505564444
+ROUND 2
+Gonzaga VS Memphis
+WINNER: Gonzaga, 12.721446220500484
+UConn VS Arkansas
+WINNER: UConn, 2.6600770031772543
+Alabama VS Texas Tech
+WINNER: Texas Tech, 5.764645239066758
+Davidson VS Duke
+WINNER: Duke, 7.942324824780911
+Baylor VS North Carolina
+WINNER: Baylor, 12.4196423642848
+Indiana VS UCLA
+WINNER: UCLA, 5.545371464574651
+Texas VS Purdue
+WINNER: Purdue, 1.780238774953192
+San Francisco VS Kentucky
+WINNER: Kentucky, 7.124729499337684
+Arizona VS Seton Hall
+WINNER: Arizona, 11.753711950809507
+Houston VS Illinois
+WINNER: Houston, 12.555626786424822
+Michigan VS Tennessee
+WINNER: Tennessee, 5.764180463928235
+Ohio St. VS Villanova
+WINNER: Villanova, 4.438154926013512
+Kansas VS San Diego St.
+WINNER: Kansas, 11.613934672519717
+Iowa VS Providence
+WINNER: Iowa, 6.110178929196722
+LSU VS Wisconsin
+WINNER: LSU, 1.6008031720665223
+Southern California VS Auburn
+WINNER: Auburn, 9.549933445361697
+ROUND 3
+Gonzaga VS UConn
+WINNER: Gonzaga, 8.302462361764457
+Texas Tech VS Duke
+WINNER: Duke, 4.452793937332808
+Baylor VS UCLA
+WINNER: Baylor, 1.7418424365422982
+Purdue VS Kentucky
+WINNER: Kentucky, 1.3689897735509402
+Arizona VS Houston
+WINNER: Houston, 5.3427576433289135
+Tennessee VS Villanova
+WINNER: Villanova, 4.153464972933493
+Kansas VS Iowa
+WINNER: Kansas, 8.572716033528021
+LSU VS Auburn
+WINNER: Auburn, 3.709246195566329
+ROUND 4
+Gonzaga VS Duke
+WINNER: Gonzaga, 1.024943093246814
+Baylor VS Kentucky
+WINNER: Kentucky, 2.1961050582370705
+Houston VS Villanova
+WINNER: Houston, 1.465139501448418
+Kansas VS Auburn
+WINNER: Auburn, 0.2902067718096191
+ROUND 5
+Gonzaga VS Kentucky
+WINNER: Gonzaga, 4.524918914796786
+Houston VS Auburn
+WINNER: Houston, 2.8145209039654735
+ROUND 6
+Gonzaga VS Houston
+WINNER: Gonzaga, 0.6038616959864903

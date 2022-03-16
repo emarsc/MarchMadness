@@ -1,0 +1,150 @@
+getting bracket ...
+getting season results ...
+parsing team names ...
+training model ...
+az kansas: Kansas 0.9534637668914719
+texas purdue
+Texas
+0.8561113451645549
+predicting the first four ...
+FIRST FOUR: Rutgers VS Notre Dame
+Winner: Rutgers. Score: 0.06765275711867871
+FIRST FOUR: Indiana VS Wyoming
+Winner: Indiana. Score: 3.6995620514028267
+FIRST FOUR: Wright St. VS Bryant
+Winner: Wright St.. Score: 9.281433095490867
+FIRST FOUR: Texas Southern VS A&M-Corpus Christi
+Winner: Texas Southern. Score: 0.5717046267679841
+predicting the tournament ...
+ROUND 1
+Gonzaga VS Georgia St.
+WINNER: Gonzaga, 31.202417670667042
+Boise St. VS Memphis
+WINNER: Memphis, 1.2846930708548683
+UConn VS New Mexico St.
+WINNER: UConn, 8.991905425785637
+Arkansas VS Vermont
+WINNER: Arkansas, 13.615515076938399
+Alabama VS Rutgers
+WINNER: Alabama, 3.1424241196102987
+Texas Tech VS Montana St.
+WINNER: Texas Tech, 18.184200975692185
+Michigan St. VS Davidson
+WINNER: Davidson, 1.8449231447937933
+Duke VS Cal St. Fullerton
+WINNER: Duke, 12.530000103339946
+Baylor VS Norfolk St.
+WINNER: Baylor, 31.63521066097048
+North Carolina VS Marquette
+WINNER: North Carolina, 1.7302688899979493
+Saint Mary's (CA) VS Indiana
+WINNER: Indiana, 4.903098614042654
+UCLA VS Akron
+WINNER: UCLA, 13.374795570839977
+Texas VS Virginia Tech
+WINNER: Texas, 4.303308866488421
+Purdue VS Yale
+WINNER: Purdue, 22.735076246520286
+Murray St. VS San Francisco
+WINNER: San Francisco, 6.323635679870685
+Kentucky VS Saint Peter's
+WINNER: Kentucky, 20.704745021497693
+Arizona VS Wright St.
+WINNER: Arizona, 28.66218776834561
+Seton Hall VS TCU
+WINNER: Seton Hall, 1.6325518579357394
+Houston VS UAB
+WINNER: Houston, 12.90856499747499
+Illinois VS Chattanooga
+WINNER: Illinois, 10.246429904847243
+Colorado St. VS Michigan
+WINNER: Michigan, 8.701668980083486
+Tennessee VS Longwood
+WINNER: Tennessee, 24.818349542429022
+Ohio St. VS Loyola Chicago
+WINNER: Ohio St., 1.7294101241235764
+Villanova VS Delaware
+WINNER: Villanova, 21.777982981950114
+Kansas VS Texas Southern
+WINNER: Kansas, 21.41050321805548
+San Diego St. VS Creighton
+WINNER: San Diego St., 6.815533675057837
+Iowa VS Richmond
+WINNER: Iowa, 13.129840750324487
+Providence VS South Dakota St.
+WINNER: Providence, 2.6718536939336905
+LSU VS Iowa St.
+WINNER: LSU, 1.251770651139041
+Wisconsin VS Colgate
+WINNER: Wisconsin, 12.627515943693412
+Southern California VS Miami (FL)
+WINNER: Southern California, 2.660555966370526
+Auburn VS Jacksonville St.
+WINNER: Auburn, 18.896227692357844
+ROUND 2
+Gonzaga VS Memphis
+WINNER: Gonzaga, 10.004501195293921
+UConn VS Arkansas
+WINNER: UConn, 3.137855702667468
+Alabama VS Texas Tech
+WINNER: Texas Tech, 5.727891175073113
+Davidson VS Duke
+WINNER: Duke, 7.4079529253639
+Baylor VS North Carolina
+WINNER: Baylor, 13.775442752085937
+Indiana VS UCLA
+WINNER: UCLA, 5.012108902279239
+Texas VS Purdue
+WINNER: Texas, 0.8561113451645549
+San Francisco VS Kentucky
+WINNER: Kentucky, 7.230209002768226
+Arizona VS Seton Hall
+WINNER: Arizona, 12.782940608717816
+Houston VS Illinois
+WINNER: Houston, 16.78985083587544
+Michigan VS Tennessee
+WINNER: Tennessee, 5.933613554234133
+Ohio St. VS Villanova
+WINNER: Villanova, 4.018990290777592
+Kansas VS San Diego St.
+WINNER: Kansas, 13.511390460775704
+Iowa VS Providence
+WINNER: Iowa, 5.987000338202903
+LSU VS Wisconsin
+WINNER: LSU, 1.361537658599364
+Southern California VS Auburn
+WINNER: Auburn, 9.885070585431949
+ROUND 3
+Gonzaga VS UConn
+WINNER: Gonzaga, 6.890888414197005
+Texas Tech VS Duke
+WINNER: Duke, 5.900123929055853
+Baylor VS UCLA
+WINNER: Baylor, 3.0861177924401106
+Texas VS Kentucky
+WINNER: Kentucky, 8.364215647030269
+Arizona VS Houston
+WINNER: Houston, 6.657227503662053
+Tennessee VS Villanova
+WINNER: Villanova, 5.650113309476566
+Kansas VS Iowa
+WINNER: Kansas, 10.815878639262907
+LSU VS Auburn
+WINNER: Auburn, 3.083898069498322
+ROUND 4
+Gonzaga VS Duke
+WINNER: Duke, 1.0990981865308194
+Baylor VS Kentucky
+WINNER: Kentucky, 4.258701035614128
+Houston VS Villanova
+WINNER: Villanova, 0.4922816282938021
+Kansas VS Auburn
+WINNER: Auburn, 1.192601249314522
+ROUND 5
+Duke VS Kentucky
+WINNER: Kentucky, 2.6346419483295023
+Villanova VS Auburn
+WINNER: Villanova, 2.246799751957852
+ROUND 6
+Kentucky VS Villanova
+WINNER: Villanova, 5.1017520706369925
